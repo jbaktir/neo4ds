@@ -1,0 +1,2367 @@
+u_id,u_name,v_id,v_name,type
+1284,"Abbott, Master. Eugene Joseph",280,"Abbott, Mrs. Stanton (Rosa Hunt)",MOTHER
+1284,"Abbott, Master. Eugene Joseph",747,"Abbott, Mr. Rossmore Edward",FATHER
+747,"Abbott, Mr. Rossmore Edward",1284,"Abbott, Master. Eugene Joseph",SON
+747,"Abbott, Mr. Rossmore Edward",280,"Abbott, Mrs. Stanton (Rosa Hunt)",WIFE
+280,"Abbott, Mrs. Stanton (Rosa Hunt)",1284,"Abbott, Master. Eugene Joseph",SON
+280,"Abbott, Mrs. Stanton (Rosa Hunt)",747,"Abbott, Mr. Rossmore Edward",HUSBAND
+949,"Abelseth, Mr. Olaus Jorgensen",700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",SAME_CABIN
+309,"Abelson, Mr. Samuel",875,"Abelson, Mrs. Samuel (Hannah Wizosky)",WIFE
+875,"Abelson, Mrs. Samuel (Hannah Wizosky)",309,"Abelson, Mr. Samuel",HUSBAND
+1143,"Abrahamsson, Mr. Abraham August Johannes",480,"Hirvonen, Miss. Hildur E",CONNECTED
+1143,"Abrahamsson, Mr. Abraham August Johannes",896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",CONNECTED
+1143,"Abrahamsson, Mr. Abraham August Johannes",665,"Lindqvist, Mr. Eino William",CONNECTED
+402,"Adams, Mr. John",665,"Lindqvist, Mr. Eino William",CONNECTED
+41,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",443,"Petterson, Mr. Johan Emil",BROTHER
+1199,"Aks, Master. Philip Frank",856,"Aks, Mrs. Sam (Leah Rosen)",MOTHER
+856,"Aks, Mrs. Sam (Leah Rosen)",1199,"Aks, Master. Philip Frank",SON
+208,"Albimona, Mr. Nassef Cassem",525,"Kassem, Mr. Fared",RELATIVE
+208,"Albimona, Mr. Nassef Cassem",732,"Hassan, Mr. Houssein G N",RELATIVE
+970,"Aldworth, Mr. Charles Augustus",764,"Carter, Mrs. William Ernest (Lucile Polk)",EMPLOYER
+970,"Aldworth, Mr. Charles Augustus",391,"Carter, Mr. William Ernest",EMPLOYER
+785,"Ali, Mr. William",202,"Sage, Mr. Frederick",CONNECTED
+785,"Ali, Mr. William",412,"Hart, Mr. Henry",CONNECTED
+785,"Ali, Mr. William",917,"Robins, Mr. Alexander A",CONNECTED
+785,"Ali, Mr. William",1008,"Thomas, Mr. John",CONNECTED
+785,"Ali, Mr. William",758,"Bailey, Mr. Percy Andrew",CONNECTED
+785,"Ali, Mr. William",777,"Tobin, Mr. Roger",CONNECTED
+785,"Ali, Mr. William",865,"Gill, Mr. John William",CONNECTED
+731,"Allen, Miss. Elisabeth Walton",1216,"Kreuchen, Miss. Emilie",EMPLOYEE
+731,"Allen, Miss. Elisabeth Walton",780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",AUNT
+731,"Allen, Miss. Elisabeth Walton",690,"Madill, Miss. Georgette Alexandra",COUSIN
+306,"Allison, Master. Hudson Trevor",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",MOTHER
+306,"Allison, Master. Hudson Trevor",709,"Cleaver, Miss. Alice",NURSEMAID
+306,"Allison, Master. Hudson Trevor",1033,"Daniels, Miss. Sarah",EMPLOYEE
+306,"Allison, Master. Hudson Trevor",298,"Allison, Miss. Helen Loraine",SISTER
+306,"Allison, Master. Hudson Trevor",1198,"Allison, Mr. Hudson Joshua Creighton",FATHER
+298,"Allison, Miss. Helen Loraine",1198,"Allison, Mr. Hudson Joshua Creighton",FATHER
+298,"Allison, Miss. Helen Loraine",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",MOTHER
+298,"Allison, Miss. Helen Loraine",709,"Cleaver, Miss. Alice",EMPLOYEE
+298,"Allison, Miss. Helen Loraine",306,"Allison, Master. Hudson Trevor",BROTHER
+298,"Allison, Miss. Helen Loraine",1033,"Daniels, Miss. Sarah",EMPLOYEE
+1198,"Allison, Mr. Hudson Joshua Creighton",1001,"Swane, Mr. George",EMPLOYEE
+1198,"Allison, Mr. Hudson Joshua Creighton",306,"Allison, Master. Hudson Trevor",SON
+1198,"Allison, Mr. Hudson Joshua Creighton",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",WIFE
+1198,"Allison, Mr. Hudson Joshua Creighton",298,"Allison, Miss. Helen Loraine",DAUGHTER
+1198,"Allison, Mr. Hudson Joshua Creighton",709,"Cleaver, Miss. Alice",EMPLOYEE
+1198,"Allison, Mr. Hudson Joshua Creighton",1033,"Daniels, Miss. Sarah",EMPLOYER
+1198,"Allison, Mr. Hudson Joshua Creighton",346,"Brown, Miss. Amelia ""Mildred""",EMPLOYEE
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",1033,"Daniels, Miss. Sarah",EMPLOYEE
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",1001,"Swane, Mr. George",EMPLOYEE
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",346,"Brown, Miss. Amelia ""Mildred""",EMPLOYEE
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",1198,"Allison, Mr. Hudson Joshua Creighton",HUSBAND
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",306,"Allison, Master. Hudson Trevor",SON
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",298,"Allison, Miss. Helen Loraine",DAUGHTER
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",709,"Cleaver, Miss. Alice",NURSE
+193,"Andersen-Jensen, Miss. Carla Christine Nielsine",641,"Jensen, Mr. Hans Peder",FIANCE
+193,"Andersen-Jensen, Miss. Carla Christine Nielsine",772,"Jensen, Mr. Niels Peder",UNCLE
+193,"Andersen-Jensen, Miss. Carla Christine Nielsine",722,"Jensen, Mr. Svend Lauritz",BROTHER
+1102,"Andersen, Mr. Albert Karvin",509,"Olsen, Mr. Henry Margido",CONNECTED
+1102,"Andersen, Mr. Albert Karvin",997,"Holthen, Mr. Johan Martin",CONNECTED
+851,"Andersson, Master. Sigvard Harald Elias",543,"Andersson, Miss. Sigrid Elisabeth",SISTER
+851,"Andersson, Master. Sigvard Harald Elias",542,"Andersson, Miss. Ingeborg Constanzia",SISTER
+851,"Andersson, Master. Sigvard Harald Elias",14,"Andersson, Mr. Anders Johan",FATHER
+851,"Andersson, Master. Sigvard Harald Elias",814,"Andersson, Miss. Ebba Iris Alfrida",SISTER
+851,"Andersson, Master. Sigvard Harald Elias",120,"Andersson, Miss. Ellis Anna Maria",SISTER
+851,"Andersson, Master. Sigvard Harald Elias",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",MOTHER
+814,"Andersson, Miss. Ebba Iris Alfrida",14,"Andersson, Mr. Anders Johan",FATHER
+814,"Andersson, Miss. Ebba Iris Alfrida",542,"Andersson, Miss. Ingeborg Constanzia",SISTER
+814,"Andersson, Miss. Ebba Iris Alfrida",120,"Andersson, Miss. Ellis Anna Maria",SISTER
+814,"Andersson, Miss. Ebba Iris Alfrida",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",MOTHER
+814,"Andersson, Miss. Ebba Iris Alfrida",851,"Andersson, Master. Sigvard Harald Elias",BROTHER
+814,"Andersson, Miss. Ebba Iris Alfrida",543,"Andersson, Miss. Sigrid Elisabeth",SISTER
+120,"Andersson, Miss. Ellis Anna Maria",542,"Andersson, Miss. Ingeborg Constanzia",SISTER
+120,"Andersson, Miss. Ellis Anna Maria",814,"Andersson, Miss. Ebba Iris Alfrida",SISTER
+120,"Andersson, Miss. Ellis Anna Maria",543,"Andersson, Miss. Sigrid Elisabeth",SISTER
+120,"Andersson, Miss. Ellis Anna Maria",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",MOTHER
+120,"Andersson, Miss. Ellis Anna Maria",851,"Andersson, Master. Sigvard Harald Elias",BROTHER
+120,"Andersson, Miss. Ellis Anna Maria",14,"Andersson, Mr. Anders Johan",FATHER
+69,"Andersson, Miss. Erna Alexandra",105,"Gustafsson, Mr. Anders Vilhelm",EMPLOYER
+69,"Andersson, Miss. Erna Alexandra",86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",EMPLOYER
+69,"Andersson, Miss. Erna Alexandra",393,"Gustafsson, Mr. Johan Birger",EMPLOYER
+69,"Andersson, Miss. Erna Alexandra",207,"Backstrom, Mr. Karl Alfred",EMPLOYER
+542,"Andersson, Miss. Ingeborg Constanzia",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",MOTHER
+542,"Andersson, Miss. Ingeborg Constanzia",851,"Andersson, Master. Sigvard Harald Elias",BROTHER
+542,"Andersson, Miss. Ingeborg Constanzia",814,"Andersson, Miss. Ebba Iris Alfrida",SISTER
+542,"Andersson, Miss. Ingeborg Constanzia",14,"Andersson, Mr. Anders Johan",FATHER
+542,"Andersson, Miss. Ingeborg Constanzia",120,"Andersson, Miss. Ellis Anna Maria",SISTER
+542,"Andersson, Miss. Ingeborg Constanzia",543,"Andersson, Miss. Sigrid Elisabeth",SISTER
+543,"Andersson, Miss. Sigrid Elisabeth",542,"Andersson, Miss. Ingeborg Constanzia",SISTER
+543,"Andersson, Miss. Sigrid Elisabeth",851,"Andersson, Master. Sigvard Harald Elias",BROTHER
+543,"Andersson, Miss. Sigrid Elisabeth",14,"Andersson, Mr. Anders Johan",FATHER
+543,"Andersson, Miss. Sigrid Elisabeth",120,"Andersson, Miss. Ellis Anna Maria",SISTER
+543,"Andersson, Miss. Sigrid Elisabeth",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",MOTHER
+543,"Andersson, Miss. Sigrid Elisabeth",814,"Andersson, Miss. Ebba Iris Alfrida",SISTER
+14,"Andersson, Mr. Anders Johan",814,"Andersson, Miss. Ebba Iris Alfrida",DAUGHTER
+14,"Andersson, Mr. Anders Johan",542,"Andersson, Miss. Ingeborg Constanzia",DAUGHTER
+14,"Andersson, Mr. Anders Johan",617,"Danbom, Mr. Ernst Gilbert",BROTHER-IN-LAW
+14,"Andersson, Mr. Anders Johan",543,"Andersson, Miss. Sigrid Elisabeth",DAUGHTER
+14,"Andersson, Mr. Anders Johan",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",WIFE
+14,"Andersson, Mr. Anders Johan",851,"Andersson, Master. Sigvard Harald Elias",SON
+14,"Andersson, Mr. Anders Johan",142,"Nysten, Miss. Anna Sofia",CONNECTED
+14,"Andersson, Mr. Anders Johan",424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",SISTER-IN-LAW
+14,"Andersson, Mr. Anders Johan",120,"Andersson, Miss. Ellis Anna Maria",DAUGHTER
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",14,"Andersson, Mr. Anders Johan",HUSBAND
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",851,"Andersson, Master. Sigvard Harald Elias",SON
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",SISTER
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",120,"Andersson, Miss. Ellis Anna Maria",DAUGHTER
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",543,"Andersson, Miss. Sigrid Elisabeth",DAUGHTER
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",617,"Danbom, Mr. Ernst Gilbert",BROTHER-IN-LAW
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",814,"Andersson, Miss. Ebba Iris Alfrida",DAUGHTER
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",142,"Nysten, Miss. Anna Sofia",CONNECTED
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",542,"Andersson, Miss. Ingeborg Constanzia",DAUGHTER
+92,"Andreasson, Mr. Paul Edvin",570,"Jonsson, Mr. Carl",COMPANION
+92,"Andreasson, Mr. Paul Edvin",1191,"Johansson, Mr. Nils",COMPANION
+92,"Andreasson, Mr. Paul Edvin",834,"Augustsson, Mr. Albert",COMPANION
+92,"Andreasson, Mr. Paul Edvin",1049,"Lundin, Miss. Olga Elida",COMPANION
+276,"Andrews, Miss. Kornelia Theodosia",766,"Hogeboom, Mrs. John C (Anna Andrews)",SISTER
+276,"Andrews, Miss. Kornelia Theodosia",628,"Longley, Miss. Gretchen Fiske",NIECE
+807,"Andrews, Mr. Thomas Jr",675,"Watson, Mr. Ennis Hastings",EMPLOYEE
+807,"Andrews, Mr. Thomas Jr",733,"Knight, Mr. Robert J",EMPLOYEE
+807,"Andrews, Mr. Thomas Jr",467,"Campbell, Mr. William",EMPLOYEE
+807,"Andrews, Mr. Thomas Jr",278,"Parkes, Mr. Francis ""Frank""",EMPLOYEE
+807,"Andrews, Mr. Thomas Jr",24,"Sloper, Mr. William Thompson",EMPLOYEE
+807,"Andrews, Mr. Thomas Jr",414,"Cunningham, Mr. Alfred Fleming",EMPLOYEE
+807,"Andrews, Mr. Thomas Jr",1158,"Chisholm, Mr. Roderick Robert Crispin",EMPLOYEE
+807,"Andrews, Mr. Thomas Jr",482,"Frost, Mr. Anthony Wood ""Archie""",EMPLOYEE
+1082,"Angle, Mr. William A",519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",WIFE
+519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",1082,"Angle, Mr. William A",HUSBAND
+572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",SISTER
+572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",SISTER
+354,"Arnold-Franchi, Mr. Josef",294,"Haas, Miss. Aloisia",COUSIN
+354,"Arnold-Franchi, Mr. Josef",423,"Zimmerman, Mr. Leo",SHARED_CABIN
+354,"Arnold-Franchi, Mr. Josef",1286,"Kink-Heilmann, Mr. Anton",SHARED_CABIN
+354,"Arnold-Franchi, Mr. Josef",895,"Wirz, Mr. Albert",SHARED_CABIN
+354,"Arnold-Franchi, Mr. Josef",1146,"Wenzel, Mr. Linhart",SHARED_CABIN
+354,"Arnold-Franchi, Mr. Josef",50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",WIFE
+354,"Arnold-Franchi, Mr. Josef",70,"Kink, Mr. Vincenz",SHARED_CABIN
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",185,"Kink-Heilmann, Miss. Luise Gretchen",SHARED_CABIN
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",1268,"Kink, Miss. Maria",SHARED_CABIN
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",354,"Arnold-Franchi, Mr. Josef",HUSBAND
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",SHARED_CABIN
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",294,"Haas, Miss. Aloisia",SHARED_CABIN
+1278,"Aronsson, Mr. Ernst Axel Algot",676,"Edvardsson, Mr. Gustaf Hjalmar",COUSIN
+1271,"Asplund, Master. Carl Edgar",1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",FATHER
+1271,"Asplund, Master. Carl Edgar",1046,"Asplund, Master. Filip Oscar",BROTHER
+1271,"Asplund, Master. Carl Edgar",26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",MOTHER
+1271,"Asplund, Master. Carl Edgar",234,"Asplund, Miss. Lillian Gertrud",SISTER
+1271,"Asplund, Master. Carl Edgar",262,"Asplund, Master. Edvin Rojj Felix",BROTHER
+1271,"Asplund, Master. Carl Edgar",183,"Asplund, Master. Clarence Gustaf Hugo",BROTHER
+183,"Asplund, Master. Clarence Gustaf Hugo",1046,"Asplund, Master. Filip Oscar",BROTHER
+183,"Asplund, Master. Clarence Gustaf Hugo",1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",FATHER
+183,"Asplund, Master. Clarence Gustaf Hugo",234,"Asplund, Miss. Lillian Gertrud",SISTER
+183,"Asplund, Master. Clarence Gustaf Hugo",262,"Asplund, Master. Edvin Rojj Felix",BROTHER
+183,"Asplund, Master. Clarence Gustaf Hugo",1271,"Asplund, Master. Carl Edgar",BROTHER
+183,"Asplund, Master. Clarence Gustaf Hugo",26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",MOTHER
+262,"Asplund, Master. Edvin Rojj Felix",1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",FATHER
+262,"Asplund, Master. Edvin Rojj Felix",183,"Asplund, Master. Clarence Gustaf Hugo",BROTHER
+262,"Asplund, Master. Edvin Rojj Felix",234,"Asplund, Miss. Lillian Gertrud",SISTER
+262,"Asplund, Master. Edvin Rojj Felix",26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",MOTHER
+262,"Asplund, Master. Edvin Rojj Felix",1046,"Asplund, Master. Filip Oscar",BROTHER
+262,"Asplund, Master. Edvin Rojj Felix",1271,"Asplund, Master. Carl Edgar",BROTHER
+1046,"Asplund, Master. Filip Oscar",234,"Asplund, Miss. Lillian Gertrud",SISTER
+1046,"Asplund, Master. Filip Oscar",183,"Asplund, Master. Clarence Gustaf Hugo",BROTHER
+1046,"Asplund, Master. Filip Oscar",26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",MOTHER
+1046,"Asplund, Master. Filip Oscar",262,"Asplund, Master. Edvin Rojj Felix",BROTHER
+1046,"Asplund, Master. Filip Oscar",1271,"Asplund, Master. Carl Edgar",BROTHER
+1046,"Asplund, Master. Filip Oscar",1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",FATHER
+234,"Asplund, Miss. Lillian Gertrud",1271,"Asplund, Master. Carl Edgar",BROTHER
+234,"Asplund, Miss. Lillian Gertrud",1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",FATHER
+234,"Asplund, Miss. Lillian Gertrud",1046,"Asplund, Master. Filip Oscar",BROTHER
+234,"Asplund, Miss. Lillian Gertrud",262,"Asplund, Master. Edvin Rojj Felix",BROTHER
+234,"Asplund, Miss. Lillian Gertrud",26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",MOTHER
+234,"Asplund, Miss. Lillian Gertrud",183,"Asplund, Master. Clarence Gustaf Hugo",BROTHER
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",262,"Asplund, Master. Edvin Rojj Felix",SON
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",234,"Asplund, Miss. Lillian Gertrud",DAUGHTER
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",1046,"Asplund, Master. Filip Oscar",SON
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",1271,"Asplund, Master. Carl Edgar",SON
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",WIFE
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",183,"Asplund, Master. Clarence Gustaf Hugo",SON
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",183,"Asplund, Master. Clarence Gustaf Hugo",SON
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",1046,"Asplund, Master. Filip Oscar",SON
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",1271,"Asplund, Master. Carl Edgar",SON
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",262,"Asplund, Master. Edvin Rojj Felix",SON
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",234,"Asplund, Miss. Lillian Gertrud",DAUGHTER
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",HUSBAND
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",123,"Nasser, Mr. Nicholas",CONNECTED
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",694,"Saad, Mr. Khalil",NEPHEW
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",909,"Assaf, Mr. Gerios",COUSIN
+909,"Assaf, Mr. Gerios",911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",COUSIN
+909,"Assaf, Mr. Gerios",694,"Saad, Mr. Khalil",RELATIVE
+1094,"Astor, Col. John Jacob",558,"Robbins, Mr. Victor",VALET
+1094,"Astor, Col. John Jacob",381,"Bidois, Miss. Rosalie",EMPLOYEE
+1094,"Astor, Col. John Jacob",717,"Endres, Miss. Caroline Louise",EMPLOYEE
+1094,"Astor, Col. John Jacob",701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",WIFE
+701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",1094,"Astor, Col. John Jacob",HUSBAND
+701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",717,"Endres, Miss. Caroline Louise",NURSE
+701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",381,"Bidois, Miss. Rosalie",MAID
+701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",558,"Robbins, Mr. Victor",CONNECTED
+115,"Attalah, Miss. Malake",799,"Ibrahim Shawah, Mr. Yousseff",CONNECTED
+115,"Attalah, Miss. Malake",496,"Yousseff, Mr. Gerious",SAME_TICKET
+370,"Aubart, Mme. Leontine Pauline",642,"Sagesser, Mlle. Emma",CONNECTED
+370,"Aubart, Mme. Leontine Pauline",790,"Guggenheim, Mr. Benjamin",CONNECTED
+834,"Augustsson, Mr. Albert",570,"Jonsson, Mr. Carl",COMPANION
+834,"Augustsson, Mr. Albert",92,"Andreasson, Mr. Paul Edvin",COMPANION
+834,"Augustsson, Mr. Albert",1191,"Johansson, Mr. Nils",COMPANION
+834,"Augustsson, Mr. Albert",1049,"Lundin, Miss. Olga Elida",COMPANION
+781,"Ayoub, Miss. Banoura",569,"Doharr, Mr. Tannous",RELATIVE
+781,"Ayoub, Miss. Banoura",204,"Youseff, Mr. Gerious",RELATIVE
+781,"Ayoub, Miss. Banoura",569,"Doharr, Mr. Tannous",RELATIVE
+781,"Ayoub, Miss. Banoura",569,"Doharr, Mr. Tannous",CONNECTED
+781,"Ayoub, Miss. Banoura",1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",CONNECTED
+207,"Backstrom, Mr. Karl Alfred",69,"Andersson, Miss. Erna Alexandra",CONNECTED
+207,"Backstrom, Mr. Karl Alfred",86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",WIFE
+86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",69,"Andersson, Miss. Erna Alexandra",CONNECTED
+86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",207,"Backstrom, Mr. Karl Alfred",HUSBAND
+645,"Baclini, Miss. Eugenie",859,"Baclini, Mrs. Solomon (Latifa Qurban)",MOTHER
+645,"Baclini, Miss. Eugenie",449,"Baclini, Miss. Marie Catherine",SISTER
+645,"Baclini, Miss. Eugenie",470,"Baclini, Miss. Helene Barbara",SISTER
+470,"Baclini, Miss. Helene Barbara",859,"Baclini, Mrs. Solomon (Latifa Qurban)",MOTHER
+470,"Baclini, Miss. Helene Barbara",645,"Baclini, Miss. Eugenie",SISTER
+470,"Baclini, Miss. Helene Barbara",449,"Baclini, Miss. Marie Catherine",SISTER
+449,"Baclini, Miss. Marie Catherine",859,"Baclini, Mrs. Solomon (Latifa Qurban)",MOTHER
+449,"Baclini, Miss. Marie Catherine",645,"Baclini, Miss. Eugenie",SISTER
+449,"Baclini, Miss. Marie Catherine",470,"Baclini, Miss. Helene Barbara",SISTER
+859,"Baclini, Mrs. Solomon (Latifa Qurban)",470,"Baclini, Miss. Helene Barbara",DAUGHTER
+859,"Baclini, Mrs. Solomon (Latifa Qurban)",645,"Baclini, Miss. Eugenie",DAUGHTER
+859,"Baclini, Mrs. Solomon (Latifa Qurban)",449,"Baclini, Miss. Marie Catherine",DAUGHTER
+758,"Bailey, Mr. Percy Andrew",1269,"Cotterill, Mr. Henry Harry""""",FRIEND
+758,"Bailey, Mr. Percy Andrew",530,"Hocking, Mr. Richard George",FRIEND
+758,"Bailey, Mr. Percy Andrew",1008,"Thomas, Mr. John",CONNECTED
+758,"Bailey, Mr. Percy Andrew",412,"Hart, Mr. Henry",CONNECTED
+758,"Bailey, Mr. Percy Andrew",865,"Gill, Mr. John William",CONNECTED
+758,"Bailey, Mr. Percy Andrew",202,"Sage, Mr. Frederick",CONNECTED
+758,"Bailey, Mr. Percy Andrew",917,"Robins, Mr. Alexander A",CONNECTED
+758,"Bailey, Mr. Percy Andrew",785,"Ali, Mr. William",CONNECTED
+758,"Bailey, Mr. Percy Andrew",777,"Tobin, Mr. Roger",CONNECTED
+871,"Balkic, Mr. Cerin",109,"Rekic, Mr. Tido",CONNECTED
+871,"Balkic, Mr. Cerin",562,"Sivic, Mr. Husein",CONNECTED
+871,"Balkic, Mr. Cerin",1101,"Delalic, Mr. Redjo",CONNECTED
+328,"Ball, Mrs. (Ada E Hall)",151,"Bateman, Rev. Robert James",CONNECTED
+328,"Ball, Mrs. (Ada E Hall)",474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",CONNECTED
+328,"Ball, Mrs. (Ada E Hall)",293,"Levy, Mr. Rene Jacques",SAME_CABIN
+328,"Ball, Mrs. (Ada E Hall)",1193,"Malachard, Mr. Noel",SAME_CABIN
+703,"Barbara, Miss. Saiide",363,"Barbara, Mrs. (Catherine David)",MOTHER
+363,"Barbara, Mrs. (Catherine David)",703,"Barbara, Miss. Saiide",DAUGHTER
+291,"Barber, Miss. Ellen ""Nellie""",988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",CONNECTED
+291,"Barber, Miss. Ellen ""Nellie""",742,"Cavendish, Mr. Tyrell William",CONNECTED
+151,"Bateman, Rev. Robert James",328,"Ball, Mrs. (Ada E Hall)",CONNECTED
+119,"Baxter, Mr. Quigg Edmond",1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",SISTER
+119,"Baxter, Mr. Quigg Edmond",300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",WIFE
+300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",119,"Baxter, Mr. Quigg Edmond",HUSBAND
+300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",DAUGHTER
+219,"Bazzani, Miss. Albina",940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",EMPLOYER
+544,"Beane, Mr. Edward",547,"Beane, Mrs. Edward (Ethel Clarke)",WIFE
+547,"Beane, Mrs. Edward (Ethel Clarke)",544,"Beane, Mr. Edward",HUSBAND
+1010,"Beattie, Mr. Thomson",1162,"McCaffry, Mr. Thomas Francis",CONNECTED
+1035,"Beauchamp, Mr. Henry James",552,"Sharp, Mr. Percival James R",CONNECTED
+184,"Becker, Master. Richard F",1218,"Becker, Miss. Ruth Elizabeth",SISTER
+184,"Becker, Master. Richard F",619,"Becker, Miss. Marion Louise",SISTER
+184,"Becker, Master. Richard F",1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",MOTHER
+619,"Becker, Miss. Marion Louise",1218,"Becker, Miss. Ruth Elizabeth",SISTER
+619,"Becker, Miss. Marion Louise",184,"Becker, Master. Richard F",BROTHER
+619,"Becker, Miss. Marion Louise",1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",MOTHER
+1218,"Becker, Miss. Ruth Elizabeth",184,"Becker, Master. Richard F",BROTHER
+1218,"Becker, Miss. Ruth Elizabeth",1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",MOTHER
+1218,"Becker, Miss. Ruth Elizabeth",619,"Becker, Miss. Marion Louise",SISTER
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",1218,"Becker, Miss. Ruth Elizabeth",DAUGHTER
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",619,"Becker, Miss. Marion Louise",DAUGHTER
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",184,"Becker, Master. Richard F",SON
+249,"Beckwith, Mr. Richard Leonard",872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",WIFE
+249,"Beckwith, Mr. Richard Leonard",137,"Newsom, Miss. Helen Monypeny",STEPDAUGHTER
+872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",249,"Beckwith, Mr. Richard Leonard",HUSBAND
+872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",137,"Newsom, Miss. Helen Monypeny",DAUGHTER
+1150,"Bentham, Miss. Lilian W",1230,"Denbury, Mr. Herbert",CONNECTED
+1150,"Bentham, Miss. Lilian W",923,"Jefferys, Mr. Clifford Thomas",CONNECTED
+1150,"Bentham, Miss. Lilian W",57,"Rugg, Miss. Emily",CONNECTED
+1150,"Bentham, Miss. Lilian W",583,"Downton, Mr. William James",GODFATHER
+1150,"Bentham, Miss. Lilian W",727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",CONNECTED
+1150,"Bentham, Miss. Lilian W",477,"Renouf, Mr. Peter Henry",CONNECTED
+1150,"Bentham, Miss. Lilian W",1211,"Jefferys, Mr. Ernest Wilfred",CONNECTED
+1150,"Bentham, Miss. Lilian W",398,"McKane, Mr. Peter David",CONNECTED
+381,"Bidois, Miss. Rosalie",701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",EMPLOYER
+381,"Bidois, Miss. Rosalie",1094,"Astor, Col. John Jacob",EMPLOYER
+381,"Bidois, Miss. Rosalie",558,"Robbins, Mr. Victor",CONNECTED
+381,"Bidois, Miss. Rosalie",717,"Endres, Miss. Caroline Louise",CONNECTED
+75,"Bing, Mr. Lee",931,"Hee, Mr. Ling",CONNECTED
+75,"Bing, Mr. Lee",170,"Ling, Mr. Lee",CONNECTED
+75,"Bing, Mr. Lee",644,"Foo, Mr. Choong",CONNECTED
+75,"Bing, Mr. Lee",839,"Chip, Mr. Chang",CONNECTED
+75,"Bing, Mr. Lee",827,"Lam, Mr. Len",CONNECTED
+75,"Bing, Mr. Lee",693,"Lam, Mr. Ali",CONNECTED
+75,"Bing, Mr. Lee",510,"Lang, Mr. Fang",CONNECTED
+1048,"Bird, Miss. Ellen",1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",EMPLOYER
+1048,"Bird, Miss. Ellen",973,"Straus, Mr. Isidor",EMPLOYER
+1048,"Bird, Miss. Ellen",528,"Farthing, Mr. John",CONNECTED
+409,"Birkeland, Mr. Hans Martin Monsen",108,"Moss, Mr. Albert Johan",CONNECTED
+409,"Birkeland, Mr. Hans Martin Monsen",668,"Rommetvedt, Mr. Knud Paust",CONNECTED
+485,"Bishop, Mr. Dickinson H",292,"Bishop, Mrs. Dickinson H (Helen Walton)",WIFE
+292,"Bishop, Mrs. Dickinson H (Helen Walton)",485,"Bishop, Mr. Dickinson H",HUSBAND
+270,"Bissette, Miss. Amelia",326,"Young, Miss. Marie Grice",CONNECTED
+270,"Bissette, Miss. Amelia",374,"Ringhini, Mr. Sante",CONNECTED
+270,"Bissette, Miss. Amelia",1206,"White, Mrs. John Stuart (Ella Holmes)",CONNECTED
+431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",56,"Woolner, Mr. Hugh",SAME_CABIN
+340,"Blackwell, Mr. Stephen Weart",868,"Roebling, Mr. Washington Augustus II",CONNECTED
+1292,"Bonnell, Miss. Caroline",319,"Wick, Miss. Mary Natalie",CONNECTED
+1292,"Bonnell, Miss. Caroline",857,"Wick, Mrs. George Dennick (Mary Hitchcock)",CONNECTED
+1292,"Bonnell, Miss. Caroline",1109,"Wick, Mr. George Dennick",CONNECTED
+1292,"Bonnell, Miss. Caroline",12,"Bonnell, Miss. Elizabeth",SISTER
+12,"Bonnell, Miss. Elizabeth",1292,"Bonnell, Miss. Caroline",SISTER
+972,"Boulos, Master. Akar",141,"Boulos, Mrs. Joseph (Sultana)",MOTHER
+972,"Boulos, Master. Akar",853,"Boulos, Miss. Nourelain",SISTER
+853,"Boulos, Miss. Nourelain",972,"Boulos, Master. Akar",BROTHER
+853,"Boulos, Miss. Nourelain",141,"Boulos, Mrs. Joseph (Sultana)",MOTHER
+141,"Boulos, Mrs. Joseph (Sultana)",853,"Boulos, Miss. Nourelain",DAUGHTER
+141,"Boulos, Mrs. Joseph (Sultana)",972,"Boulos, Master. Akar",SON
+189,"Bourke, Mr. John",658,"Bourke, Mrs. John (Catherine)",WIFE
+658,"Bourke, Mrs. John (Catherine)",189,"Bourke, Mr. John",HUSBAND
+1267,"Bowen, Miss. Grace Scott",951,"Chaudanson, Miss. Victorine",CONNECTED
+1267,"Bowen, Miss. Grace Scott",956,"Ryerson, Master. John Borie",CONNECTED
+1267,"Bowen, Miss. Grace Scott",743,"Ryerson, Miss. Susan Parker ""Suzette""",CONNECTED
+1267,"Bowen, Miss. Grace Scott",1034,"Ryerson, Mr. Arthur Larned",EMPLOYER
+1267,"Bowen, Miss. Grace Scott",916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",EMPLOYER
+1267,"Bowen, Miss. Grace Scott",312,"Ryerson, Miss. Emily Borie",CONNECTED
+625,"Bowen, Mr. David John ""Dai""",736,"Williams, Mr. Leslie",CONNECTED
+357,"Bowerman, Miss. Elsie Edith",167,"Chibnall, Mrs. (Edith Martha Bowerman)",CONNECTED
+990,"Braf, Miss. Elin Ester Maria",316,"Nilsson, Miss. Helmina Josefina",CONNECTED
+478,"Braund, Mr. Lewis Richard",1,"Braund, Mr. Owen Harris",BROTHER
+478,"Braund, Mr. Lewis Richard",743,"Ryerson, Miss. Susan Parker ""Suzette""",WEBBER
+478,"Braund, Mr. Lewis Richard",228,"Lovell, Mr. John Hall (""Henry"")",COUSIN
+478,"Braund, Mr. Lewis Richard",213,"Perkin, Mr. John Henry",COUSIN
+478,"Braund, Mr. Lewis Richard",321,"Dennis, Mr. Samuel",COUSIN
+1,"Braund, Mr. Owen Harris",1177,"Dennis, Mr. William",COUSIN
+1,"Braund, Mr. Owen Harris",213,"Perkin, Mr. John Henry",COUSIN
+1,"Braund, Mr. Owen Harris",228,"Lovell, Mr. John Hall (""Henry"")",COUSIN
+1,"Braund, Mr. Owen Harris",321,"Dennis, Mr. Samuel",COUSIN
+1,"Braund, Mr. Owen Harris",743,"Ryerson, Miss. Susan Parker ""Suzette""",WEBBER
+1,"Braund, Mr. Owen Harris",478,"Braund, Mr. Lewis Richard",BROTHER
+346,"Brown, Miss. Amelia ""Mildred""",1001,"Swane, Mr. George",CONNECTED
+346,"Brown, Miss. Amelia ""Mildred""",67,"Nye, Mrs. (Elizabeth Ramell)",COMPANION
+346,"Brown, Miss. Amelia ""Mildred""",1198,"Allison, Mr. Hudson Joshua Creighton",EMPLOYER
+346,"Brown, Miss. Amelia ""Mildred""",517,"Lemore, Mrs. (Amelia Milley)",COMPANION
+346,"Brown, Miss. Amelia ""Mildred""",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",EMPLOYER
+346,"Brown, Miss. Amelia ""Mildred""",1114,"Cook, Mrs. (Selena Rogers)",COMPANION
+1067,"Brown, Miss. Edith Eileen",671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",MOTHER
+1067,"Brown, Miss. Edith Eileen",685,"Brown, Mr. Thomas William Solomon",FATHER
+685,"Brown, Mr. Thomas William Solomon",1067,"Brown, Miss. Edith Eileen",DAUGHTER
+685,"Brown, Mr. Thomas William Solomon",671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",WIFE
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",SISTER
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",SISTER
+671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",1067,"Brown, Miss. Edith Eileen",DAUGHTER
+671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",685,"Brown, Mr. Thomas William Solomon",HUSBAND
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",1221,"Enander, Mr. Ingvar",COMPANION
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",729,"Bryhl, Mr. Kurt Arnold Gottfrid",FATHER
+729,"Bryhl, Mr. Kurt Arnold Gottfrid",1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",DAUGHTER
+940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",219,"Bazzani, Miss. Albina",EMPLOYEE
+144,"Burke, Mr. Jeremiah",655,"Hegarty, Miss. Hanora ""Nora""",COUSIN
+338,"Burns, Miss. Elizabeth Margaret",320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",EMPLOYER
+338,"Burns, Miss. Elizabeth Margaret",1134,"Spedden, Mr. Frederic Oakley",EMPLOYER
+338,"Burns, Miss. Elizabeth Margaret",1263,"Wilson, Miss. Helen Alice",CONNECTED
+338,"Burns, Miss. Elizabeth Margaret",1088,"Spedden, Master. Robert Douglas",CONNECTED
+958,"Burns, Miss. Mary Delia",45,"Devaney, Miss. Margaret Delia",CONNECTED
+958,"Burns, Miss. Mary Delia",1207,"Hagardon, Miss. Kate",CONNECTED
+388,"Buss, Miss. Kate",1196,"McCarthy, Miss. Catherine Katie""""",CONNECTED
+388,"Buss, Miss. Kate",777,"Tobin, Mr. Roger",CONNECTED
+388,"Buss, Miss. Kate",681,"Peters, Miss. Katie",CONNECTED
+929,"Cacic, Miss. Manda",472,"Cacic, Mr. Luka",FATHER
+929,"Cacic, Miss. Manda",1202,"Cacic, Mr. Jego Grga",FATHER
+929,"Cacic, Miss. Manda",535,"Cacic, Miss. Marija",SISTER
+535,"Cacic, Miss. Marija",472,"Cacic, Mr. Luka",FATHER
+535,"Cacic, Miss. Marija",1202,"Cacic, Mr. Jego Grga",FATHER
+535,"Cacic, Miss. Marija",929,"Cacic, Miss. Manda",SISTER
+1202,"Cacic, Mr. Jego Grga",929,"Cacic, Miss. Manda",DAUGHTER
+1202,"Cacic, Mr. Jego Grga",472,"Cacic, Mr. Luka",CONNECTED
+1202,"Cacic, Mr. Jego Grga",535,"Cacic, Miss. Marija",DAUGHTER
+472,"Cacic, Mr. Luka",929,"Cacic, Miss. Manda",DAUGHTER
+472,"Cacic, Mr. Luka",1202,"Cacic, Mr. Jego Grga",CONNECTED
+472,"Cacic, Mr. Luka",535,"Cacic, Miss. Marija",DAUGHTER
+271,"Cairns, Mr. Alexander",764,"Carter, Mrs. William Ernest (Lucile Polk)",EMPLOYER
+271,"Cairns, Mr. Alexander",843,"Serepeca, Miss. Augusta",CONNECTED
+708,"Calderhead, Mr. Edward Pennington",702,"Silverthorne, Mr. Spencer Victor",COMPANION
+79,"Caldwell, Master. Alden Gates",969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",MOTHER
+79,"Caldwell, Master. Alden Gates",899,"Caldwell, Mr. Albert Francis",FATHER
+899,"Caldwell, Mr. Albert Francis",969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",WIFE
+899,"Caldwell, Mr. Albert Francis",79,"Caldwell, Master. Alden Gates",SON
+164,"Calic, Mr. Jovo",501,"Calic, Mr. Petar",CONNECTED
+501,"Calic, Mr. Petar",164,"Calic, Mr. Jovo",CONNECTED
+212,"Cameron, Miss. Clear Annie",1241,"Walcroft, Miss. Nellie",CONNECTED
+467,"Campbell, Mr. William",1158,"Chisholm, Mr. Roderick Robert Crispin",CONNECTED
+467,"Campbell, Mr. William",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+467,"Campbell, Mr. William",675,"Watson, Mr. Ennis Hastings",CONNECTED
+467,"Campbell, Mr. William",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+467,"Campbell, Mr. William",24,"Sloper, Mr. William Thompson",CONNECTED
+467,"Campbell, Mr. William",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+467,"Campbell, Mr. William",807,"Andrews, Mr. Thomas Jr",CONNECTED
+467,"Campbell, Mr. William",733,"Knight, Mr. Robert J",CONNECTED
+467,"Campbell, Mr. William",482,"Frost, Mr. Anthony Wood ""Archie""",CONNECTED
+467,"Campbell, Mr. William",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+1258,"Caram, Mr. Joseph",579,"Caram, Mrs. Joseph (Maria Elias)",WIFE
+579,"Caram, Mrs. Joseph (Maria Elias)",1258,"Caram, Mr. Joseph",HUSBAND
+680,"Cardeza, Mr. Thomas Drake Martinez",259,"Ward, Miss. Anna",MAID
+680,"Cardeza, Mr. Thomas Drake Martinez",1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",WIFE
+680,"Cardeza, Mr. Thomas Drake Martinez",738,"Lesurer, Mr. Gustave J",VALET
+680,"Cardeza, Mr. Thomas Drake Martinez",873,"Carlsson, Mr. Frans Olof",SAME_CABIN
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",680,"Cardeza, Mr. Thomas Drake Martinez",HUSBAND
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",738,"Lesurer, Mr. Gustave J",CONNECTED
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",259,"Ward, Miss. Anna",MAID
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",873,"Carlsson, Mr. Frans Olof",SAME_CABIN
+873,"Carlsson, Mr. Frans Olof",680,"Cardeza, Mr. Thomas Drake Martinez",SAME_CABIN
+873,"Carlsson, Mr. Frans Olof",1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",SAME_CABIN
+84,"Carrau, Mr. Francisco M",1295,"Carrau, Mr. Jose Pedro",CONNECTED
+1295,"Carrau, Mr. Jose Pedro",84,"Carrau, Mr. Francisco M",CONNECTED
+803,"Carter, Master. William Thornton II",436,"Carter, Miss. Lucile Polk",SISTER
+803,"Carter, Master. William Thornton II",764,"Carter, Mrs. William Ernest (Lucile Polk)",MOTHER
+803,"Carter, Master. William Thornton II",391,"Carter, Mr. William Ernest",FATHER
+436,"Carter, Miss. Lucile Polk",803,"Carter, Master. William Thornton II",BROTHER
+436,"Carter, Miss. Lucile Polk",764,"Carter, Mrs. William Ernest (Lucile Polk)",MOTHER
+436,"Carter, Miss. Lucile Polk",391,"Carter, Mr. William Ernest",FATHER
+391,"Carter, Mr. William Ernest",436,"Carter, Miss. Lucile Polk",DAUGHTER
+391,"Carter, Mr. William Ernest",970,"Aldworth, Mr. Charles Augustus",CHAUFFEUR
+391,"Carter, Mr. William Ernest",803,"Carter, Master. William Thornton II",SON
+391,"Carter, Mr. William Ernest",764,"Carter, Mrs. William Ernest (Lucile Polk)",WIFE
+855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",250,"Carter, Rev. Ernest Courtenay",CONNECTED
+764,"Carter, Mrs. William Ernest (Lucile Polk)",970,"Aldworth, Mr. Charles Augustus",EMPLOYEE
+764,"Carter, Mrs. William Ernest (Lucile Polk)",843,"Serepeca, Miss. Augusta",MAID
+764,"Carter, Mrs. William Ernest (Lucile Polk)",391,"Carter, Mr. William Ernest",HUSBAND
+764,"Carter, Mrs. William Ernest (Lucile Polk)",271,"Cairns, Mr. Alexander",EMPLOYEE
+764,"Carter, Mrs. William Ernest (Lucile Polk)",803,"Carter, Master. William Thornton II",SON
+764,"Carter, Mrs. William Ernest (Lucile Polk)",436,"Carter, Miss. Lucile Polk",DAUGHTER
+250,"Carter, Rev. Ernest Courtenay",855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",CONNECTED
+1015,"Carver, Mr. Alfred John",180,"Leonard, Mr. Lionel",CONNECTED
+1015,"Carver, Mr. Alfred John",1044,"Storey, Mr. Thomas",CONNECTED
+1015,"Carver, Mr. Alfred John",303,"Johnson, Mr. William Cahoone Jr",CONNECTED
+1015,"Carver, Mr. Alfred John",598,"Johnson, Mr. Alfred",CONNECTED
+1015,"Carver, Mr. Alfred John",440,"Kvillner, Mr. Johan Henrik Johannesson",CONNECTED
+742,"Cavendish, Mr. Tyrell William",291,"Barber, Miss. Ellen ""Nellie""",CONNECTED
+742,"Cavendish, Mr. Tyrell William",988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",WIFE
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",742,"Cavendish, Mr. Tyrell William",HUSBAND
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",291,"Barber, Miss. Ellen ""Nellie""",CONNECTED
+93,"Chaffee, Mr. Herbert Fuller",906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",WIFE
+906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",93,"Chaffee, Mr. Herbert Fuller",HUSBAND
+725,"Chambers, Mr. Norman Campbell",810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",WIFE
+810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",725,"Chambers, Mr. Norman Campbell",HUSBAND
+595,"Chapman, Mr. John Henry",1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",WIFE
+1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",595,"Chapman, Mr. John Henry",HUSBAND
+951,"Chaudanson, Miss. Victorine",1034,"Ryerson, Mr. Arthur Larned",EMPLOYER
+951,"Chaudanson, Miss. Victorine",743,"Ryerson, Miss. Susan Parker ""Suzette""",CONNECTED
+951,"Chaudanson, Miss. Victorine",916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",EMPLOYER
+951,"Chaudanson, Miss. Victorine",1267,"Bowen, Miss. Grace Scott",CONNECTED
+951,"Chaudanson, Miss. Victorine",312,"Ryerson, Miss. Emily Borie",CONNECTED
+951,"Chaudanson, Miss. Victorine",956,"Ryerson, Master. John Borie",CONNECTED
+258,"Cherry, Miss. Gladys",760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",CONNECTED
+258,"Cherry, Miss. Gladys",760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",CONNECTED
+258,"Cherry, Miss. Gladys",337,"Pears, Mr. Thomas Clinton",UNCLE
+258,"Cherry, Miss. Gladys",505,"Maioni, Miss. Roberta",CONNECTED
+167,"Chibnall, Mrs. (Edith Martha Bowerman)",357,"Bowerman, Miss. Elsie Edith",CONNECTED
+839,"Chip, Mr. Chang",170,"Ling, Mr. Lee",CONNECTED
+839,"Chip, Mr. Chang",693,"Lam, Mr. Ali",CONNECTED
+839,"Chip, Mr. Chang",827,"Lam, Mr. Len",CONNECTED
+839,"Chip, Mr. Chang",644,"Foo, Mr. Choong",CONNECTED
+839,"Chip, Mr. Chang",931,"Hee, Mr. Ling",CONNECTED
+839,"Chip, Mr. Chang",510,"Lang, Mr. Fang",CONNECTED
+839,"Chip, Mr. Chang",75,"Bing, Mr. Lee",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",467,"Campbell, Mr. William",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",482,"Frost, Mr. Anthony Wood ""Archie""",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",24,"Sloper, Mr. William Thompson",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",675,"Watson, Mr. Ennis Hastings",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",807,"Andrews, Mr. Thomas Jr",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",733,"Knight, Mr. Robert J",CONNECTED
+1158,"Chisholm, Mr. Roderick Robert Crispin",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+581,"Christy, Miss. Julie Rachel",1133,"Christy, Mrs. (Alice Frances)",MOTHER
+581,"Christy, Miss. Julie Rachel",218,"Jacobsohn, Mr. Sidney Samuel",CONNECTED
+581,"Christy, Miss. Julie Rachel",1133,"Christy, Mrs. (Alice Frances)",MOTHER
+581,"Christy, Miss. Julie Rachel",601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",CONNECTED
+1133,"Christy, Mrs. (Alice Frances)",218,"Jacobsohn, Mr. Sidney Samuel",CONNECTED
+1133,"Christy, Mrs. (Alice Frances)",581,"Christy, Miss. Julie Rachel",DAUGHTER
+1133,"Christy, Mrs. (Alice Frances)",581,"Christy, Miss. Julie Rachel",DAUGHTER
+1133,"Christy, Mrs. (Alice Frances)",601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",CONNECTED
+74,"Chronopoulos, Mr. Apostolos",1007,"Chronopoulos, Mr. Demetrios",BROTHER
+1007,"Chronopoulos, Mr. Demetrios",74,"Chronopoulos, Mr. Apostolos",BROTHER
+1144,"Clark, Mr. Walter Miller",1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",WIFE
+1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",1144,"Clark, Mr. Walter Miller",HUSBAND
+1220,"Clarke, Mr. Charles Valentine",427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",WIFE
+427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",1220,"Clarke, Mr. Charles Valentine",HUSBAND
+709,"Cleaver, Miss. Alice",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",EMPLOYER
+709,"Cleaver, Miss. Alice",1198,"Allison, Mr. Hudson Joshua Creighton",EMPLOYER
+709,"Cleaver, Miss. Alice",1001,"Swane, Mr. George",CONNECTED
+709,"Cleaver, Miss. Alice",306,"Allison, Master. Hudson Trevor",CONNECTED
+709,"Cleaver, Miss. Alice",1033,"Daniels, Miss. Sarah",CONNECTED
+709,"Cleaver, Miss. Alice",298,"Allison, Miss. Helen Loraine",CONNECTED
+476,"Clifford, Mr. George Quincy",1227,"Maguire, Mr. John Edward",CONNECTED
+476,"Clifford, Mr. George Quincy",111,"Porter, Mr. Walter Chamberlain",CONNECTED
+664,"Coleff, Mr. Peju",878,"Petroff, Mr. Nedelio",CONNECTED
+664,"Coleff, Mr. Peju",848,"Markoff, Mr. Marin",CONNECTED
+664,"Coleff, Mr. Peju",288,"Naidenoff, Mr. Penko",CONNECTED
+664,"Coleff, Mr. Peju",567,"Stoytcheff, Mr. Ilia",CONNECTED
+664,"Coleff, Mr. Peju",754,"Jonkoff, Mr. Lalio",CONNECTED
+664,"Coleff, Mr. Peju",963,"Minkoff, Mr. Lazar",CONNECTED
+664,"Coleff, Mr. Peju",106,"Mionoff, Mr. Stoytcho",CONNECTED
+238,"Collyer, Miss. Marjorie ""Lottie""",638,"Collyer, Mr. Harvey",FATHER
+238,"Collyer, Miss. Marjorie ""Lottie""",802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",MOTHER
+638,"Collyer, Mr. Harvey",802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",WIFE
+638,"Collyer, Mr. Harvey",238,"Collyer, Miss. Marjorie ""Lottie""",DAUGHTER
+802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",638,"Collyer, Mr. Harvey",HUSBAND
+802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",238,"Collyer, Miss. Marjorie ""Lottie""",DAUGHTER
+836,"Compton, Miss. Sara Rebecca",1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",MOTHER
+836,"Compton, Miss. Sara Rebecca",1073,"Compton, Mr. Alexander Taylor Jr",FATHER
+1073,"Compton, Mr. Alexander Taylor Jr",1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",WIFE
+1073,"Compton, Mr. Alexander Taylor Jr",836,"Compton, Miss. Sara Rebecca",DAUGHTER
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",1073,"Compton, Mr. Alexander Taylor Jr",HUSBAND
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",836,"Compton, Miss. Sara Rebecca",DAUGHTER
+1114,"Cook, Mrs. (Selena Rogers)",67,"Nye, Mrs. (Elizabeth Ramell)",COMPANION
+1114,"Cook, Mrs. (Selena Rogers)",346,"Brown, Miss. Amelia ""Mildred""",COMPANION
+1114,"Cook, Mrs. (Selena Rogers)",517,"Lemore, Mrs. (Amelia Milley)",COMPANION
+948,"Cor, Mr. Bartol",1226,"Cor, Mr. Ivan",CONNECTED
+948,"Cor, Mr. Bartol",647,"Cor, Mr. Liudevit",CONNECTED
+1226,"Cor, Mr. Ivan",647,"Cor, Mr. Liudevit",CONNECTED
+1226,"Cor, Mr. Ivan",948,"Cor, Mr. Bartol",CONNECTED
+647,"Cor, Mr. Liudevit",1226,"Cor, Mr. Ivan",CONNECTED
+647,"Cor, Mr. Liudevit",948,"Cor, Mr. Bartol",CONNECTED
+957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",1138,"Karnes, Mrs. J Frank (Claire Bennett)",CONNECTED
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",899,"Caldwell, Mr. Albert Francis",HUSBAND
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",79,"Caldwell, Master. Alden Gates",SON
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",SISTER
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",SISTER
+1269,"Cotterill, Mr. Henry Harry""""",530,"Hocking, Mr. Richard George",FRIEND
+1269,"Cotterill, Mr. Henry Harry""""",758,"Bailey, Mr. Percy Andrew",FRIEND
+490,"Coutts, Master. Eden Leslie ""Neville""",941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",MOTHER
+490,"Coutts, Master. Eden Leslie ""Neville""",349,"Coutts, Master. William Loch ""William""",BROTHER
+349,"Coutts, Master. William Loch ""William""",490,"Coutts, Master. Eden Leslie ""Neville""",BROTHER
+349,"Coutts, Master. William Loch ""William""",941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",MOTHER
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",490,"Coutts, Master. Eden Leslie ""Neville""",SON
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",349,"Coutts, Master. William Loch ""William""",SON
+68,"Crease, Mr. Ernest James",495,"Stanley, Mr. Edward Roland",IN-LAW
+1017,"Cribb, Miss. Laura Alice",161,"Cribb, Mr. John Hatfield",FATHER
+161,"Cribb, Mr. John Hatfield",1017,"Cribb, Miss. Laura Alice",DAUGHTER
+746,"Crosby, Capt. Edward Gifford",541,"Crosby, Miss. Harriet R",DAUGHTER
+746,"Crosby, Capt. Edward Gifford",1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",CONNECTED
+541,"Crosby, Miss. Harriet R",1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",MOTHER
+541,"Crosby, Miss. Harriet R",746,"Crosby, Capt. Edward Gifford",FATHER
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",746,"Crosby, Capt. Edward Gifford",CONNECTED
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",541,"Crosby, Miss. Harriet R",DAUGHTER
+1126,"Cumings, Mr. John Bradley",2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",WIFE
+2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",1126,"Cumings, Mr. John Bradley",HUSBAND
+414,"Cunningham, Mr. Alfred Fleming",807,"Andrews, Mr. Thomas Jr",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",24,"Sloper, Mr. William Thompson",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",467,"Campbell, Mr. William",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",482,"Frost, Mr. Anthony Wood ""Archie""",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",467,"Campbell, Mr. William",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",1158,"Chisholm, Mr. Roderick Robert Crispin",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",675,"Watson, Mr. Ennis Hastings",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",733,"Knight, Mr. Robert J",CONNECTED
+414,"Cunningham, Mr. Alfred Fleming",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+883,"Dahlberg, Miss. Gerda Ulrika",1049,"Lundin, Miss. Olga Elida",CONNECTED
+1183,"Daly, Miss. Margaret Marcella Maggie""""",511,"Daly, Mr. Eugene Patrick",FATHER
+1183,"Daly, Miss. Margaret Marcella Maggie""""",962,"Mulvihill, Miss. Bertha E",CONNECTED
+511,"Daly, Mr. Eugene Patrick",962,"Mulvihill, Miss. Bertha E",CONNECTED
+511,"Daly, Mr. Eugene Patrick",1183,"Daly, Miss. Margaret Marcella Maggie""""",DAUGHTER
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",MOTHER
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",617,"Danbom, Mr. Ernst Gilbert",FATHER
+617,"Danbom, Mr. Ernst Gilbert",617,"Danbom, Mr. Ernst Gilbert",CONNECTED
+617,"Danbom, Mr. Ernst Gilbert",142,"Nysten, Miss. Anna Sofia",CONNECTED
+617,"Danbom, Mr. Ernst Gilbert",424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",WIFE
+617,"Danbom, Mr. Ernst Gilbert",14,"Andersson, Mr. Anders Johan",CONNECTED
+617,"Danbom, Mr. Ernst Gilbert",1093,"Danbom, Master. Gilbert Sigvard Emanuel",SON
+424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",14,"Andersson, Mr. Anders Johan",CONNECTED
+424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",617,"Danbom, Mr. Ernst Gilbert",HUSBAND
+424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",SISTER
+424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",1093,"Danbom, Master. Gilbert Sigvard Emanuel",SON
+424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",142,"Nysten, Miss. Anna Sofia",CONNECTED
+1033,"Daniels, Miss. Sarah",1198,"Allison, Mr. Hudson Joshua Creighton",CONNECTED
+1033,"Daniels, Miss. Sarah",298,"Allison, Miss. Helen Loraine",CONNECTED
+1033,"Daniels, Miss. Sarah",306,"Allison, Master. Hudson Trevor",CONNECTED
+1033,"Daniels, Miss. Sarah",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",EMPLOYER
+1033,"Daniels, Miss. Sarah",709,"Cleaver, Miss. Alice",CONNECTED
+672,"Davidson, Mr. Thornton",984,"Davidson, Mrs. Thornton (Orian Hays)",WIFE
+984,"Davidson, Mrs. Thornton (Orian Hays)",672,"Davidson, Mr. Thornton",HUSBAND
+550,"Davies, Master. John Morgan Jr",1068,"Sincock, Miss. Maude",CONNECTED
+550,"Davies, Master. John Morgan Jr",1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",MOTHER
+550,"Davies, Master. John Morgan Jr",1078,"Phillips, Miss. Alice Frances Louisa",SHARED_CABIN
+550,"Davies, Master. John Morgan Jr",146,"Nicholls, Mr. Joseph Charles",CONNECTED
+566,"Davies, Mr. Alfred J",901,"Davies, Mr. John Samuel",CONNECTED
+566,"Davies, Mr. Alfred J",1079,"Davies, Mr. Joseph",BROTHER
+566,"Davies, Mr. Alfred J",812,"Lester, Mr. James",CONNECTED
+386,"Davies, Mr. Charles Henry",656,"Hickman, Mr. Leonard Mark",CONNECTED
+386,"Davies, Mr. Charles Henry",666,"Hickman, Mr. Lewis",CONNECTED
+386,"Davies, Mr. Charles Henry",1104,"Deacon, Mr. Percy William",CONNECTED
+386,"Davies, Mr. Charles Henry",1244,"Dibden, Mr. William",CONNECTED
+386,"Davies, Mr. Charles Henry",73,"Hood, Mr. Ambrose Jr",CONNECTED
+386,"Davies, Mr. Charles Henry",121,"Hickman, Mr. Stanley George",CONNECTED
+901,"Davies, Mr. John Samuel",812,"Lester, Mr. James",CONNECTED
+901,"Davies, Mr. John Samuel",566,"Davies, Mr. Alfred J",CONNECTED
+901,"Davies, Mr. John Samuel",1079,"Davies, Mr. Joseph",BROTHER
+1079,"Davies, Mr. Joseph",812,"Lester, Mr. James",UNCLE
+1079,"Davies, Mr. Joseph",901,"Davies, Mr. John Samuel",BROTHER
+1079,"Davies, Mr. Joseph",566,"Davies, Mr. Alfred J",BROTHER
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1078,"Phillips, Miss. Alice Frances Louisa",SHARED_CABIN
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",550,"Davies, Master. John Morgan Jr",SON
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1068,"Sincock, Miss. Maude",CONNECTED
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",146,"Nicholls, Mr. Joseph Charles",CONNECTED
+636,"Davis, Miss. Mary",527,"Ridsdale, Miss. Lucy",CONNECTED
+950,"Davison, Mr. Thomas Henry",348,"Davison, Mrs. Thomas Henry (Mary E Finck)",WIFE
+348,"Davison, Mrs. Thomas Henry (Mary E Finck)",950,"Davison, Mr. Thomas Henry",HUSBAND
+1152,"de Messemaeker, Mr. Guillaume Joseph",560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",WIFE
+560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",1152,"de Messemaeker, Mr. Guillaume Joseph",HUSBAND
+1104,"Deacon, Mr. Percy William",121,"Hickman, Mr. Stanley George",CONNECTED
+1104,"Deacon, Mr. Percy William",1244,"Dibden, Mr. William",CONNECTED
+1104,"Deacon, Mr. Percy William",666,"Hickman, Mr. Lewis",CONNECTED
+1104,"Deacon, Mr. Percy William",656,"Hickman, Mr. Leonard Mark",CONNECTED
+1104,"Deacon, Mr. Percy William",73,"Hood, Mr. Ambrose Jr",CONNECTED
+1104,"Deacon, Mr. Percy William",386,"Davies, Mr. Charles Henry",CONNECTED
+789,"Dean, Master. Bertram Vere",1246,"Dean, Miss. Elizabeth Gladys Millvina""""",SISTER
+789,"Dean, Master. Bertram Vere",94,"Dean, Mr. Bertram Frank",FATHER
+789,"Dean, Master. Bertram Vere",924,"Dean, Mrs. Bertram (Eva Georgetta Light)",MOTHER
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",924,"Dean, Mrs. Bertram (Eva Georgetta Light)",MOTHER
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",789,"Dean, Master. Bertram Vere",BROTHER
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",94,"Dean, Mr. Bertram Frank",FATHER
+94,"Dean, Mr. Bertram Frank",924,"Dean, Mrs. Bertram (Eva Georgetta Light)",WIFE
+94,"Dean, Mr. Bertram Frank",789,"Dean, Master. Bertram Vere",SON
+94,"Dean, Mr. Bertram Frank",1246,"Dean, Miss. Elizabeth Gladys Millvina""""",DAUGHTER
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",789,"Dean, Master. Bertram Vere",SON
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",1246,"Dean, Miss. Elizabeth Gladys Millvina""""",DAUGHTER
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",94,"Dean, Mr. Bertram Frank",HUSBAND
+362,"del Carlo, Mr. Sebastiano",907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",WIFE
+907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",362,"del Carlo, Mr. Sebastiano",HUSBAND
+1101,"Delalic, Mr. Redjo",562,"Sivic, Mr. Husein",CONNECTED
+1101,"Delalic, Mr. Redjo",871,"Balkic, Mr. Cerin",CONNECTED
+1101,"Delalic, Mr. Redjo",109,"Rekic, Mr. Tido",CONNECTED
+1230,"Denbury, Mr. Herbert",1211,"Jefferys, Mr. Ernest Wilfred",CONNECTED
+1230,"Denbury, Mr. Herbert",923,"Jefferys, Mr. Clifford Thomas",CONNECTED
+1230,"Denbury, Mr. Herbert",398,"McKane, Mr. Peter David",CONNECTED
+1230,"Denbury, Mr. Herbert",1150,"Bentham, Miss. Lilian W",CONNECTED
+321,"Dennis, Mr. Samuel",1,"Braund, Mr. Owen Harris",COUSIN
+321,"Dennis, Mr. Samuel",478,"Braund, Mr. Lewis Richard",COUSIN
+321,"Dennis, Mr. Samuel",1177,"Dennis, Mr. William",BROTHER
+1177,"Dennis, Mr. William",321,"Dennis, Mr. Samuel",BROTHER
+1177,"Dennis, Mr. William",1,"Braund, Mr. Owen Harris",COUSIN
+45,"Devaney, Miss. Margaret Delia",1207,"Hagardon, Miss. Kate",CONNECTED
+45,"Devaney, Miss. Margaret Delia",958,"Burns, Miss. Mary Delia",CONNECTED
+1244,"Dibden, Mr. William",1104,"Deacon, Mr. Percy William",CONNECTED
+1244,"Dibden, Mr. William",386,"Davies, Mr. Charles Henry",CONNECTED
+1244,"Dibden, Mr. William",656,"Hickman, Mr. Leonard Mark",CONNECTED
+1244,"Dibden, Mr. William",121,"Hickman, Mr. Stanley George",CONNECTED
+1244,"Dibden, Mr. William",73,"Hood, Mr. Ambrose Jr",CONNECTED
+1244,"Dibden, Mr. William",666,"Hickman, Mr. Lewis",CONNECTED
+691,"Dick, Mr. Albert Adrian",782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",WIFE
+782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",691,"Dick, Mr. Albert Adrian",HUSBAND
+1185,"Dodge, Dr. Washington",1266,"Dodge, Mrs. Washington (Ruth Vidaver)",WIFE
+1185,"Dodge, Dr. Washington",446,"Dodge, Master. Washington",SON
+446,"Dodge, Master. Washington",1185,"Dodge, Dr. Washington",FATHER
+446,"Dodge, Master. Washington",1266,"Dodge, Mrs. Washington (Ruth Vidaver)",MOTHER
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",1185,"Dodge, Dr. Washington",HUSBAND
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",446,"Dodge, Master. Washington",SON
+569,"Doharr, Mr. Tannous",204,"Youseff, Mr. Gerious",COUSIN
+569,"Doharr, Mr. Tannous",569,"Doharr, Mr. Tannous",CONNECTED
+569,"Doharr, Mr. Tannous",1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",COUSIN
+569,"Doharr, Mr. Tannous",781,"Ayoub, Miss. Banoura",RELATIVE
+569,"Doharr, Mr. Tannous",569,"Doharr, Mr. Tannous",CONNECTED
+569,"Doharr, Mr. Tannous",204,"Youseff, Mr. Gerious",CONNECTED
+569,"Doharr, Mr. Tannous",781,"Ayoub, Miss. Banoura",CONNECTED
+569,"Doharr, Mr. Tannous",569,"Doharr, Mr. Tannous",FATHER
+569,"Doharr, Mr. Tannous",569,"Doharr, Mr. Tannous",CONNECTED
+569,"Doharr, Mr. Tannous",1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",CONNECTED
+569,"Doharr, Mr. Tannous",569,"Doharr, Mr. Tannous",CONNECTED
+569,"Doharr, Mr. Tannous",1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",COUSIN
+569,"Doharr, Mr. Tannous",569,"Doharr, Mr. Tannous",SON
+569,"Doharr, Mr. Tannous",781,"Ayoub, Miss. Banoura",RELATIVE
+652,"Doling, Miss. Elsie",99,"Doling, Mrs. John T (Ada Julia Bone)",MOTHER
+652,"Doling, Miss. Elsie",724,"Hodges, Mr. Henry Price",CONNECTED
+99,"Doling, Mrs. John T (Ada Julia Bone)",652,"Doling, Miss. Elsie",DAUGHTER
+99,"Doling, Mrs. John T (Ada Julia Bone)",724,"Hodges, Mr. Henry Price",CONNECTED
+545,"Douglas, Mr. Walter Donald",1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",WIFE
+545,"Douglas, Mr. Walter Donald",538,"LeRoy, Miss. Bertha",MAID
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",MOTHER
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",119,"Baxter, Mr. Quigg Edmond",BROTHER
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",545,"Douglas, Mr. Walter Donald",HUSBAND
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",538,"LeRoy, Miss. Bertha",MAID
+80,"Dowdell, Miss. Elizabeth",778,"Emanuel, Miss. Virginia Ethel",CONNECTED
+583,"Downton, Mr. William James",398,"McKane, Mr. Peter David",CONNECTED
+583,"Downton, Mr. William James",1150,"Bentham, Miss. Lilian W",CONNECTED
+971,"Doyle, Miss. Elizabeth",197,"Mernagh, Mr. Robert",COUSIN
+1086,"Drew, Master. Marshall Brines",417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",MOTHER
+1086,"Drew, Master. Marshall Brines",1139,"Drew, Mr. James Vivian",FATHER
+1139,"Drew, Mr. James Vivian",1081,"Veal, Mr. James",CONNECTED
+1139,"Drew, Mr. James Vivian",1086,"Drew, Master. Marshall Brines",SON
+1139,"Drew, Mr. James Vivian",417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",WIFE
+417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1139,"Drew, Mr. James Vivian",HUSBAND
+417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1086,"Drew, Master. Marshall Brines",SON
+417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",1081,"Veal, Mr. James",CONNECTED
+557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",310,"Francatelli, Miss. Laura Mabel",CONNECTED
+557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",HUSBAND
+600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",WIFE
+600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",310,"Francatelli, Miss. Laura Mabel",SAME_TICKET
+1047,"Duquemin, Mr. Joseph",571,"Harris, Mr. George",CONNECTED
+1047,"Duquemin, Mr. Joseph",305,"Williams, Mr. Howard Hugh ""Harry""",CONNECTED
+867,"Duran y More, Miss. Asuncion",1112,"Duran y More, Miss. Florentina",SISTER
+1112,"Duran y More, Miss. Florentina",867,"Duran y More, Miss. Asuncion",SISTER
+1064,"Dyker, Mr. Adolf Fredrik",982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",WIFE
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",1064,"Dyker, Mr. Adolf Fredrik",HUSBAND
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",MOTHER
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",311,"Hays, Miss. Margaret Bechstein",CONNECTED
+676,"Edvardsson, Mr. Gustaf Hjalmar",1278,"Aronsson, Mr. Ernst Axel Algot",CONNECTED
+130,"Ekstrom, Mr. Johan",632,"Lundahl, Mr. Johan Svensson",FATHER
+1229,"Elias, Mr. Joseph",353,"Elias, Mr. Tannous",SON
+1229,"Elias, Mr. Joseph",1229,"Elias, Mr. Joseph",SON
+1229,"Elias, Mr. Joseph",1229,"Elias, Mr. Joseph",FATHER
+1229,"Elias, Mr. Joseph",353,"Elias, Mr. Tannous",BROTHER
+353,"Elias, Mr. Tannous",1229,"Elias, Mr. Joseph",BROTHER
+353,"Elias, Mr. Tannous",1229,"Elias, Mr. Joseph",FATHER
+778,"Emanuel, Miss. Virginia Ethel",80,"Dowdell, Miss. Elizabeth",CONNECTED
+1221,"Enander, Mr. Ingvar",1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",COMPANION
+717,"Endres, Miss. Caroline Louise",1094,"Astor, Col. John Jacob",EMPLOYER
+717,"Endres, Miss. Caroline Louise",701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",CONNECTED
+717,"Endres, Miss. Caroline Louise",558,"Robbins, Mr. Victor",CONNECTED
+717,"Endres, Miss. Caroline Louise",381,"Bidois, Miss. Rosalie",CONNECTED
+497,"Eustis, Miss. Elizabeth Mussey",592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",SISTER
+1120,"Everett, Mr. Thomas James",498,"Shellard, Mr. Frederick William",CONNECTED
+528,"Farthing, Mr. John",973,"Straus, Mr. Isidor",EMPLOYER
+528,"Farthing, Mr. John",1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",CONNECTED
+528,"Farthing, Mr. John",1048,"Bird, Miss. Ellen",CONNECTED
+1169,"Faunthorpe, Mr. Harry",54,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",WIFE
+54,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",1169,"Faunthorpe, Mr. Harry",HUSBAND
+307,"Fleming, Miss. Margaret",582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",CONNECTED
+307,"Fleming, Miss. Margaret",699,"Thayer, Mr. John Borland",CONNECTED
+307,"Fleming, Miss. Margaret",699,"Thayer, Mr. John Borland",CONNECTED
+644,"Foo, Mr. Choong",827,"Lam, Mr. Len",CONNECTED
+644,"Foo, Mr. Choong",170,"Ling, Mr. Lee",CONNECTED
+644,"Foo, Mr. Choong",693,"Lam, Mr. Ali",CONNECTED
+644,"Foo, Mr. Choong",510,"Lang, Mr. Fang",CONNECTED
+644,"Foo, Mr. Choong",931,"Hee, Mr. Ling",CONNECTED
+644,"Foo, Mr. Choong",75,"Bing, Mr. Lee",CONNECTED
+644,"Foo, Mr. Choong",839,"Chip, Mr. Chang",CONNECTED
+437,"Ford, Miss. Doolina Margaret ""Daisy""",148,"Ford, Miss. Robina Maggie ""Ruby""",SISTER
+437,"Ford, Miss. Doolina Margaret ""Daisy""",1059,"Ford, Mr. Edward Watson",FATHER
+437,"Ford, Miss. Doolina Margaret ""Daisy""",1136,"Johnston, Master. William Arthur Willie""""",COUSIN
+437,"Ford, Miss. Doolina Margaret ""Daisy""",737,"Ford, Mrs. Edward (Margaret Ann Watson)",MOTHER
+437,"Ford, Miss. Doolina Margaret ""Daisy""",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",AUNT
+437,"Ford, Miss. Doolina Margaret ""Daisy""",87,"Ford, Mr. William Neal",FATHER
+437,"Ford, Miss. Doolina Margaret ""Daisy""",889,"Johnston, Miss. Catherine Helen ""Carrie""",COUSIN
+437,"Ford, Miss. Doolina Margaret ""Daisy""",784,"Johnston, Mr. Andrew G",UNCLE
+437,"Ford, Miss. Doolina Margaret ""Daisy""",236,"Harknett, Miss. Alice Phoebe",CONNECTED
+148,"Ford, Miss. Robina Maggie ""Ruby""",737,"Ford, Mrs. Edward (Margaret Ann Watson)",MOTHER
+148,"Ford, Miss. Robina Maggie ""Ruby""",1059,"Ford, Mr. Edward Watson",FATHER
+148,"Ford, Miss. Robina Maggie ""Ruby""",87,"Ford, Mr. William Neal",FATHER
+148,"Ford, Miss. Robina Maggie ""Ruby""",784,"Johnston, Mr. Andrew G",UNCLE
+148,"Ford, Miss. Robina Maggie ""Ruby""",437,"Ford, Miss. Doolina Margaret ""Daisy""",SISTER
+148,"Ford, Miss. Robina Maggie ""Ruby""",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",AUNT
+1059,"Ford, Mr. Edward Watson",784,"Johnston, Mr. Andrew G",UNCLE
+1059,"Ford, Mr. Edward Watson",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",AUNT
+1059,"Ford, Mr. Edward Watson",737,"Ford, Mrs. Edward (Margaret Ann Watson)",WIFE
+1059,"Ford, Mr. Edward Watson",148,"Ford, Miss. Robina Maggie ""Ruby""",DAUGHTER
+1059,"Ford, Mr. Edward Watson",87,"Ford, Mr. William Neal",CONNECTED
+1059,"Ford, Mr. Edward Watson",437,"Ford, Miss. Doolina Margaret ""Daisy""",DAUGHTER
+87,"Ford, Mr. William Neal",784,"Johnston, Mr. Andrew G",UNCLE
+87,"Ford, Mr. William Neal",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",AUNT
+87,"Ford, Mr. William Neal",437,"Ford, Miss. Doolina Margaret ""Daisy""",DAUGHTER
+87,"Ford, Mr. William Neal",148,"Ford, Miss. Robina Maggie ""Ruby""",DAUGHTER
+87,"Ford, Mr. William Neal",1059,"Ford, Mr. Edward Watson",CONNECTED
+87,"Ford, Mr. William Neal",737,"Ford, Mrs. Edward (Margaret Ann Watson)",WIFE
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",889,"Johnston, Miss. Catherine Helen ""Carrie""",NIECE
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",1059,"Ford, Mr. Edward Watson",HUSBAND
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",87,"Ford, Mr. William Neal",HUSBAND
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",1136,"Johnston, Master. William Arthur Willie""""",NEPHEW
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",784,"Johnston, Mr. Andrew G",CONNECTED
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",437,"Ford, Miss. Doolina Margaret ""Daisy""",DAUGHTER
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",236,"Harknett, Miss. Alice Phoebe",CONNECTED
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",148,"Ford, Miss. Robina Maggie ""Ruby""",DAUGHTER
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",SISTER
+342,"Fortune, Miss. Alice Elizabeth",28,"Fortune, Mr. Charles Alexander",FATHER
+342,"Fortune, Miss. Alice Elizabeth",961,"Fortune, Mrs. Mark (Mary McDougald)",MOTHER
+342,"Fortune, Miss. Alice Elizabeth",945,"Fortune, Miss. Ethel Flora",SISTER
+342,"Fortune, Miss. Alice Elizabeth",439,"Fortune, Mr. Mark",FATHER
+342,"Fortune, Miss. Alice Elizabeth",89,"Fortune, Miss. Mabel Helen",SISTER
+945,"Fortune, Miss. Ethel Flora",961,"Fortune, Mrs. Mark (Mary McDougald)",MOTHER
+945,"Fortune, Miss. Ethel Flora",439,"Fortune, Mr. Mark",FATHER
+945,"Fortune, Miss. Ethel Flora",28,"Fortune, Mr. Charles Alexander",FATHER
+945,"Fortune, Miss. Ethel Flora",89,"Fortune, Miss. Mabel Helen",SISTER
+945,"Fortune, Miss. Ethel Flora",342,"Fortune, Miss. Alice Elizabeth",SISTER
+89,"Fortune, Miss. Mabel Helen",342,"Fortune, Miss. Alice Elizabeth",SISTER
+89,"Fortune, Miss. Mabel Helen",439,"Fortune, Mr. Mark",FATHER
+89,"Fortune, Miss. Mabel Helen",945,"Fortune, Miss. Ethel Flora",SISTER
+89,"Fortune, Miss. Mabel Helen",28,"Fortune, Mr. Charles Alexander",FATHER
+89,"Fortune, Miss. Mabel Helen",961,"Fortune, Mrs. Mark (Mary McDougald)",MOTHER
+28,"Fortune, Mr. Charles Alexander",342,"Fortune, Miss. Alice Elizabeth",DAUGHTER
+28,"Fortune, Mr. Charles Alexander",439,"Fortune, Mr. Mark",FATHER
+28,"Fortune, Mr. Charles Alexander",945,"Fortune, Miss. Ethel Flora",DAUGHTER
+28,"Fortune, Mr. Charles Alexander",89,"Fortune, Miss. Mabel Helen",DAUGHTER
+28,"Fortune, Mr. Charles Alexander",961,"Fortune, Mrs. Mark (Mary McDougald)",WIFE
+439,"Fortune, Mr. Mark",89,"Fortune, Miss. Mabel Helen",DAUGHTER
+439,"Fortune, Mr. Mark",945,"Fortune, Miss. Ethel Flora",DAUGHTER
+439,"Fortune, Mr. Mark",28,"Fortune, Mr. Charles Alexander",SON
+439,"Fortune, Mr. Mark",961,"Fortune, Mrs. Mark (Mary McDougald)",WIFE
+439,"Fortune, Mr. Mark",342,"Fortune, Miss. Alice Elizabeth",DAUGHTER
+961,"Fortune, Mrs. Mark (Mary McDougald)",89,"Fortune, Miss. Mabel Helen",DAUGHTER
+961,"Fortune, Mrs. Mark (Mary McDougald)",439,"Fortune, Mr. Mark",HUSBAND
+961,"Fortune, Mrs. Mark (Mary McDougald)",945,"Fortune, Miss. Ethel Flora",DAUGHTER
+961,"Fortune, Mrs. Mark (Mary McDougald)",342,"Fortune, Miss. Alice Elizabeth",DAUGHTER
+961,"Fortune, Mrs. Mark (Mary McDougald)",28,"Fortune, Mr. Charles Alexander",HUSBAND
+310,"Francatelli, Miss. Laura Mabel",557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",GORDON
+310,"Francatelli, Miss. Laura Mabel",600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",SAME_TICKET
+661,"Frauenthal, Dr. Henry William",335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",WIFE
+335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",661,"Frauenthal, Dr. Henry William",HUSBAND
+588,"Frolicher-Stehli, Mr. Maxmillian",1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",WIFE
+588,"Frolicher-Stehli, Mr. Maxmillian",540,"Frolicher, Miss. Hedwig Margaritha",DAUGHTER
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",588,"Frolicher-Stehli, Mr. Maxmillian",HUSBAND
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",540,"Frolicher, Miss. Hedwig Margaritha",DAUGHTER
+540,"Frolicher, Miss. Hedwig Margaritha",588,"Frolicher-Stehli, Mr. Maxmillian",FATHER
+540,"Frolicher, Miss. Hedwig Margaritha",1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",MOTHER
+482,"Frost, Mr. Anthony Wood ""Archie""",24,"Sloper, Mr. William Thompson",CONNECTED
+482,"Frost, Mr. Anthony Wood ""Archie""",675,"Watson, Mr. Ennis Hastings",CONNECTED
+482,"Frost, Mr. Anthony Wood ""Archie""",467,"Campbell, Mr. William",CONNECTED
+482,"Frost, Mr. Anthony Wood ""Archie""",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+482,"Frost, Mr. Anthony Wood ""Archie""",733,"Knight, Mr. Robert J",CONNECTED
+482,"Frost, Mr. Anthony Wood ""Archie""",1158,"Chisholm, Mr. Roderick Robert Crispin",CONNECTED
+482,"Frost, Mr. Anthony Wood ""Archie""",807,"Andrews, Mr. Thomas Jr",CONNECTED
+482,"Frost, Mr. Anthony Wood ""Archie""",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+816,"Fry, Mr. Richard",1264,"Ismay, Mr. Joseph Bruce",CONNECTED
+138,"Futrelle, Mr. Jacques Heath",4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",WIFE
+4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",138,"Futrelle, Mr. Jacques Heath",HUSBAND
+21,"Fynney, Mr. Joseph J",792,"Gaskell, Mr. Alfred",CONNECTED
+1293,"Gale, Mr. Harry",406,"Gale, Mr. Shadrach",CONNECTED
+406,"Gale, Mr. Shadrach",1293,"Gale, Mr. Harry",CONNECTED
+761,"Garfirth, Mr. John",576,"Patchett, Mr. George",CONNECTED
+792,"Gaskell, Mr. Alfred",21,"Fynney, Mr. Joseph J",CONNECTED
+966,"Geiger, Miss. Amalie",1299,"Widener, Mr. George Dunton",EMPLOYER
+966,"Geiger, Miss. Amalie",967,"Keeping, Mr. Edwin",VALET
+966,"Geiger, Miss. Amalie",378,"Widener, Mr. Harry Elkins",CONNECTED
+966,"Geiger, Miss. Amalie",1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",EMPLOYER
+1294,"Gibson, Miss. Dorothy Winifred",1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",MOTHER
+1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",1294,"Gibson, Miss. Dorothy Winifred",DAUGHTER
+140,"Giglio, Mr. Victor",790,"Guggenheim, Mr. Benjamin",CONNECTED
+1262,"Giles, Mr. Edgar",862,"Giles, Mr. Frederick Edward",BROTHER
+862,"Giles, Mr. Frederick Edward",1262,"Giles, Mr. Edgar",BROTHER
+865,"Gill, Mr. John William",777,"Tobin, Mr. Roger",CONNECTED
+865,"Gill, Mr. John William",412,"Hart, Mr. Henry",CONNECTED
+865,"Gill, Mr. John William",785,"Ali, Mr. William",CONNECTED
+865,"Gill, Mr. John William",758,"Bailey, Mr. Percy Andrew",CONNECTED
+865,"Gill, Mr. John William",202,"Sage, Mr. Frederick",CONNECTED
+865,"Gill, Mr. John William",917,"Robins, Mr. Alexander A",CONNECTED
+865,"Gill, Mr. John William",1008,"Thomas, Mr. John",CONNECTED
+157,"Gilnagh, Miss. Katherine ""Katie""",698,"Mullens, Miss. Katherine ""Katie""",CONNECTED
+157,"Gilnagh, Miss. Katherine ""Katie""",242,"Murphy, Miss. Katherine ""Kate""",CONNECTED
+157,"Gilnagh, Miss. Katherine ""Katie""",613,"Murphy, Miss. Margaret Jane",CONNECTED
+454,"Goldenberg, Mr. Samuel L",850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",WIFE
+850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",454,"Goldenberg, Mr. Samuel L",HUSBAND
+166,"Goldsmith, Master. Frank John William ""Frankie""",329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",MOTHER
+166,"Goldsmith, Master. Frank John William ""Frankie""",575,"Rush, Mr. Alfred George John",CONNECTED
+166,"Goldsmith, Master. Frank John William ""Frankie""",759,"Theobald, Mr. Thomas Leonard",CONNECTED
+166,"Goldsmith, Master. Frank John William ""Frankie""",549,"Goldsmith, Mr. Frank John",FATHER
+549,"Goldsmith, Mr. Frank John",759,"Theobald, Mr. Thomas Leonard",CONNECTED
+549,"Goldsmith, Mr. Frank John",329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",WIFE
+549,"Goldsmith, Mr. Frank John",166,"Goldsmith, Master. Frank John William ""Frankie""",SON
+549,"Goldsmith, Mr. Frank John",575,"Rush, Mr. Alfred George John",CONNECTED
+329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",759,"Theobald, Mr. Thomas Leonard",CONNECTED
+329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",549,"Goldsmith, Mr. Frank John",HUSBAND
+329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",166,"Goldsmith, Master. Frank John William ""Frankie""",SON
+329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",575,"Rush, Mr. Alfred George John",CONNECTED
+481,"Goodwin, Master. Harold Victor",72,"Goodwin, Miss. Lillian Amy",SISTER
+481,"Goodwin, Master. Harold Victor",1032,"Goodwin, Miss. Jessie Allis",SISTER
+481,"Goodwin, Master. Harold Victor",387,"Goodwin, Master. Sidney Leonard",BROTHER
+481,"Goodwin, Master. Harold Victor",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",MOTHER
+481,"Goodwin, Master. Harold Victor",1031,"Goodwin, Mr. Charles Frederick",FATHER
+481,"Goodwin, Master. Harold Victor",684,"Goodwin, Mr. Charles Edward",BROTHER
+481,"Goodwin, Master. Harold Victor",60,"Goodwin, Master. William Frederick",BROTHER
+387,"Goodwin, Master. Sidney Leonard",1031,"Goodwin, Mr. Charles Frederick",FATHER
+387,"Goodwin, Master. Sidney Leonard",1032,"Goodwin, Miss. Jessie Allis",SISTER
+387,"Goodwin, Master. Sidney Leonard",481,"Goodwin, Master. Harold Victor",BROTHER
+387,"Goodwin, Master. Sidney Leonard",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",MOTHER
+387,"Goodwin, Master. Sidney Leonard",684,"Goodwin, Mr. Charles Edward",BROTHER
+387,"Goodwin, Master. Sidney Leonard",60,"Goodwin, Master. William Frederick",BROTHER
+387,"Goodwin, Master. Sidney Leonard",72,"Goodwin, Miss. Lillian Amy",SISTER
+60,"Goodwin, Master. William Frederick",1031,"Goodwin, Mr. Charles Frederick",FATHER
+60,"Goodwin, Master. William Frederick",387,"Goodwin, Master. Sidney Leonard",BROTHER
+60,"Goodwin, Master. William Frederick",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",MOTHER
+60,"Goodwin, Master. William Frederick",684,"Goodwin, Mr. Charles Edward",BROTHER
+60,"Goodwin, Master. William Frederick",481,"Goodwin, Master. Harold Victor",BROTHER
+60,"Goodwin, Master. William Frederick",72,"Goodwin, Miss. Lillian Amy",SISTER
+60,"Goodwin, Master. William Frederick",1032,"Goodwin, Miss. Jessie Allis",SISTER
+1032,"Goodwin, Miss. Jessie Allis",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",MOTHER
+1032,"Goodwin, Miss. Jessie Allis",72,"Goodwin, Miss. Lillian Amy",SISTER
+1032,"Goodwin, Miss. Jessie Allis",481,"Goodwin, Master. Harold Victor",BROTHER
+1032,"Goodwin, Miss. Jessie Allis",387,"Goodwin, Master. Sidney Leonard",BROTHER
+1032,"Goodwin, Miss. Jessie Allis",684,"Goodwin, Mr. Charles Edward",BROTHER
+1032,"Goodwin, Miss. Jessie Allis",60,"Goodwin, Master. William Frederick",BROTHER
+1032,"Goodwin, Miss. Jessie Allis",1031,"Goodwin, Mr. Charles Frederick",FATHER
+72,"Goodwin, Miss. Lillian Amy",684,"Goodwin, Mr. Charles Edward",BROTHER
+72,"Goodwin, Miss. Lillian Amy",60,"Goodwin, Master. William Frederick",BROTHER
+72,"Goodwin, Miss. Lillian Amy",387,"Goodwin, Master. Sidney Leonard",BROTHER
+72,"Goodwin, Miss. Lillian Amy",1031,"Goodwin, Mr. Charles Frederick",FATHER
+72,"Goodwin, Miss. Lillian Amy",481,"Goodwin, Master. Harold Victor",BROTHER
+72,"Goodwin, Miss. Lillian Amy",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",MOTHER
+72,"Goodwin, Miss. Lillian Amy",1032,"Goodwin, Miss. Jessie Allis",SISTER
+684,"Goodwin, Mr. Charles Edward",72,"Goodwin, Miss. Lillian Amy",SISTER
+684,"Goodwin, Mr. Charles Edward",60,"Goodwin, Master. William Frederick",BROTHER
+684,"Goodwin, Mr. Charles Edward",1032,"Goodwin, Miss. Jessie Allis",SISTER
+684,"Goodwin, Mr. Charles Edward",1031,"Goodwin, Mr. Charles Frederick",FATHER
+684,"Goodwin, Mr. Charles Edward",481,"Goodwin, Master. Harold Victor",BROTHER
+684,"Goodwin, Mr. Charles Edward",387,"Goodwin, Master. Sidney Leonard",BROTHER
+684,"Goodwin, Mr. Charles Edward",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",MOTHER
+1031,"Goodwin, Mr. Charles Frederick",72,"Goodwin, Miss. Lillian Amy",DAUGHTER
+1031,"Goodwin, Mr. Charles Frederick",60,"Goodwin, Master. William Frederick",SON
+1031,"Goodwin, Mr. Charles Frederick",481,"Goodwin, Master. Harold Victor",SON
+1031,"Goodwin, Mr. Charles Frederick",684,"Goodwin, Mr. Charles Edward",SON
+1031,"Goodwin, Mr. Charles Frederick",1032,"Goodwin, Miss. Jessie Allis",DAUGHTER
+1031,"Goodwin, Mr. Charles Frederick",679,"Goodwin, Mrs. Frederick (Augusta Tyler)",WIFE
+1031,"Goodwin, Mr. Charles Frederick",387,"Goodwin, Master. Sidney Leonard",SON
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",684,"Goodwin, Mr. Charles Edward",SON
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",1031,"Goodwin, Mr. Charles Frederick",HUSBAND
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",1032,"Goodwin, Miss. Jessie Allis",DAUGHTER
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",72,"Goodwin, Miss. Lillian Amy",DAUGHTER
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",387,"Goodwin, Master. Sidney Leonard",SON
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",481,"Goodwin, Master. Harold Victor",SON
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",60,"Goodwin, Master. William Frederick",SON
+888,"Graham, Miss. Margaret Edith",610,"Shutes, Miss. Elizabeth W",CONNECTED
+888,"Graham, Miss. Margaret Edith",269,"Graham, Mrs. William Thompson (Edith Junkins)",MOTHER
+333,"Graham, Mr. George Edward",269,"Graham, Mrs. William Thompson (Edith Junkins)",WIFE
+333,"Graham, Mr. George Edward",610,"Shutes, Miss. Elizabeth W",SAME_TICKET
+269,"Graham, Mrs. William Thompson (Edith Junkins)",610,"Shutes, Miss. Elizabeth W",CONNECTED
+269,"Graham, Mrs. William Thompson (Edith Junkins)",888,"Graham, Miss. Margaret Edith",DAUGHTER
+269,"Graham, Mrs. William Thompson (Edith Junkins)",333,"Graham, Mr. George Edward",HUSBAND
+715,"Greenberg, Mr. Samuel",801,"Ponesell, Mr. Martin",CONNECTED
+98,"Greenfield, Mr. William Bertram",1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",WIFE
+1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",98,"Greenfield, Mr. William Bertram",HUSBAND
+985,"Guest, Mr. Robert",432,"Thorneycroft, Mrs. Percival (Florence Kate White)",CONNECTED
+985,"Guest, Mr. Robert",640,"Thorneycroft, Mr. Percival",CONNECTED
+790,"Guggenheim, Mr. Benjamin",140,"Giglio, Mr. Victor",CONNECTED
+790,"Guggenheim, Mr. Benjamin",370,"Aubart, Mme. Leontine Pauline",CONNECTED
+790,"Guggenheim, Mr. Benjamin",182,"Pernot, Mr. Rene",CHAUFFEUR
+877,"Gustafsson, Mr. Alfred Ossian",139,"Osen, Mr. Olaf Elon",CONNECTED
+105,"Gustafsson, Mr. Anders Vilhelm",69,"Andersson, Miss. Erna Alexandra",CONNECTED
+393,"Gustafsson, Mr. Johan Birger",69,"Andersson, Miss. Erna Alexandra",CONNECTED
+294,"Haas, Miss. Aloisia",354,"Arnold-Franchi, Mr. Josef",COUSIN
+294,"Haas, Miss. Aloisia",1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",SHARED_CABIN
+294,"Haas, Miss. Aloisia",185,"Kink-Heilmann, Miss. Luise Gretchen",SHARED_CABIN
+294,"Haas, Miss. Aloisia",1268,"Kink, Miss. Maria",SHARED_CABIN
+294,"Haas, Miss. Aloisia",50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",SHARED_CABIN
+1207,"Hagardon, Miss. Kate",958,"Burns, Miss. Mary Delia",CONNECTED
+1207,"Hagardon, Miss. Kate",45,"Devaney, Miss. Margaret Delia",CONNECTED
+404,"Hakkarainen, Mr. Pekka Pietari",143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",WIFE
+143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",404,"Hakkarainen, Mr. Pekka Pietari",HUSBAND
+756,"Hamalainen, Master. Viljo",1130,"Hiltunen, Miss. Marta",CONNECTED
+756,"Hamalainen, Master. Viljo",248,"Hamalainen, Mrs. William (Anna)",MOTHER
+248,"Hamalainen, Mrs. William (Anna)",756,"Hamalainen, Master. Viljo",SON
+248,"Hamalainen, Mrs. William (Anna)",1130,"Hiltunen, Miss. Marta",CONNECTED
+442,"Hampe, Mr. Leon",1186,"Wittevrongel, Mr. Camille",CONNECTED
+442,"Hampe, Mr. Leon",201,"Vande Walle, Mr. Nestor Cyriel",CONNECTED
+861,"Hansen, Mr. Claus Peter",1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",WIFE
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",861,"Hansen, Mr. Claus Peter",HUSBAND
+1265,"Harbeck, Mr. William H",200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",COMPANION
+371,"Harder, Mr. George Achilles",1256,"Harder, Mrs. George Achilles (Dorothy Annan)",WIFE
+1256,"Harder, Mrs. George Achilles (Dorothy Annan)",371,"Harder, Mr. George Achilles",HUSBAND
+236,"Harknett, Miss. Alice Phoebe",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",LANDLADY
+236,"Harknett, Miss. Alice Phoebe",784,"Johnston, Mr. Andrew G",LANDLORD
+236,"Harknett, Miss. Alice Phoebe",437,"Ford, Miss. Doolina Margaret ""Daisy""",CONNECTED
+236,"Harknett, Miss. Alice Phoebe",737,"Ford, Mrs. Edward (Margaret Ann Watson)",CONNECTED
+721,"Harper, Miss. Annie Jessie ""Nina""",849,"Harper, Rev. John",CONNECTED
+721,"Harper, Miss. Annie Jessie ""Nina""",597,"Leitch, Miss. Jessie Wills",CONNECTED
+646,"Harper, Mr. Henry Sleeper",682,"Hassab, Mr. Hammad",CONNECTED
+646,"Harper, Mr. Henry Sleeper",53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",WIFE
+53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",646,"Harper, Mr. Henry Sleeper",HUSBAND
+53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",682,"Hassab, Mr. Hammad",CONNECTED
+849,"Harper, Rev. John",721,"Harper, Miss. Annie Jessie ""Nina""",CONNECTED
+849,"Harper, Rev. John",597,"Leitch, Miss. Jessie Wills",CONNECTED
+603,"Harrington, Mr. Charles H",959,"Moore, Mr. Clarence Bloomfield",EMPLOYER
+571,"Harris, Mr. George",1047,"Duquemin, Mr. Joseph",CONNECTED
+63,"Harris, Mr. Henry Birkhardt",231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",WIFE
+220,"Harris, Mr. Walter",1171,"Oxenham, Mr. Percy Thomas",CONNECTED
+231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",63,"Harris, Mr. Henry Birkhardt",HUSBAND
+536,"Hart, Miss. Eva Miriam",441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",MOTHER
+536,"Hart, Miss. Eva Miriam",315,"Hart, Mr. Benjamin",FATHER
+315,"Hart, Mr. Benjamin",536,"Hart, Miss. Eva Miriam",DAUGHTER
+315,"Hart, Mr. Benjamin",441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",WIFE
+412,"Hart, Mr. Henry",777,"Tobin, Mr. Roger",CONNECTED
+412,"Hart, Mr. Henry",865,"Gill, Mr. John William",CONNECTED
+412,"Hart, Mr. Henry",202,"Sage, Mr. Frederick",CONNECTED
+412,"Hart, Mr. Henry",1008,"Thomas, Mr. John",CONNECTED
+412,"Hart, Mr. Henry",917,"Robins, Mr. Alexander A",CONNECTED
+412,"Hart, Mr. Henry",758,"Bailey, Mr. Percy Andrew",CONNECTED
+412,"Hart, Mr. Henry",785,"Ali, Mr. William",CONNECTED
+441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",536,"Hart, Miss. Eva Miriam",DAUGHTER
+441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",315,"Hart, Mr. Benjamin",HUSBAND
+682,"Hassab, Mr. Hammad",53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",CONNECTED
+682,"Hassab, Mr. Hammad",646,"Harper, Mr. Henry Sleeper",CONNECTED
+732,"Hassan, Mr. Houssein G N",208,"Albimona, Mr. Nassef Cassem",CONNECTED
+732,"Hassan, Mr. Houssein G N",525,"Kassem, Mr. Fared",CONNECTED
+311,"Hays, Miss. Margaret Bechstein",880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",CONNECTED
+311,"Hays, Miss. Margaret Bechstein",1042,"Earnshaw, Mrs. Boulton (Olive Potter)",CONNECTED
+1200,"Hays, Mr. Charles Melville",1282,"Payne, Mr. Vivian Ponsonby",CONNECTED
+1200,"Hays, Mr. Charles Melville",821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",WIFE
+1200,"Hays, Mr. Charles Melville",521,"Perreault, Miss. Anne",CONNECTED
+821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",1200,"Hays, Mr. Charles Melville",HUSBAND
+821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",521,"Perreault, Miss. Anne",CONNECTED
+821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",1282,"Payne, Mr. Vivian Ponsonby",CONNECTED
+805,"Hedman, Mr. Oskar Arvid",720,"Johnson, Mr. Malkolm Joackim",CONNECTED
+931,"Hee, Mr. Ling",170,"Ling, Mr. Lee",CONNECTED
+931,"Hee, Mr. Ling",644,"Foo, Mr. Choong",CONNECTED
+931,"Hee, Mr. Ling",693,"Lam, Mr. Ali",CONNECTED
+931,"Hee, Mr. Ling",75,"Bing, Mr. Lee",CONNECTED
+931,"Hee, Mr. Ling",510,"Lang, Mr. Fang",CONNECTED
+931,"Hee, Mr. Ling",827,"Lam, Mr. Len",CONNECTED
+931,"Hee, Mr. Ling",839,"Chip, Mr. Chang",CONNECTED
+655,"Hegarty, Miss. Hanora ""Nora""",144,"Burke, Mr. Jeremiah",COUSIN
+314,"Hendekovic, Mr. Ignjac",101,"Petranec, Miss. Matilda",CONNECTED
+616,"Herman, Miss. Alice",755,"Herman, Mrs. Samuel (Jane Laver)",MOTHER
+616,"Herman, Miss. Alice",1245,"Herman, Mr. Samuel",FATHER
+616,"Herman, Miss. Alice",1277,"Herman, Miss. Kate",SISTER
+616,"Herman, Miss. Alice",1122,"Sweet, Mr. George Frederick",CONNECTED
+1277,"Herman, Miss. Kate",755,"Herman, Mrs. Samuel (Jane Laver)",MOTHER
+1277,"Herman, Miss. Kate",1245,"Herman, Mr. Samuel",FATHER
+1277,"Herman, Miss. Kate",616,"Herman, Miss. Alice",SISTER
+1277,"Herman, Miss. Kate",1122,"Sweet, Mr. George Frederick",CONNECTED
+1245,"Herman, Mr. Samuel",755,"Herman, Mrs. Samuel (Jane Laver)",WIFE
+1245,"Herman, Mr. Samuel",1277,"Herman, Miss. Kate",DAUGHTER
+1245,"Herman, Mr. Samuel",1122,"Sweet, Mr. George Frederick",CONNECTED
+1245,"Herman, Mr. Samuel",616,"Herman, Miss. Alice",DAUGHTER
+755,"Herman, Mrs. Samuel (Jane Laver)",1122,"Sweet, Mr. George Frederick",CONNECTED
+755,"Herman, Mrs. Samuel (Jane Laver)",616,"Herman, Miss. Alice",DAUGHTER
+755,"Herman, Mrs. Samuel (Jane Laver)",1277,"Herman, Miss. Kate",DAUGHTER
+755,"Herman, Mrs. Samuel (Jane Laver)",1245,"Herman, Mr. Samuel",HUSBAND
+656,"Hickman, Mr. Leonard Mark",386,"Davies, Mr. Charles Henry",CONNECTED
+656,"Hickman, Mr. Leonard Mark",121,"Hickman, Mr. Stanley George",CONNECTED
+656,"Hickman, Mr. Leonard Mark",1104,"Deacon, Mr. Percy William",CONNECTED
+656,"Hickman, Mr. Leonard Mark",666,"Hickman, Mr. Lewis",CONNECTED
+656,"Hickman, Mr. Leonard Mark",73,"Hood, Mr. Ambrose Jr",CONNECTED
+656,"Hickman, Mr. Leonard Mark",1244,"Dibden, Mr. William",CONNECTED
+666,"Hickman, Mr. Lewis",1244,"Dibden, Mr. William",CONNECTED
+666,"Hickman, Mr. Lewis",656,"Hickman, Mr. Leonard Mark",CONNECTED
+666,"Hickman, Mr. Lewis",73,"Hood, Mr. Ambrose Jr",CONNECTED
+666,"Hickman, Mr. Lewis",1104,"Deacon, Mr. Percy William",CONNECTED
+666,"Hickman, Mr. Lewis",121,"Hickman, Mr. Stanley George",CONNECTED
+666,"Hickman, Mr. Lewis",386,"Davies, Mr. Charles Henry",CONNECTED
+121,"Hickman, Mr. Stanley George",1244,"Dibden, Mr. William",CONNECTED
+121,"Hickman, Mr. Stanley George",386,"Davies, Mr. Charles Henry",CONNECTED
+121,"Hickman, Mr. Stanley George",656,"Hickman, Mr. Leonard Mark",CONNECTED
+121,"Hickman, Mr. Stanley George",1104,"Deacon, Mr. Percy William",CONNECTED
+121,"Hickman, Mr. Stanley George",666,"Hickman, Mr. Lewis",CONNECTED
+121,"Hickman, Mr. Stanley George",73,"Hood, Mr. Ambrose Jr",CONNECTED
+1038,"Hilliard, Mr. Herbert Henry",7,"McCarthy, Mr. Timothy J",CONNECTED
+1130,"Hiltunen, Miss. Marta",248,"Hamalainen, Mrs. William (Anna)",CONNECTED
+1130,"Hiltunen, Miss. Marta",756,"Hamalainen, Master. Viljo",CONNECTED
+330,"Hippach, Miss. Jean Gertrude",524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",MOTHER
+524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",330,"Hippach, Miss. Jean Gertrude",DAUGHTER
+480,"Hirvonen, Miss. Hildur E",896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",MOTHER
+480,"Hirvonen, Miss. Hildur E",665,"Lindqvist, Mr. Eino William",UNCLE
+480,"Hirvonen, Miss. Hildur E",1143,"Abrahamsson, Mr. Abraham August Johannes",CONNECTED
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",480,"Hirvonen, Miss. Hildur E",DAUGHTER
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",1143,"Abrahamsson, Mr. Abraham August Johannes",CONNECTED
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",665,"Lindqvist, Mr. Eino William",BROTHER
+944,"Hocking, Miss. Ellen Nellie""""",893,"Wilkes, Mrs. James (Ellen Needs)",AUNT
+944,"Hocking, Miss. Ellen Nellie""""",438,"Richards, Mrs. Sidney (Emily Hocking)",SISTER
+944,"Hocking, Miss. Ellen Nellie""""",832,"Richards, Master. George Sibley",NEPHEW
+944,"Hocking, Miss. Ellen Nellie""""",775,"Hocking, Mrs. Elizabeth (Eliza Needs)",MOTHER
+944,"Hocking, Miss. Ellen Nellie""""",408,"Richards, Master. William Rowe",NEPHEW
+530,"Hocking, Mr. Richard George",893,"Wilkes, Mrs. James (Ellen Needs)",AUNT
+530,"Hocking, Mr. Richard George",408,"Richards, Master. William Rowe",NEPHEW
+530,"Hocking, Mr. Richard George",1269,"Cotterill, Mr. Henry Harry""""",FRIEND
+530,"Hocking, Mr. Richard George",438,"Richards, Mrs. Sidney (Emily Hocking)",SISTER
+530,"Hocking, Mr. Richard George",758,"Bailey, Mr. Percy Andrew",FRIEND
+530,"Hocking, Mr. Richard George",775,"Hocking, Mrs. Elizabeth (Eliza Needs)",WIFE
+530,"Hocking, Mr. Richard George",832,"Richards, Master. George Sibley",NEPHEW
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",530,"Hocking, Mr. Richard George",HUSBAND
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",408,"Richards, Master. William Rowe",GRANDSON
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",438,"Richards, Mrs. Sidney (Emily Hocking)",DAUGHTER
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",944,"Hocking, Miss. Ellen Nellie""""",DAUGHTER
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",893,"Wilkes, Mrs. James (Ellen Needs)",SISTER
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",832,"Richards, Master. George Sibley",GRANDSON
+724,"Hodges, Mr. Henry Price",99,"Doling, Mrs. John T (Ada Julia Bone)",CONNECTED
+724,"Hodges, Mr. Henry Price",652,"Doling, Miss. Elsie",CONNECTED
+766,"Hogeboom, Mrs. John C (Anna Andrews)",276,"Andrews, Miss. Kornelia Theodosia",CONNECTED
+766,"Hogeboom, Mrs. John C (Anna Andrews)",628,"Longley, Miss. Gretchen Fiske",CONNECTED
+237,"Hold, Mr. Stephen",1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",WIFE
+1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",237,"Hold, Mr. Stephen",HUSBAND
+997,"Holthen, Mr. Johan Martin",1102,"Andersen, Mr. Albert Karvin",CONNECTED
+997,"Holthen, Mr. Johan Martin",509,"Olsen, Mr. Henry Margido",CONNECTED
+36,"Holverson, Mr. Alexander Oskar",384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",WIFE
+384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",36,"Holverson, Mr. Alexander Oskar",HUSBAND
+73,"Hood, Mr. Ambrose Jr",656,"Hickman, Mr. Leonard Mark",CONNECTED
+73,"Hood, Mr. Ambrose Jr",1244,"Dibden, Mr. William",CONNECTED
+73,"Hood, Mr. Ambrose Jr",121,"Hickman, Mr. Stanley George",CONNECTED
+73,"Hood, Mr. Ambrose Jr",386,"Davies, Mr. Charles Henry",CONNECTED
+73,"Hood, Mr. Ambrose Jr",666,"Hickman, Mr. Lewis",CONNECTED
+73,"Hood, Mr. Ambrose Jr",1104,"Deacon, Mr. Percy William",CONNECTED
+905,"Howard, Mr. Benjamin",1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",WIFE
+1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",905,"Howard, Mr. Benjamin",HUSBAND
+225,"Hoyt, Mr. Frederick Maxfield",487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",WIFE
+487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",225,"Hoyt, Mr. Frederick Maxfield",HUSBAND
+700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",949,"Abelseth, Mr. Olaus Jorgensen",SAME_CABIN
+799,"Ibrahim Shawah, Mr. Yousseff",115,"Attalah, Miss. Malake",CONNECTED
+62,"Icard, Miss. Amelie",830,"Stone, Mrs. George Nelson (Martha Evelyn)",EMPLOYER
+910,"Ilmakangas, Miss. Ida Livija",730,"Ilmakangas, Miss. Pieta Sofia",SISTER
+730,"Ilmakangas, Miss. Pieta Sofia",910,"Ilmakangas, Miss. Ida Livija",SISTER
+1264,"Ismay, Mr. Joseph Bruce",816,"Fry, Mr. Richard",CONNECTED
+218,"Jacobsohn, Mr. Sidney Samuel",1133,"Christy, Mrs. (Alice Frances)",CONNECTED
+218,"Jacobsohn, Mr. Sidney Samuel",601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",WIFE
+218,"Jacobsohn, Mr. Sidney Samuel",581,"Christy, Miss. Julie Rachel",CONNECTED
+601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",218,"Jacobsohn, Mr. Sidney Samuel",HUSBAND
+601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",581,"Christy, Miss. Julie Rachel",CONNECTED
+601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",1133,"Christy, Mrs. (Alice Frances)",CONNECTED
+923,"Jefferys, Mr. Clifford Thomas",1150,"Bentham, Miss. Lilian W",CONNECTED
+923,"Jefferys, Mr. Clifford Thomas",398,"McKane, Mr. Peter David",CONNECTED
+923,"Jefferys, Mr. Clifford Thomas",1211,"Jefferys, Mr. Ernest Wilfred",BROTHER
+923,"Jefferys, Mr. Clifford Thomas",1230,"Denbury, Mr. Herbert",CONNECTED
+923,"Jefferys, Mr. Clifford Thomas",727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",SISTER
+923,"Jefferys, Mr. Clifford Thomas",477,"Renouf, Mr. Peter Henry",CONNECTED
+1211,"Jefferys, Mr. Ernest Wilfred",398,"McKane, Mr. Peter David",CONNECTED
+1211,"Jefferys, Mr. Ernest Wilfred",477,"Renouf, Mr. Peter Henry",CONNECTED
+1211,"Jefferys, Mr. Ernest Wilfred",1230,"Denbury, Mr. Herbert",CONNECTED
+1211,"Jefferys, Mr. Ernest Wilfred",727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",SISTER
+1211,"Jefferys, Mr. Ernest Wilfred",923,"Jefferys, Mr. Clifford Thomas",BROTHER
+1211,"Jefferys, Mr. Ernest Wilfred",1150,"Bentham, Miss. Lilian W",CONNECTED
+641,"Jensen, Mr. Hans Peder",722,"Jensen, Mr. Svend Lauritz",CONNECTED
+641,"Jensen, Mr. Hans Peder",722,"Jensen, Mr. Svend Lauritz",CONNECTED
+641,"Jensen, Mr. Hans Peder",772,"Jensen, Mr. Niels Peder",CONNECTED
+772,"Jensen, Mr. Niels Peder",722,"Jensen, Mr. Svend Lauritz",NEPHEW
+772,"Jensen, Mr. Niels Peder",722,"Jensen, Mr. Svend Lauritz",CONNECTED
+772,"Jensen, Mr. Niels Peder",641,"Jensen, Mr. Hans Peder",CONNECTED
+722,"Jensen, Mr. Svend Lauritz",772,"Jensen, Mr. Niels Peder",UNCLE
+722,"Jensen, Mr. Svend Lauritz",772,"Jensen, Mr. Niels Peder",CONNECTED
+722,"Jensen, Mr. Svend Lauritz",641,"Jensen, Mr. Hans Peder",CONNECTED
+474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",328,"Ball, Mrs. (Ada E Hall)",CONNECTED
+474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",293,"Levy, Mr. Rene Jacques",SAME_CABIN
+474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",1193,"Malachard, Mr. Noel",SAME_CABIN
+806,"Johansson, Mr. Karl Johan",1149,"Niklasson, Mr. Samuel",CONNECTED
+806,"Johansson, Mr. Karl Johan",1192,"Olsson, Mr. Oscar Wilhelm",CONNECTED
+1191,"Johansson, Mr. Nils",834,"Augustsson, Mr. Albert",COMPANION
+1191,"Johansson, Mr. Nils",92,"Andreasson, Mr. Paul Edvin",COMPANION
+1191,"Johansson, Mr. Nils",570,"Jonsson, Mr. Carl",COMPANION
+1191,"Johansson, Mr. Nils",1049,"Lundin, Miss. Olga Elida",CONNECTED
+870,"Johnson, Master. Harold Theodor",9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",MOTHER
+870,"Johnson, Master. Harold Theodor",173,"Johnson, Miss. Eleanor Ileen",SISTER
+173,"Johnson, Miss. Eleanor Ileen",870,"Johnson, Master. Harold Theodor",BROTHER
+173,"Johnson, Miss. Eleanor Ileen",9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",MOTHER
+598,"Johnson, Mr. Alfred",1015,"Carver, Mr. Alfred John",CONNECTED
+598,"Johnson, Mr. Alfred",440,"Kvillner, Mr. Johan Henrik Johannesson",CONNECTED
+598,"Johnson, Mr. Alfred",303,"Johnson, Mr. William Cahoone Jr",CONNECTED
+598,"Johnson, Mr. Alfred",180,"Leonard, Mr. Lionel",CONNECTED
+598,"Johnson, Mr. Alfred",1044,"Storey, Mr. Thomas",CONNECTED
+598,"Johnson, Mr. Alfred",272,"Tornquist, Mr. William Henry",SAME_TICKET
+720,"Johnson, Mr. Malkolm Joackim",805,"Hedman, Mr. Oskar Arvid",CONNECTED
+303,"Johnson, Mr. William Cahoone Jr",1044,"Storey, Mr. Thomas",CONNECTED
+303,"Johnson, Mr. William Cahoone Jr",1015,"Carver, Mr. Alfred John",CONNECTED
+303,"Johnson, Mr. William Cahoone Jr",180,"Leonard, Mr. Lionel",CONNECTED
+303,"Johnson, Mr. William Cahoone Jr",440,"Kvillner, Mr. Johan Henrik Johannesson",CONNECTED
+303,"Johnson, Mr. William Cahoone Jr",598,"Johnson, Mr. Alfred",CONNECTED
+303,"Johnson, Mr. William Cahoone Jr",272,"Tornquist, Mr. William Henry",SAME_TICKET
+9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",173,"Johnson, Miss. Eleanor Ileen",DAUGHTER
+9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",870,"Johnson, Master. Harold Theodor",SON
+1136,"Johnston, Master. William Arthur Willie""""",437,"Ford, Miss. Doolina Margaret ""Daisy""",COUSIN
+1136,"Johnston, Master. William Arthur Willie""""",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",MOTHER
+1136,"Johnston, Master. William Arthur Willie""""",889,"Johnston, Miss. Catherine Helen ""Carrie""",SISTER
+1136,"Johnston, Master. William Arthur Willie""""",784,"Johnston, Mr. Andrew G",FATHER
+1136,"Johnston, Master. William Arthur Willie""""",737,"Ford, Mrs. Edward (Margaret Ann Watson)",AUNT
+889,"Johnston, Miss. Catherine Helen ""Carrie""",737,"Ford, Mrs. Edward (Margaret Ann Watson)",AUNT
+889,"Johnston, Miss. Catherine Helen ""Carrie""",784,"Johnston, Mr. Andrew G",FATHER
+889,"Johnston, Miss. Catherine Helen ""Carrie""",437,"Ford, Miss. Doolina Margaret ""Daisy""",COUSIN
+889,"Johnston, Miss. Catherine Helen ""Carrie""",1136,"Johnston, Master. William Arthur Willie""""",BROTHER
+889,"Johnston, Miss. Catherine Helen ""Carrie""",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",MOTHER
+784,"Johnston, Mr. Andrew G",1059,"Ford, Mr. Edward Watson",NEPHEW
+784,"Johnston, Mr. Andrew G",437,"Ford, Miss. Doolina Margaret ""Daisy""",NIECE
+784,"Johnston, Mr. Andrew G",148,"Ford, Miss. Robina Maggie ""Ruby""",NIECE
+784,"Johnston, Mr. Andrew G",1136,"Johnston, Master. William Arthur Willie""""",SON
+784,"Johnston, Mr. Andrew G",87,"Ford, Mr. William Neal",NEPHEW
+784,"Johnston, Mr. Andrew G",737,"Ford, Mrs. Edward (Margaret Ann Watson)",CONNECTED
+784,"Johnston, Mr. Andrew G",236,"Harknett, Miss. Alice Phoebe",CONNECTED
+784,"Johnston, Mr. Andrew G",925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",WIFE
+784,"Johnston, Mr. Andrew G",889,"Johnston, Miss. Catherine Helen ""Carrie""",DAUGHTER
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",737,"Ford, Mrs. Edward (Margaret Ann Watson)",SISTER
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",889,"Johnston, Miss. Catherine Helen ""Carrie""",DAUGHTER
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",1059,"Ford, Mr. Edward Watson",NEPHEW
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",784,"Johnston, Mr. Andrew G",HUSBAND
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",87,"Ford, Mr. William Neal",NEPHEW
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",148,"Ford, Miss. Robina Maggie ""Ruby""",NIECE
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",1136,"Johnston, Master. William Arthur Willie""""",SON
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",236,"Harknett, Miss. Alice Phoebe",CONNECTED
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",437,"Ford, Miss. Doolina Margaret ""Daisy""",NIECE
+754,"Jonkoff, Mr. Lalio",848,"Markoff, Mr. Marin",CONNECTED
+754,"Jonkoff, Mr. Lalio",878,"Petroff, Mr. Nedelio",CONNECTED
+754,"Jonkoff, Mr. Lalio",288,"Naidenoff, Mr. Penko",CONNECTED
+754,"Jonkoff, Mr. Lalio",963,"Minkoff, Mr. Lazar",CONNECTED
+754,"Jonkoff, Mr. Lalio",567,"Stoytcheff, Mr. Ilia",CONNECTED
+754,"Jonkoff, Mr. Lalio",664,"Coleff, Mr. Peju",CONNECTED
+754,"Jonkoff, Mr. Lalio",106,"Mionoff, Mr. Stoytcho",CONNECTED
+570,"Jonsson, Mr. Carl",92,"Andreasson, Mr. Paul Edvin",COMPANION
+570,"Jonsson, Mr. Carl",834,"Augustsson, Mr. Albert",COMPANION
+570,"Jonsson, Mr. Carl",1191,"Johansson, Mr. Nils",COMPANION
+570,"Jonsson, Mr. Carl",1049,"Lundin, Miss. Olga Elida",CONNECTED
+100,"Kantor, Mr. Sinai",317,"Kantor, Mrs. Sinai (Miriam Sternin)",WIFE
+317,"Kantor, Mrs. Sinai (Miriam Sternin)",100,"Kantor, Mr. Sinai",HUSBAND
+1138,"Karnes, Mrs. J Frank (Claire Bennett)",957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",CONNECTED
+692,"Karun, Miss. Manca",882,"Markun, Mr. Johann",CONNECTED
+692,"Karun, Miss. Manca",932,"Karun, Mr. Franz",FATHER
+932,"Karun, Mr. Franz",692,"Karun, Miss. Manca",DAUGHTER
+932,"Karun, Mr. Franz",882,"Markun, Mr. Johann",CONNECTED
+525,"Kassem, Mr. Fared",732,"Hassan, Mr. Houssein G N",RELATIVE
+525,"Kassem, Mr. Fared",208,"Albimona, Mr. Nassef Cassem",COUSIN
+304,"Keane, Miss. Nora A",718,"Troutt, Miss. Edwina Celia ""Winnie""",SAME_CABIN
+304,"Keane, Miss. Nora A",124,"Webber, Miss. Susan",SAME_CABIN
+967,"Keeping, Mr. Edwin",1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",EMPLOYER
+967,"Keeping, Mr. Edwin",378,"Widener, Mr. Harry Elkins",SON
+967,"Keeping, Mr. Edwin",966,"Geiger, Miss. Amalie",MAID
+967,"Keeping, Mr. Edwin",1299,"Widener, Mr. George Dunton",EMPLOYER
+707,"Kelly, Mrs. Florence ""Fannie""",323,"Slayter, Miss. Hilda Mary",COMPANION
+1137,"Kenyon, Mr. Frederick R",863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",CONNECTED
+1137,"Kenyon, Mr. Frederick R",458,"Kenyon, Mrs. Frederick R (Marion)",WIFE
+1137,"Kenyon, Mr. Frederick R",797,"Leader, Dr. Alice (Farnham)",CONNECTED
+458,"Kenyon, Mrs. Frederick R (Marion)",863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",CONNECTED
+458,"Kenyon, Mrs. Frederick R (Marion)",1137,"Kenyon, Mr. Frederick R",HUSBAND
+458,"Kenyon, Mrs. Frederick R (Marion)",797,"Leader, Dr. Alice (Farnham)",CONNECTED
+977,"Khalil, Mr. Betros",1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",WIFE
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",977,"Khalil, Mr. Betros",HUSBAND
+1013,"Kiernan, Mr. John",613,"Murphy, Miss. Margaret Jane",CONNECTED
+1013,"Kiernan, Mr. John",215,"Kiernan, Mr. Philip",BROTHER
+1013,"Kiernan, Mr. John",829,"McCormack, Mr. Thomas Joseph",COUSIN
+215,"Kiernan, Mr. Philip",829,"McCormack, Mr. Thomas Joseph",COUSIN
+215,"Kiernan, Mr. Philip",1013,"Kiernan, Mr. John",BROTHER
+622,"Kimball, Mr. Edwin Nelson Jr",936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",WIFE
+936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",622,"Kimball, Mr. Edwin Nelson Jr",HUSBAND
+185,"Kink-Heilmann, Miss. Luise Gretchen",294,"Haas, Miss. Aloisia",SHARED_CABIN
+185,"Kink-Heilmann, Miss. Luise Gretchen",70,"Kink, Mr. Vincenz",UNCLE
+185,"Kink-Heilmann, Miss. Luise Gretchen",1286,"Kink-Heilmann, Mr. Anton",FATHER
+185,"Kink-Heilmann, Miss. Luise Gretchen",1268,"Kink, Miss. Maria",AUNT
+185,"Kink-Heilmann, Miss. Luise Gretchen",1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",MOTHER
+185,"Kink-Heilmann, Miss. Luise Gretchen",50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",SHARED_CABIN
+1286,"Kink-Heilmann, Mr. Anton",423,"Zimmerman, Mr. Leo",SHARED_CABIN
+1286,"Kink-Heilmann, Mr. Anton",70,"Kink, Mr. Vincenz",BROTHER
+1286,"Kink-Heilmann, Mr. Anton",354,"Arnold-Franchi, Mr. Josef",SHARED_CABIN
+1286,"Kink-Heilmann, Mr. Anton",1268,"Kink, Miss. Maria",SISTER
+1286,"Kink-Heilmann, Mr. Anton",1146,"Wenzel, Mr. Linhart",SHARED_CABIN
+1286,"Kink-Heilmann, Mr. Anton",185,"Kink-Heilmann, Miss. Luise Gretchen",DAUGHTER
+1286,"Kink-Heilmann, Mr. Anton",1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",WIFE
+1286,"Kink-Heilmann, Mr. Anton",895,"Wirz, Mr. Albert",SHARED_CABIN
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",70,"Kink, Mr. Vincenz",CONNECTED
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",185,"Kink-Heilmann, Miss. Luise Gretchen",DAUGHTER
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1268,"Kink, Miss. Maria",CONNECTED
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1286,"Kink-Heilmann, Mr. Anton",HUSBAND
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",294,"Haas, Miss. Aloisia",SHARED_CABIN
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",SHARED_CABIN
+1268,"Kink, Miss. Maria",1286,"Kink-Heilmann, Mr. Anton",BROTHER
+1268,"Kink, Miss. Maria",50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",SHARED_CABIN
+1268,"Kink, Miss. Maria",1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",CONNECTED
+1268,"Kink, Miss. Maria",185,"Kink-Heilmann, Miss. Luise Gretchen",NIECE
+1268,"Kink, Miss. Maria",70,"Kink, Mr. Vincenz",FATHER
+1268,"Kink, Miss. Maria",294,"Haas, Miss. Aloisia",SHARED_CABIN
+70,"Kink, Mr. Vincenz",1268,"Kink, Miss. Maria",DAUGHTER
+70,"Kink, Mr. Vincenz",895,"Wirz, Mr. Albert",SHARED_CABIN
+70,"Kink, Mr. Vincenz",354,"Arnold-Franchi, Mr. Josef",SHARED_CABIN
+70,"Kink, Mr. Vincenz",423,"Zimmerman, Mr. Leo",SHARED_CABIN
+70,"Kink, Mr. Vincenz",1286,"Kink-Heilmann, Mr. Anton",BROTHER
+70,"Kink, Mr. Vincenz",185,"Kink-Heilmann, Miss. Luise Gretchen",NIECE
+70,"Kink, Mr. Vincenz",1146,"Wenzel, Mr. Linhart",SHARED_CABIN
+70,"Kink, Mr. Vincenz",1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",CONNECTED
+627,"Kirkland, Rev. Charles Leonard",1077,"Maybery, Mr. Frank Hubert",CONNECTED
+712,"Klaber, Mr. Herman",332,"Partner, Mr. Austen",COMPANION
+1155,"Klasen, Miss. Gertrud Emilia",1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",MOTHER
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",1155,"Klasen, Miss. Gertrud Emilia",DAUGHTER
+733,"Knight, Mr. Robert J",1158,"Chisholm, Mr. Roderick Robert Crispin",CONNECTED
+733,"Knight, Mr. Robert J",482,"Frost, Mr. Anthony Wood ""Archie""",CONNECTED
+733,"Knight, Mr. Robert J",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+733,"Knight, Mr. Robert J",24,"Sloper, Mr. William Thompson",CONNECTED
+733,"Knight, Mr. Robert J",467,"Campbell, Mr. William",CONNECTED
+733,"Knight, Mr. Robert J",807,"Andrews, Mr. Thomas Jr",CONNECTED
+733,"Knight, Mr. Robert J",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+733,"Knight, Mr. Robert J",675,"Watson, Mr. Ennis Hastings",CONNECTED
+1213,"Krekorian, Mr. Neshan",61,"Sirayanian, Mr. Orsen",CONNECTED
+1213,"Krekorian, Mr. Neshan",1203,"Vartanian, Mr. David",CONNECTED
+1213,"Krekorian, Mr. Neshan",1063,"Zakarian, Mr. Ortin",CONNECTED
+1213,"Krekorian, Mr. Neshan",1028,"Zakarian, Mr. Mapriededer",CONNECTED
+1216,"Kreuchen, Miss. Emilie",690,"Madill, Miss. Georgette Alexandra",CONNECTED
+1216,"Kreuchen, Miss. Emilie",731,"Allen, Miss. Elisabeth Walton",CONNECTED
+1216,"Kreuchen, Miss. Emilie",780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",EMPLOYER
+440,"Kvillner, Mr. Johan Henrik Johannesson",303,"Johnson, Mr. William Cahoone Jr",CONNECTED
+440,"Kvillner, Mr. Johan Henrik Johannesson",180,"Leonard, Mr. Lionel",CONNECTED
+440,"Kvillner, Mr. Johan Henrik Johannesson",1044,"Storey, Mr. Thomas",CONNECTED
+440,"Kvillner, Mr. Johan Henrik Johannesson",598,"Johnson, Mr. Alfred",CONNECTED
+440,"Kvillner, Mr. Johan Henrik Johannesson",1015,"Carver, Mr. Alfred John",CONNECTED
+313,"Lahtinen, Mrs. William (Anna Sylfven)",1041,"Lahtinen, Rev. William",CONNECTED
+1041,"Lahtinen, Rev. William",313,"Lahtinen, Mrs. William (Anna Sylfven)",CONNECTED
+693,"Lam, Mr. Ali",644,"Foo, Mr. Choong",CONNECTED
+693,"Lam, Mr. Ali",170,"Ling, Mr. Lee",CONNECTED
+693,"Lam, Mr. Ali",931,"Hee, Mr. Ling",CONNECTED
+693,"Lam, Mr. Ali",75,"Bing, Mr. Lee",CONNECTED
+693,"Lam, Mr. Ali",510,"Lang, Mr. Fang",CONNECTED
+693,"Lam, Mr. Ali",827,"Lam, Mr. Len",CONNECTED
+693,"Lam, Mr. Ali",839,"Chip, Mr. Chang",CONNECTED
+827,"Lam, Mr. Len",693,"Lam, Mr. Ali",CONNECTED
+827,"Lam, Mr. Len",931,"Hee, Mr. Ling",CONNECTED
+827,"Lam, Mr. Len",75,"Bing, Mr. Lee",CONNECTED
+827,"Lam, Mr. Len",644,"Foo, Mr. Choong",CONNECTED
+827,"Lam, Mr. Len",170,"Ling, Mr. Lee",CONNECTED
+827,"Lam, Mr. Len",510,"Lang, Mr. Fang",CONNECTED
+827,"Lam, Mr. Len",839,"Chip, Mr. Chang",CONNECTED
+1075,"Lane, Mr. Patrick",29,"O'Dwyer, Miss. Ellen ""Nellie""",CONNECTED
+510,"Lang, Mr. Fang",170,"Ling, Mr. Lee",CONNECTED
+510,"Lang, Mr. Fang",839,"Chip, Mr. Chang",CONNECTED
+510,"Lang, Mr. Fang",827,"Lam, Mr. Len",CONNECTED
+510,"Lang, Mr. Fang",693,"Lam, Mr. Ali",CONNECTED
+510,"Lang, Mr. Fang",931,"Hee, Mr. Ling",CONNECTED
+510,"Lang, Mr. Fang",75,"Bing, Mr. Lee",CONNECTED
+510,"Lang, Mr. Fang",644,"Foo, Mr. Choong",CONNECTED
+1188,"Laroche, Miss. Louise",44,"Laroche, Miss. Simonne Marie Anne Andree",SISTER
+1188,"Laroche, Miss. Louise",686,"Laroche, Mr. Joseph Philippe Lemercier",FATHER
+1188,"Laroche, Miss. Louise",609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",MOTHER
+44,"Laroche, Miss. Simonne Marie Anne Andree",1188,"Laroche, Miss. Louise",SISTER
+44,"Laroche, Miss. Simonne Marie Anne Andree",609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",MOTHER
+44,"Laroche, Miss. Simonne Marie Anne Andree",686,"Laroche, Mr. Joseph Philippe Lemercier",FATHER
+686,"Laroche, Mr. Joseph Philippe Lemercier",44,"Laroche, Miss. Simonne Marie Anne Andree",DAUGHTER
+686,"Laroche, Mr. Joseph Philippe Lemercier",1188,"Laroche, Miss. Louise",DAUGHTER
+686,"Laroche, Mr. Joseph Philippe Lemercier",609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",WIFE
+609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",44,"Laroche, Miss. Simonne Marie Anne Andree",DAUGHTER
+609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",686,"Laroche, Mr. Joseph Philippe Lemercier",HUSBAND
+609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",1188,"Laroche, Miss. Louise",DAUGHTER
+797,"Leader, Dr. Alice (Farnham)",863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",CONNECTED
+797,"Leader, Dr. Alice (Farnham)",1137,"Kenyon, Mr. Frederick R",CONNECTED
+797,"Leader, Dr. Alice (Farnham)",458,"Kenyon, Mrs. Frederick R (Marion)",CONNECTED
+177,"Lefebre, Master. Henry Forbes",486,"Lefebre, Miss. Jeannie",SISTER
+177,"Lefebre, Master. Henry Forbes",1024,"Lefebre, Mrs. Frank (Frances)",MOTHER
+177,"Lefebre, Master. Henry Forbes",410,"Lefebre, Miss. Ida",SISTER
+177,"Lefebre, Master. Henry Forbes",230,"Lefebre, Miss. Mathilde",SISTER
+410,"Lefebre, Miss. Ida",177,"Lefebre, Master. Henry Forbes",BROTHER
+410,"Lefebre, Miss. Ida",230,"Lefebre, Miss. Mathilde",SISTER
+410,"Lefebre, Miss. Ida",1024,"Lefebre, Mrs. Frank (Frances)",MOTHER
+410,"Lefebre, Miss. Ida",486,"Lefebre, Miss. Jeannie",SISTER
+486,"Lefebre, Miss. Jeannie",230,"Lefebre, Miss. Mathilde",SISTER
+486,"Lefebre, Miss. Jeannie",177,"Lefebre, Master. Henry Forbes",BROTHER
+486,"Lefebre, Miss. Jeannie",1024,"Lefebre, Mrs. Frank (Frances)",MOTHER
+486,"Lefebre, Miss. Jeannie",410,"Lefebre, Miss. Ida",SISTER
+230,"Lefebre, Miss. Mathilde",177,"Lefebre, Master. Henry Forbes",BROTHER
+230,"Lefebre, Miss. Mathilde",486,"Lefebre, Miss. Jeannie",SISTER
+230,"Lefebre, Miss. Mathilde",1024,"Lefebre, Mrs. Frank (Frances)",MOTHER
+230,"Lefebre, Miss. Mathilde",410,"Lefebre, Miss. Ida",SISTER
+1024,"Lefebre, Mrs. Frank (Frances)",177,"Lefebre, Master. Henry Forbes",SON
+1024,"Lefebre, Mrs. Frank (Frances)",486,"Lefebre, Miss. Jeannie",DAUGHTER
+1024,"Lefebre, Mrs. Frank (Frances)",410,"Lefebre, Miss. Ida",DAUGHTER
+1024,"Lefebre, Mrs. Frank (Frances)",230,"Lefebre, Miss. Mathilde",DAUGHTER
+597,"Leitch, Miss. Jessie Wills",721,"Harper, Miss. Annie Jessie ""Nina""",CONNECTED
+597,"Leitch, Miss. Jessie Wills",849,"Harper, Rev. John",CONNECTED
+517,"Lemore, Mrs. (Amelia Milley)",67,"Nye, Mrs. (Elizabeth Ramell)",COMPANION
+517,"Lemore, Mrs. (Amelia Milley)",1114,"Cook, Mrs. (Selena Rogers)",COMPANION
+517,"Lemore, Mrs. (Amelia Milley)",346,"Brown, Miss. Amelia ""Mildred""",COMPANION
+1165,"Lennon, Miss. Mary",47,"Lennon, Mr. Denis",FATHER
+47,"Lennon, Mr. Denis",1165,"Lennon, Miss. Mary",DAUGHTER
+180,"Leonard, Mr. Lionel",1015,"Carver, Mr. Alfred John",CONNECTED
+180,"Leonard, Mr. Lionel",440,"Kvillner, Mr. Johan Henrik Johannesson",CONNECTED
+180,"Leonard, Mr. Lionel",303,"Johnson, Mr. William Cahoone Jr",CONNECTED
+180,"Leonard, Mr. Lionel",598,"Johnson, Mr. Alfred",CONNECTED
+180,"Leonard, Mr. Lionel",1044,"Storey, Mr. Thomas",CONNECTED
+180,"Leonard, Mr. Lionel",272,"Tornquist, Mr. William Henry",SAME_TICKET
+538,"LeRoy, Miss. Bertha",1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",EMPLOYER
+538,"LeRoy, Miss. Bertha",545,"Douglas, Mr. Walter Donald",EMPLOYER
+812,"Lester, Mr. James",566,"Davies, Mr. Alfred J",CONNECTED
+812,"Lester, Mr. James",1079,"Davies, Mr. Joseph",NEPHEW
+812,"Lester, Mr. James",901,"Davies, Mr. John Samuel",CONNECTED
+738,"Lesurer, Mr. Gustave J",259,"Ward, Miss. Anna",CONNECTED
+738,"Lesurer, Mr. Gustave J",1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",EMPLOYER
+738,"Lesurer, Mr. Gustave J",680,"Cardeza, Mr. Thomas Drake Martinez",EMPLOYER
+293,"Levy, Mr. Rene Jacques",328,"Ball, Mrs. (Ada E Hall)",SAME_CABIN
+293,"Levy, Mr. Rene Jacques",474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",SAME_CABIN
+293,"Levy, Mr. Rene Jacques",1193,"Malachard, Mr. Noel",SAME_CABIN
+1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",702,"Silverthorne, Mr. Spencer Victor",CONNECTED
+606,"Lindell, Mr. Edvard Bengtsson",1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",WIFE
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",606,"Lindell, Mr. Edvard Bengtsson",HUSBAND
+665,"Lindqvist, Mr. Eino William",896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",SISTER
+665,"Lindqvist, Mr. Eino William",480,"Hirvonen, Miss. Hildur E",NIECE
+665,"Lindqvist, Mr. Eino William",1143,"Abrahamsson, Mr. Abraham August Johannes",CONNECTED
+854,"Lines, Miss. Mary Conover",1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",MOTHER
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",854,"Lines, Miss. Mary Conover",DAUGHTER
+170,"Ling, Mr. Lee",75,"Bing, Mr. Lee",CONNECTED
+170,"Ling, Mr. Lee",827,"Lam, Mr. Len",CONNECTED
+170,"Ling, Mr. Lee",931,"Hee, Mr. Ling",CONNECTED
+170,"Ling, Mr. Lee",510,"Lang, Mr. Fang",CONNECTED
+170,"Ling, Mr. Lee",693,"Lam, Mr. Ali",CONNECTED
+170,"Ling, Mr. Lee",644,"Foo, Mr. Choong",CONNECTED
+170,"Ling, Mr. Lee",839,"Chip, Mr. Chang",CONNECTED
+254,"Lobb, Mr. William Arthur",618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",WIFE
+618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",254,"Lobb, Mr. William Arthur",HUSBAND
+628,"Longley, Miss. Gretchen Fiske",766,"Hogeboom, Mrs. John C (Anna Andrews)",CONNECTED
+628,"Longley, Miss. Gretchen Fiske",276,"Andrews, Miss. Kornelia Theodosia",CONNECTED
+1190,"Loring, Mr. Joseph Holland",1182,"Rheims, Mr. George Alexander Lucien",CONNECTED
+922,"Louch, Mr. Charles Alexander",433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",WIFE
+433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",922,"Louch, Mr. Charles Alexander",HUSBAND
+228,"Lovell, Mr. John Hall (""Henry"")",213,"Perkin, Mr. John Henry",COUSIN
+228,"Lovell, Mr. John Hall (""Henry"")",478,"Braund, Mr. Lewis Richard",COUSIN
+228,"Lovell, Mr. John Hall (""Henry"")",1,"Braund, Mr. Owen Harris",COUSIN
+632,"Lundahl, Mr. Johan Svensson",130,"Ekstrom, Mr. Johan",SON
+1049,"Lundin, Miss. Olga Elida",883,"Dahlberg, Miss. Gerda Ulrika",CONNECTED
+1049,"Lundin, Miss. Olga Elida",1191,"Johansson, Mr. Nils",FIANCE
+1049,"Lundin, Miss. Olga Elida",570,"Jonsson, Mr. Carl",CONNECTED
+1049,"Lundin, Miss. Olga Elida",834,"Augustsson, Mr. Albert",COMPANION
+1049,"Lundin, Miss. Olga Elida",92,"Andreasson, Mr. Paul Edvin",COMPANION
+1233,"Lundstrom, Mr. Thure Edvin",397,"Olsson, Miss. Elina",CONNECTED
+196,"Lurette, Miss. Elise",32,"Spencer, Mrs. William Augustus (Marie Eugenie)",CONNECTED
+196,"Lurette, Miss. Elise",1208,"Spencer, Mr. William Augustus",CONNECTED
+773,"Mack, Mrs. (Mary)",842,"Mudd, Mr. Thomas Charles",SAME_TICKET
+690,"Madill, Miss. Georgette Alexandra",731,"Allen, Miss. Elisabeth Walton",COUSIN
+690,"Madill, Miss. Georgette Alexandra",780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",MOTHER
+690,"Madill, Miss. Georgette Alexandra",1216,"Kreuchen, Miss. Emilie",CONNECTED
+128,"Madsen, Mr. Fridtjof Arne",913,"Olsen, Master. Artur Karl",CONNECTED
+128,"Madsen, Mr. Fridtjof Arne",198,"Olsen, Mr. Karl Siegwart Andreas",CONNECTED
+1227,"Maguire, Mr. John Edward",476,"Clifford, Mr. George Quincy",CONNECTED
+1227,"Maguire, Mr. John Edward",111,"Porter, Mr. Walter Chamberlain",CONNECTED
+1227,"Maguire, Mr. John Edward",299,"Saalfeld, Mr. Adolphe",SAME_CABIN
+505,"Maioni, Miss. Roberta",760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",CONNECTED
+505,"Maioni, Miss. Roberta",337,"Pears, Mr. Thomas Clinton",CONNECTED
+505,"Maioni, Miss. Roberta",337,"Pears, Mr. Thomas Clinton",CONNECTED
+505,"Maioni, Miss. Roberta",258,"Cherry, Miss. Gladys",CONNECTED
+1193,"Malachard, Mr. Noel",328,"Ball, Mrs. (Ada E Hall)",SAME_CABIN
+1193,"Malachard, Mr. Noel",474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",SAME_CABIN
+1193,"Malachard, Mr. Noel",293,"Levy, Mr. Rene Jacques",SAME_CABIN
+828,"Mallet, Master. Andre",1253,"Mallet, Mrs. Albert (Antoinette Magnin)",MOTHER
+828,"Mallet, Master. Andre",818,"Mallet, Mr. Albert",FATHER
+818,"Mallet, Mr. Albert",136,"Richard, Mr. Emile",FRIEND
+818,"Mallet, Mr. Albert",828,"Mallet, Master. Andre",SON
+818,"Mallet, Mr. Albert",1253,"Mallet, Mrs. Albert (Antoinette Magnin)",WIFE
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",828,"Mallet, Master. Andre",SON
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",818,"Mallet, Mr. Albert",HUSBAND
+848,"Markoff, Mr. Marin",664,"Coleff, Mr. Peju",CONNECTED
+848,"Markoff, Mr. Marin",567,"Stoytcheff, Mr. Ilia",CONNECTED
+848,"Markoff, Mr. Marin",963,"Minkoff, Mr. Lazar",CONNECTED
+848,"Markoff, Mr. Marin",106,"Mionoff, Mr. Stoytcho",CONNECTED
+848,"Markoff, Mr. Marin",754,"Jonkoff, Mr. Lalio",CONNECTED
+848,"Markoff, Mr. Marin",288,"Naidenoff, Mr. Penko",CONNECTED
+848,"Markoff, Mr. Marin",878,"Petroff, Mr. Nedelio",CONNECTED
+882,"Markun, Mr. Johann",692,"Karun, Miss. Manca",CONNECTED
+882,"Markun, Mr. Johann",932,"Karun, Mr. Franz",CONNECTED
+749,"Marvin, Mr. Daniel Warner",1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",WIFE
+1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",749,"Marvin, Mr. Daniel Warner",HUSBAND
+20,"Masselmani, Mrs. Fatima",355,"Yousif, Mr. Wazli",COUSIN
+20,"Masselmani, Mrs. Fatima",1184,"Nasr, Mr. Mustafa",COUSIN
+1077,"Maybery, Mr. Frank Hubert",627,"Kirkland, Rev. Charles Leonard",CONNECTED
+1162,"McCaffry, Mr. Thomas Francis",1010,"Beattie, Mr. Thomson",CONNECTED
+1196,"McCarthy, Miss. Catherine Katie""""",681,"Peters, Miss. Katie",CONNECTED
+1196,"McCarthy, Miss. Catherine Katie""""",388,"Buss, Miss. Kate",CONNECTED
+1196,"McCarthy, Miss. Catherine Katie""""",777,"Tobin, Mr. Roger",CONNECTED
+7,"McCarthy, Mr. Timothy J",1038,"Hilliard, Mr. Herbert Henry",CONNECTED
+829,"McCormack, Mr. Thomas Joseph",215,"Kiernan, Mr. Philip",COUSIN
+829,"McCormack, Mr. Thomas Joseph",1013,"Kiernan, Mr. John",COUSIN
+331,"McCoy, Miss. Agnes",302,"McCoy, Mr. Bernard",FATHER
+331,"McCoy, Miss. Agnes",1019,"McCoy, Miss. Alicia",SISTER
+1019,"McCoy, Miss. Alicia",302,"McCoy, Mr. Bernard",FATHER
+1019,"McCoy, Miss. Alicia",331,"McCoy, Miss. Agnes",SISTER
+302,"McCoy, Mr. Bernard",1019,"McCoy, Miss. Alicia",DAUGHTER
+302,"McCoy, Mr. Bernard",331,"McCoy, Miss. Agnes",DAUGHTER
+719,"McEvoy, Mr. Michael",1092,"Murphy, Miss. Nora",CONNECTED
+23,"McGowan, Miss. Anna ""Annie""",1098,"McGowan, Miss. Katherine",SISTER
+1098,"McGowan, Miss. Katherine",23,"McGowan, Miss. Anna ""Annie""",SISTER
+398,"McKane, Mr. Peter David",1230,"Denbury, Mr. Herbert",CONNECTED
+398,"McKane, Mr. Peter David",583,"Downton, Mr. William James",CONNECTED
+398,"McKane, Mr. Peter David",727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",CONNECTED
+398,"McKane, Mr. Peter David",923,"Jefferys, Mr. Clifford Thomas",CONNECTED
+398,"McKane, Mr. Peter David",1211,"Jefferys, Mr. Ernest Wilfred",CONNECTED
+398,"McKane, Mr. Peter David",477,"Renouf, Mr. Peter Henry",CONNECTED
+398,"McKane, Mr. Peter David",1150,"Bentham, Miss. Lilian W",CONNECTED
+398,"McKane, Mr. Peter David",57,"Rugg, Miss. Emily",CONNECTED
+744,"McNamee, Mr. Neal",1275,"McNamee, Mrs. Neal (Eileen O'Leary)",WIFE
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",744,"McNamee, Mr. Neal",HUSBAND
+447,"Mellinger, Miss. Madeleine Violet",273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",MOTHER
+273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",447,"Mellinger, Miss. Madeleine Violet",DAUGHTER
+197,"Mernagh, Mr. Robert",971,"Doyle, Miss. Elizabeth",COUSIN
+35,"Meyer, Mr. Edgar Joseph",376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",WIFE
+376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",35,"Meyer, Mr. Edgar Joseph",HUSBAND
+1151,"Midtsjo, Mr. Karl Albert",35,"Meyer, Mr. Edgar Joseph",CONNECTED
+246,"Minahan, Dr. William Edward",413,"Minahan, Miss. Daisy E",CONNECTED
+246,"Minahan, Dr. William Edward",1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",CONNECTED
+246,"Minahan, Dr. William Edward",926,"Mock, Mr. Philipp Edmund",SAME_CABIN
+413,"Minahan, Miss. Daisy E",1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",MOTHER
+413,"Minahan, Miss. Daisy E",246,"Minahan, Dr. William Edward",CONNECTED
+413,"Minahan, Miss. Daisy E",926,"Mock, Mr. Philipp Edmund",SAME_CABIN
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",413,"Minahan, Miss. Daisy E",DAUGHTER
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",246,"Minahan, Dr. William Edward",CONNECTED
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",926,"Mock, Mr. Philipp Edmund",SAME_CABIN
+963,"Minkoff, Mr. Lazar",878,"Petroff, Mr. Nedelio",CONNECTED
+963,"Minkoff, Mr. Lazar",848,"Markoff, Mr. Marin",CONNECTED
+963,"Minkoff, Mr. Lazar",288,"Naidenoff, Mr. Penko",CONNECTED
+963,"Minkoff, Mr. Lazar",754,"Jonkoff, Mr. Lalio",CONNECTED
+963,"Minkoff, Mr. Lazar",106,"Mionoff, Mr. Stoytcho",CONNECTED
+963,"Minkoff, Mr. Lazar",664,"Coleff, Mr. Peju",CONNECTED
+963,"Minkoff, Mr. Lazar",567,"Stoytcheff, Mr. Ilia",CONNECTED
+106,"Mionoff, Mr. Stoytcho",963,"Minkoff, Mr. Lazar",CONNECTED
+106,"Mionoff, Mr. Stoytcho",288,"Naidenoff, Mr. Penko",CONNECTED
+106,"Mionoff, Mr. Stoytcho",567,"Stoytcheff, Mr. Ilia",CONNECTED
+106,"Mionoff, Mr. Stoytcho",878,"Petroff, Mr. Nedelio",CONNECTED
+106,"Mionoff, Mr. Stoytcho",848,"Markoff, Mr. Marin",CONNECTED
+106,"Mionoff, Mr. Stoytcho",754,"Jonkoff, Mr. Lalio",CONNECTED
+106,"Mionoff, Mr. Stoytcho",664,"Coleff, Mr. Peju",CONNECTED
+926,"Mock, Mr. Philipp Edmund",1014,"Schabert, Mrs. Paul (Emma Mock)",CONNECTED
+926,"Mock, Mr. Philipp Edmund",246,"Minahan, Dr. William Edward",SAME_CABIN
+926,"Mock, Mr. Philipp Edmund",413,"Minahan, Miss. Daisy E",SAME_CABIN
+926,"Mock, Mr. Philipp Edmund",1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",SAME_CABIN
+76,"Moen, Mr. Sigurd Hansen",716,"Soholt, Mr. Peter Andreas Lauritz Andersen",SAME_CABIN
+752,"Moor, Master. Meier",824,"Moor, Mrs. (Beila)",MOTHER
+824,"Moor, Mrs. (Beila)",752,"Moor, Master. Meier",SON
+959,"Moore, Mr. Clarence Bloomfield",603,"Harrington, Mr. Charles H",CONNECTED
+110,"Moran, Miss. Bertha",518,"Ryan, Mr. Patrick",CONNECTED
+110,"Moran, Miss. Bertha",769,"Moran, Mr. Daniel J",FATHER
+769,"Moran, Mr. Daniel J",518,"Ryan, Mr. Patrick",CONNECTED
+769,"Moran, Mr. Daniel J",110,"Moran, Miss. Bertha",DAUGHTER
+706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",CONNECTED
+108,"Moss, Mr. Albert Johan",409,"Birkeland, Mr. Hans Martin Monsen",CONNECTED
+108,"Moss, Mr. Albert Johan",668,"Rommetvedt, Mr. Knud Paust",CONNECTED
+66,"Moubarek, Master. Gerios",710,"Moubarek, Master. Halim Gonios (""William George"")",BROTHER
+66,"Moubarek, Master. Gerios",1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",MOTHER
+710,"Moubarek, Master. Halim Gonios (""William George"")",66,"Moubarek, Master. Gerios",BROTHER
+710,"Moubarek, Master. Halim Gonios (""William George"")",1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",MOTHER
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",HUSBAND
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",621,"Yasbeck, Mr. Antoni",CONNECTED
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",66,"Moubarek, Master. Gerios",SON
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",710,"Moubarek, Master. Halim Gonios (""William George"")",SON
+842,"Mudd, Mr. Thomas Charles",773,"Mack, Mrs. (Mary)",SAME_TICKET
+698,"Mullens, Miss. Katherine ""Katie""",613,"Murphy, Miss. Margaret Jane",CONNECTED
+698,"Mullens, Miss. Katherine ""Katie""",242,"Murphy, Miss. Katherine ""Kate""",CONNECTED
+698,"Mullens, Miss. Katherine ""Katie""",157,"Gilnagh, Miss. Katherine ""Katie""",CONNECTED
+962,"Mulvihill, Miss. Bertha E",511,"Daly, Mr. Eugene Patrick",CONNECTED
+962,"Mulvihill, Miss. Bertha E",1183,"Daly, Miss. Margaret Marcella Maggie""""",CONNECTED
+242,"Murphy, Miss. Katherine ""Kate""",698,"Mullens, Miss. Katherine ""Katie""",CONNECTED
+242,"Murphy, Miss. Katherine ""Kate""",613,"Murphy, Miss. Margaret Jane",SISTER
+242,"Murphy, Miss. Katherine ""Kate""",157,"Gilnagh, Miss. Katherine ""Katie""",CONNECTED
+613,"Murphy, Miss. Margaret Jane",698,"Mullens, Miss. Katherine ""Katie""",CONNECTED
+613,"Murphy, Miss. Margaret Jane",242,"Murphy, Miss. Katherine ""Kate""",SISTER
+613,"Murphy, Miss. Margaret Jane",1013,"Kiernan, Mr. John",FIANCE
+613,"Murphy, Miss. Margaret Jane",157,"Gilnagh, Miss. Katherine ""Katie""",CONNECTED
+1092,"Murphy, Miss. Nora",719,"McEvoy, Mr. Michael",CONNECTED
+288,"Naidenoff, Mr. Penko",664,"Coleff, Mr. Peju",CONNECTED
+288,"Naidenoff, Mr. Penko",754,"Jonkoff, Mr. Lalio",CONNECTED
+288,"Naidenoff, Mr. Penko",567,"Stoytcheff, Mr. Ilia",CONNECTED
+288,"Naidenoff, Mr. Penko",848,"Markoff, Mr. Marin",CONNECTED
+288,"Naidenoff, Mr. Penko",878,"Petroff, Mr. Nedelio",CONNECTED
+288,"Naidenoff, Mr. Penko",963,"Minkoff, Mr. Lazar",CONNECTED
+288,"Naidenoff, Mr. Penko",106,"Mionoff, Mr. Stoytcho",CONNECTED
+382,"Nakid, Miss. Maria (""Mary"")",1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",MOTHER
+382,"Nakid, Miss. Maria (""Mary"")",623,"Nakid, Mr. Sahid",FATHER
+623,"Nakid, Mr. Sahid",1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",WIFE
+623,"Nakid, Mr. Sahid",382,"Nakid, Miss. Maria (""Mary"")",DAUGHTER
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",623,"Nakid, Mr. Sahid",HUSBAND
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",382,"Nakid, Miss. Maria (""Mary"")",DAUGHTER
+1184,"Nasr, Mr. Mustafa",355,"Yousif, Mr. Wazli",COUSIN
+1184,"Nasr, Mr. Mustafa",20,"Masselmani, Mrs. Fatima",COUSIN
+123,"Nasser, Mr. Nicholas",911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",CONNECTED
+341,"Navratil, Master. Edmond Roger",149,"Navratil, Mr. Michel (""Louis M Hoffman"")",FATHER
+341,"Navratil, Master. Edmond Roger",194,"Navratil, Master. Michel M",BROTHER
+341,"Navratil, Master. Edmond Roger",1214,"Nesson, Mr. Israel",SAME_CABIN
+194,"Navratil, Master. Michel M",149,"Navratil, Mr. Michel (""Louis M Hoffman"")",FATHER
+194,"Navratil, Master. Michel M",341,"Navratil, Master. Edmond Roger",BROTHER
+194,"Navratil, Master. Michel M",1214,"Nesson, Mr. Israel",SAME_CABIN
+149,"Navratil, Mr. Michel (""Louis M Hoffman"")",194,"Navratil, Master. Michel M",SON
+149,"Navratil, Mr. Michel (""Louis M Hoffman"")",341,"Navratil, Master. Edmond Roger",SON
+149,"Navratil, Mr. Michel (""Louis M Hoffman"")",1214,"Nesson, Mr. Israel",SAME_CABIN
+1214,"Nesson, Mr. Israel",341,"Navratil, Master. Edmond Roger",SAME_CABIN
+1214,"Nesson, Mr. Israel",194,"Navratil, Master. Michel M",SAME_CABIN
+1214,"Nesson, Mr. Israel",149,"Navratil, Mr. Michel (""Louis M Hoffman"")",SAME_CABIN
+216,"Newell, Miss. Madeleine",660,"Newell, Mr. Arthur Webster",FATHER
+216,"Newell, Miss. Madeleine",394,"Newell, Miss. Marjorie",SISTER
+394,"Newell, Miss. Marjorie",216,"Newell, Miss. Madeleine",SISTER
+394,"Newell, Miss. Marjorie",660,"Newell, Mr. Arthur Webster",FATHER
+660,"Newell, Mr. Arthur Webster",394,"Newell, Miss. Marjorie",DAUGHTER
+660,"Newell, Mr. Arthur Webster",216,"Newell, Miss. Madeleine",DAUGHTER
+137,"Newsom, Miss. Helen Monypeny",249,"Beckwith, Mr. Richard Leonard",STEPFATHER
+137,"Newsom, Miss. Helen Monypeny",872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",MOTHER
+146,"Nicholls, Mr. Joseph Charles",1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",CONNECTED
+146,"Nicholls, Mr. Joseph Charles",550,"Davies, Master. John Morgan Jr",CONNECTED
+146,"Nicholls, Mr. Joseph Charles",1068,"Sincock, Miss. Maude",CONNECTED
+126,"Nicola-Yarred, Master. Elias",40,"Nicola-Yarred, Miss. Jamila",SISTER
+40,"Nicola-Yarred, Miss. Jamila",126,"Nicola-Yarred, Master. Elias",BROTHER
+964,"Nieminen, Miss. Manta Josefina",529,"Salonen, Mr. Johan Werner",CONNECTED
+1149,"Niklasson, Mr. Samuel",1192,"Olsson, Mr. Oscar Wilhelm",CONNECTED
+1149,"Niklasson, Mr. Samuel",806,"Johansson, Mr. Karl Johan",CONNECTED
+316,"Nilsson, Miss. Helmina Josefina",990,"Braf, Miss. Elin Ester Maria",CONNECTED
+67,"Nye, Mrs. (Elizabeth Ramell)",1114,"Cook, Mrs. (Selena Rogers)",COMPANION
+67,"Nye, Mrs. (Elizabeth Ramell)",346,"Brown, Miss. Amelia ""Mildred""",COMPANION
+67,"Nye, Mrs. (Elizabeth Ramell)",517,"Lemore, Mrs. (Amelia Milley)",COMPANION
+142,"Nysten, Miss. Anna Sofia",14,"Andersson, Mr. Anders Johan",CONNECTED
+142,"Nysten, Miss. Anna Sofia",611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",CONNECTED
+142,"Nysten, Miss. Anna Sofia",424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",CONNECTED
+142,"Nysten, Miss. Anna Sofia",617,"Danbom, Mr. Ernst Gilbert",CONNECTED
+365,"O'Brien, Mr. Thomas",187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",WIFE
+187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",365,"O'Brien, Mr. Thomas",HUSBAND
+29,"O'Dwyer, Miss. Ellen ""Nellie""",1075,"Lane, Mr. Patrick",CONNECTED
+1306,"Oliva y Ocana, Dona. Fermina",1075,"Lane, Mr. Patrick",CONNECTED
+1306,"Oliva y Ocana, Dona. Fermina",506,"Penasco y Castellana, Mr. Victor de Satode",CONNECTED
+1306,"Oliva y Ocana, Dona. Fermina",308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",SAME_TICKET
+913,"Olsen, Master. Artur Karl",198,"Olsen, Mr. Karl Siegwart Andreas",FATHER
+913,"Olsen, Master. Artur Karl",128,"Madsen, Mr. Fridtjof Arne",CONNECTED
+509,"Olsen, Mr. Henry Margido",1102,"Andersen, Mr. Albert Karvin",CONNECTED
+509,"Olsen, Mr. Henry Margido",997,"Holthen, Mr. Johan Martin",CONNECTED
+198,"Olsen, Mr. Karl Siegwart Andreas",913,"Olsen, Master. Artur Karl",SON
+198,"Olsen, Mr. Karl Siegwart Andreas",128,"Madsen, Mr. Fridtjof Arne",CONNECTED
+397,"Olsson, Miss. Elina",1233,"Lundstrom, Mr. Thure Edvin",FIANCE
+1192,"Olsson, Mr. Oscar Wilhelm",1149,"Niklasson, Mr. Samuel",CONNECTED
+1192,"Olsson, Mr. Oscar Wilhelm",806,"Johansson, Mr. Karl Johan",CONNECTED
+1172,"Oreskovic, Miss. Jelka",405,"Oreskovic, Miss. Marija",SISTER
+1172,"Oreskovic, Miss. Jelka",726,"Oreskovic, Mr. Luka",FATHER
+405,"Oreskovic, Miss. Marija",726,"Oreskovic, Mr. Luka",FATHER
+405,"Oreskovic, Miss. Marija",1172,"Oreskovic, Miss. Jelka",SISTER
+726,"Oreskovic, Mr. Luka",405,"Oreskovic, Miss. Marija",DAUGHTER
+726,"Oreskovic, Mr. Luka",1172,"Oreskovic, Miss. Jelka",DAUGHTER
+139,"Osen, Mr. Olaf Elon",877,"Gustafsson, Mr. Alfred Ossian",CONNECTED
+918,"Ostby, Miss. Helene Ragnhild",55,"Ostby, Mr. Engelhart Cornelius",FATHER
+55,"Ostby, Mr. Engelhart Cornelius",918,"Ostby, Miss. Helene Ragnhild",DAUGHTER
+1171,"Oxenham, Mr. Percy Thomas",220,"Harris, Mr. Walter",CONNECTED
+8,"Palsson, Master. Gosta Leonard",375,"Palsson, Miss. Stina Viola",SISTER
+8,"Palsson, Master. Gosta Leonard",1281,"Palsson, Master. Paul Folke",BROTHER
+8,"Palsson, Master. Gosta Leonard",568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",MOTHER
+8,"Palsson, Master. Gosta Leonard",25,"Palsson, Miss. Torborg Danira",SISTER
+1281,"Palsson, Master. Paul Folke",8,"Palsson, Master. Gosta Leonard",BROTHER
+1281,"Palsson, Master. Paul Folke",568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",MOTHER
+1281,"Palsson, Master. Paul Folke",25,"Palsson, Miss. Torborg Danira",SISTER
+1281,"Palsson, Master. Paul Folke",375,"Palsson, Miss. Stina Viola",SISTER
+375,"Palsson, Miss. Stina Viola",1281,"Palsson, Master. Paul Folke",BROTHER
+375,"Palsson, Miss. Stina Viola",568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",MOTHER
+375,"Palsson, Miss. Stina Viola",25,"Palsson, Miss. Torborg Danira",SISTER
+375,"Palsson, Miss. Stina Viola",8,"Palsson, Master. Gosta Leonard",BROTHER
+25,"Palsson, Miss. Torborg Danira",1281,"Palsson, Master. Paul Folke",BROTHER
+25,"Palsson, Miss. Torborg Danira",568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",MOTHER
+25,"Palsson, Miss. Torborg Danira",375,"Palsson, Miss. Stina Viola",SISTER
+25,"Palsson, Miss. Torborg Danira",8,"Palsson, Master. Gosta Leonard",BROTHER
+568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",375,"Palsson, Miss. Stina Viola",DAUGHTER
+568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",25,"Palsson, Miss. Torborg Danira",DAUGHTER
+568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",8,"Palsson, Master. Gosta Leonard",SON
+568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",1281,"Palsson, Master. Paul Folke",SON
+165,"Panula, Master. Eino Viljami",1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",CONNECTED
+165,"Panula, Master. Eino Viljami",687,"Panula, Mr. Jaako Arnold",FATHER
+165,"Panula, Master. Eino Viljami",639,"Panula, Mrs. Juha (Maria Emilia Ojala)",MOTHER
+165,"Panula, Master. Eino Viljami",825,"Panula, Master. Urho Abraham",BROTHER
+165,"Panula, Master. Eino Viljami",51,"Panula, Master. Juha Niilo",BROTHER
+165,"Panula, Master. Eino Viljami",267,"Panula, Mr. Ernesti Arvid",FATHER
+51,"Panula, Master. Juha Niilo",825,"Panula, Master. Urho Abraham",BROTHER
+51,"Panula, Master. Juha Niilo",267,"Panula, Mr. Ernesti Arvid",FATHER
+51,"Panula, Master. Juha Niilo",687,"Panula, Mr. Jaako Arnold",FATHER
+51,"Panula, Master. Juha Niilo",1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",CONNECTED
+51,"Panula, Master. Juha Niilo",165,"Panula, Master. Eino Viljami",BROTHER
+51,"Panula, Master. Juha Niilo",639,"Panula, Mrs. Juha (Maria Emilia Ojala)",MOTHER
+825,"Panula, Master. Urho Abraham",267,"Panula, Mr. Ernesti Arvid",FATHER
+825,"Panula, Master. Urho Abraham",687,"Panula, Mr. Jaako Arnold",FATHER
+825,"Panula, Master. Urho Abraham",165,"Panula, Master. Eino Viljami",BROTHER
+825,"Panula, Master. Urho Abraham",639,"Panula, Mrs. Juha (Maria Emilia Ojala)",MOTHER
+825,"Panula, Master. Urho Abraham",51,"Panula, Master. Juha Niilo",BROTHER
+825,"Panula, Master. Urho Abraham",1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",CONNECTED
+267,"Panula, Mr. Ernesti Arvid",639,"Panula, Mrs. Juha (Maria Emilia Ojala)",WIFE
+267,"Panula, Mr. Ernesti Arvid",825,"Panula, Master. Urho Abraham",SON
+267,"Panula, Mr. Ernesti Arvid",687,"Panula, Mr. Jaako Arnold",CONNECTED
+267,"Panula, Mr. Ernesti Arvid",165,"Panula, Master. Eino Viljami",SON
+267,"Panula, Mr. Ernesti Arvid",51,"Panula, Master. Juha Niilo",SON
+267,"Panula, Mr. Ernesti Arvid",1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",CONNECTED
+687,"Panula, Mr. Jaako Arnold",825,"Panula, Master. Urho Abraham",SON
+687,"Panula, Mr. Jaako Arnold",267,"Panula, Mr. Ernesti Arvid",CONNECTED
+687,"Panula, Mr. Jaako Arnold",51,"Panula, Master. Juha Niilo",SON
+687,"Panula, Mr. Jaako Arnold",1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",CONNECTED
+687,"Panula, Mr. Jaako Arnold",165,"Panula, Master. Eino Viljami",SON
+687,"Panula, Mr. Jaako Arnold",639,"Panula, Mrs. Juha (Maria Emilia Ojala)",WIFE
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",CONNECTED
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",267,"Panula, Mr. Ernesti Arvid",HUSBAND
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",687,"Panula, Mr. Jaako Arnold",HUSBAND
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",51,"Panula, Master. Juha Niilo",SON
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",825,"Panula, Master. Urho Abraham",SON
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",165,"Panula, Master. Eino Viljami",SON
+278,"Parkes, Mr. Francis ""Frank""",467,"Campbell, Mr. William",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",467,"Campbell, Mr. William",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",733,"Knight, Mr. Robert J",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",24,"Sloper, Mr. William Thompson",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",675,"Watson, Mr. Ennis Hastings",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",482,"Frost, Mr. Anthony Wood ""Archie""",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",1158,"Chisholm, Mr. Roderick Robert Crispin",CONNECTED
+278,"Parkes, Mr. Francis ""Frank""",807,"Andrews, Mr. Thomas Jr",CONNECTED
+260,"Parrish, Mrs. (Lutie Davis)",881,"Shelley, Mrs. William (Imanita Parrish Hall)",CONNECTED
+332,"Partner, Mr. Austen",712,"Klaber, Mr. Herman",COMPANION
+332,"Partner, Mr. Austen",712,"Klaber, Mr. Herman",CONNECTED
+576,"Patchett, Mr. George",761,"Garfirth, Mr. John",CONNECTED
+1282,"Payne, Mr. Vivian Ponsonby",821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",CONNECTED
+1282,"Payne, Mr. Vivian Ponsonby",521,"Perreault, Miss. Anne",CONNECTED
+1282,"Payne, Mr. Vivian Ponsonby",1200,"Hays, Mr. Charles Melville",CONNECTED
+1173,"Peacock, Master. Alfred Edward",1301,"Peacock, Miss. Treasteall",SISTER
+1173,"Peacock, Master. Alfred Edward",1051,"Peacock, Mrs. Benjamin (Edith Nile)",MOTHER
+1301,"Peacock, Miss. Treasteall",1051,"Peacock, Mrs. Benjamin (Edith Nile)",MOTHER
+1301,"Peacock, Miss. Treasteall",1173,"Peacock, Master. Alfred Edward",BROTHER
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",1173,"Peacock, Master. Alfred Edward",SON
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",1301,"Peacock, Miss. Treasteall",DAUGHTER
+337,"Pears, Mr. Thomas Clinton",152,"Pears, Mrs. Thomas (Edith Wearne)",WIFE
+152,"Pears, Mrs. Thomas (Edith Wearne)",337,"Pears, Mr. Thomas Clinton",HUSBAND
+506,"Penasco y Castellana, Mr. Victor de Satode",337,"Pears, Mr. Thomas Clinton",CONNECTED
+506,"Penasco y Castellana, Mr. Victor de Satode",1306,"Oliva y Ocana, Dona. Fermina",CONNECTED
+506,"Penasco y Castellana, Mr. Victor de Satode",308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",WIFE
+308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",506,"Penasco y Castellana, Mr. Victor de Satode",HUSBAND
+308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",1306,"Oliva y Ocana, Dona. Fermina",CONNECTED
+213,"Perkin, Mr. John Henry",478,"Braund, Mr. Lewis Richard",COUSIN
+213,"Perkin, Mr. John Henry",1,"Braund, Mr. Owen Harris",COUSIN
+213,"Perkin, Mr. John Henry",228,"Lovell, Mr. John Hall (""Henry"")",COUSIN
+182,"Pernot, Mr. Rene",790,"Guggenheim, Mr. Benjamin",EMPLOYER
+521,"Perreault, Miss. Anne",821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",CONNECTED
+521,"Perreault, Miss. Anne",1282,"Payne, Mr. Vivian Ponsonby",CONNECTED
+521,"Perreault, Miss. Anne",1200,"Hays, Mr. Charles Melville",CONNECTED
+268,"Persson, Mr. Ernst Ulrik",252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",SISTER
+268,"Persson, Mr. Ernst Ulrik",206,"Strom, Miss. Telma Matilda",NIECE
+1309,"Peter, Master. Michael J",534,"Peter, Mrs. Catherine (Catherine Rizk)",MOTHER
+1309,"Peter, Master. Michael J",129,"Peter, Miss. Anna",SISTER
+129,"Peter, Miss. Anna",1309,"Peter, Master. Michael J",BROTHER
+129,"Peter, Miss. Anna",534,"Peter, Mrs. Catherine (Catherine Rizk)",MOTHER
+534,"Peter, Mrs. Catherine (Catherine Rizk)",1309,"Peter, Master. Michael J",SON
+534,"Peter, Mrs. Catherine (Catherine Rizk)",129,"Peter, Miss. Anna",DAUGHTER
+681,"Peters, Miss. Katie",388,"Buss, Miss. Kate",CONNECTED
+681,"Peters, Miss. Katie",1196,"McCarthy, Miss. Catherine Katie""""",CONNECTED
+681,"Peters, Miss. Katie",777,"Tobin, Mr. Roger",CONNECTED
+101,"Petranec, Miss. Matilda",314,"Hendekovic, Mr. Ignjac",CONNECTED
+878,"Petroff, Mr. Nedelio",288,"Naidenoff, Mr. Penko",CONNECTED
+878,"Petroff, Mr. Nedelio",567,"Stoytcheff, Mr. Ilia",CONNECTED
+878,"Petroff, Mr. Nedelio",106,"Mionoff, Mr. Stoytcho",CONNECTED
+878,"Petroff, Mr. Nedelio",754,"Jonkoff, Mr. Lalio",CONNECTED
+878,"Petroff, Mr. Nedelio",963,"Minkoff, Mr. Lazar",CONNECTED
+878,"Petroff, Mr. Nedelio",848,"Markoff, Mr. Marin",CONNECTED
+878,"Petroff, Mr. Nedelio",664,"Coleff, Mr. Peju",CONNECTED
+443,"Petterson, Mr. Johan Emil",41,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",SISTER
+808,"Pettersson, Miss. Ellen Natalia",361,"Skoog, Mr. Wilhelm",UNCLE
+808,"Pettersson, Miss. Ellen Natalia",1304,"Henriksson, Miss. Jenny Lovisa",COUSIN
+1078,"Phillips, Miss. Alice Frances Louisa",1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",SHARED_CABIN
+1078,"Phillips, Miss. Alice Frances Louisa",550,"Davies, Master. John Morgan Jr",SHARED_CABIN
+1078,"Phillips, Miss. Alice Frances Louisa",1194,"Phillips, Mr. Escott Robert",FATHER
+428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",CONNECTED
+1194,"Phillips, Mr. Escott Robert",1078,"Phillips, Miss. Alice Frances Louisa",DAUGHTER
+191,"Pinsky, Mrs. (Rosa)",459,"Toomey, Miss. Ellen",CONNECTED
+191,"Pinsky, Mrs. (Rosa)",1012,"Watt, Miss. Bertha J",COMPANION
+191,"Pinsky, Mrs. (Rosa)",162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",COMPANION
+1161,"Pokrnic, Mr. Mate",1195,"Pokrnic, Mr. Tome",CONNECTED
+1195,"Pokrnic, Mr. Tome",1161,"Pokrnic, Mr. Mate",CONNECTED
+801,"Ponesell, Mr. Martin",715,"Greenberg, Mr. Samuel",CONNECTED
+111,"Porter, Mr. Walter Chamberlain",1227,"Maguire, Mr. John Edward",CONNECTED
+111,"Porter, Mr. Walter Chamberlain",476,"Clifford, Mr. George Quincy",CONNECTED
+880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",311,"Hays, Miss. Margaret Bechstein",CONNECTED
+880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",1042,"Earnshaw, Mrs. Boulton (Olive Potter)",DAUGHTER
+531,"Quick, Miss. Phyllis May",1095,"Quick, Miss. Winifred Vera",SISTER
+531,"Quick, Miss. Phyllis May",507,"Quick, Mrs. Frederick Charles (Jane Richards)",MOTHER
+1095,"Quick, Miss. Winifred Vera",531,"Quick, Miss. Phyllis May",SISTER
+1095,"Quick, Miss. Winifred Vera",507,"Quick, Mrs. Frederick Charles (Jane Richards)",MOTHER
+507,"Quick, Mrs. Frederick Charles (Jane Richards)",1095,"Quick, Miss. Winifred Vera",DAUGHTER
+507,"Quick, Mrs. Frederick Charles (Jane Richards)",531,"Quick, Miss. Phyllis May",DAUGHTER
+109,"Rekic, Mr. Tido",871,"Balkic, Mr. Cerin",CONNECTED
+109,"Rekic, Mr. Tido",1101,"Delalic, Mr. Redjo",CONNECTED
+109,"Rekic, Mr. Tido",562,"Sivic, Mr. Husein",CONNECTED
+477,"Renouf, Mr. Peter Henry",1150,"Bentham, Miss. Lilian W",CONNECTED
+477,"Renouf, Mr. Peter Henry",1211,"Jefferys, Mr. Ernest Wilfred",CONNECTED
+477,"Renouf, Mr. Peter Henry",727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",WIFE
+477,"Renouf, Mr. Peter Henry",398,"McKane, Mr. Peter David",CONNECTED
+477,"Renouf, Mr. Peter Henry",923,"Jefferys, Mr. Clifford Thomas",CONNECTED
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",477,"Renouf, Mr. Peter Henry",HUSBAND
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",398,"McKane, Mr. Peter David",CONNECTED
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",923,"Jefferys, Mr. Clifford Thomas",BROTHER
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",1211,"Jefferys, Mr. Ernest Wilfred",BROTHER
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",1150,"Bentham, Miss. Lilian W",CONNECTED
+1182,"Rheims, Mr. George Alexander Lucien",1190,"Loring, Mr. Joseph Holland",CONNECTED
+947,"Rice, Master. Albert",279,"Rice, Master. Eric",BROTHER
+947,"Rice, Master. Albert",788,"Rice, Master. George Hugh",BROTHER
+947,"Rice, Master. Albert",886,"Rice, Mrs. William (Margaret Norton)",MOTHER
+947,"Rice, Master. Albert",17,"Rice, Master. Eugene",BROTHER
+947,"Rice, Master. Albert",172,"Rice, Master. Arthur",BROTHER
+172,"Rice, Master. Arthur",947,"Rice, Master. Albert",BROTHER
+172,"Rice, Master. Arthur",279,"Rice, Master. Eric",BROTHER
+172,"Rice, Master. Arthur",886,"Rice, Mrs. William (Margaret Norton)",MOTHER
+172,"Rice, Master. Arthur",17,"Rice, Master. Eugene",BROTHER
+172,"Rice, Master. Arthur",788,"Rice, Master. George Hugh",BROTHER
+279,"Rice, Master. Eric",17,"Rice, Master. Eugene",BROTHER
+279,"Rice, Master. Eric",886,"Rice, Mrs. William (Margaret Norton)",MOTHER
+279,"Rice, Master. Eric",788,"Rice, Master. George Hugh",BROTHER
+279,"Rice, Master. Eric",947,"Rice, Master. Albert",BROTHER
+279,"Rice, Master. Eric",172,"Rice, Master. Arthur",BROTHER
+17,"Rice, Master. Eugene",279,"Rice, Master. Eric",BROTHER
+17,"Rice, Master. Eugene",886,"Rice, Mrs. William (Margaret Norton)",MOTHER
+17,"Rice, Master. Eugene",172,"Rice, Master. Arthur",BROTHER
+17,"Rice, Master. Eugene",788,"Rice, Master. George Hugh",BROTHER
+17,"Rice, Master. Eugene",947,"Rice, Master. Albert",BROTHER
+788,"Rice, Master. George Hugh",947,"Rice, Master. Albert",BROTHER
+788,"Rice, Master. George Hugh",279,"Rice, Master. Eric",BROTHER
+788,"Rice, Master. George Hugh",172,"Rice, Master. Arthur",BROTHER
+788,"Rice, Master. George Hugh",17,"Rice, Master. Eugene",BROTHER
+788,"Rice, Master. George Hugh",886,"Rice, Mrs. William (Margaret Norton)",MOTHER
+886,"Rice, Mrs. William (Margaret Norton)",947,"Rice, Master. Albert",SON
+886,"Rice, Mrs. William (Margaret Norton)",172,"Rice, Master. Arthur",SON
+886,"Rice, Mrs. William (Margaret Norton)",279,"Rice, Master. Eric",SON
+886,"Rice, Mrs. William (Margaret Norton)",17,"Rice, Master. Eugene",SON
+886,"Rice, Mrs. William (Margaret Norton)",788,"Rice, Master. George Hugh",SON
+136,"Richard, Mr. Emile",818,"Mallet, Mr. Albert",FRIEND
+832,"Richards, Master. George Sibley",408,"Richards, Master. William Rowe",BROTHER
+832,"Richards, Master. George Sibley",530,"Hocking, Mr. Richard George",UNCLE
+832,"Richards, Master. George Sibley",944,"Hocking, Miss. Ellen Nellie""""",AUNT
+832,"Richards, Master. George Sibley",893,"Wilkes, Mrs. James (Ellen Needs)",GREAT-AUNT
+832,"Richards, Master. George Sibley",775,"Hocking, Mrs. Elizabeth (Eliza Needs)",GRANDMOTHER
+832,"Richards, Master. George Sibley",438,"Richards, Mrs. Sidney (Emily Hocking)",MOTHER
+408,"Richards, Master. William Rowe",775,"Hocking, Mrs. Elizabeth (Eliza Needs)",GRANDMOTHER
+408,"Richards, Master. William Rowe",832,"Richards, Master. George Sibley",BROTHER
+408,"Richards, Master. William Rowe",893,"Wilkes, Mrs. James (Ellen Needs)",GREAT-AUNT
+408,"Richards, Master. William Rowe",530,"Hocking, Mr. Richard George",UNCLE
+408,"Richards, Master. William Rowe",438,"Richards, Mrs. Sidney (Emily Hocking)",MOTHER
+408,"Richards, Master. William Rowe",944,"Hocking, Miss. Ellen Nellie""""",AUNT
+438,"Richards, Mrs. Sidney (Emily Hocking)",893,"Wilkes, Mrs. James (Ellen Needs)",AUNT
+438,"Richards, Mrs. Sidney (Emily Hocking)",530,"Hocking, Mr. Richard George",BROTHER
+438,"Richards, Mrs. Sidney (Emily Hocking)",775,"Hocking, Mrs. Elizabeth (Eliza Needs)",MOTHER
+438,"Richards, Mrs. Sidney (Emily Hocking)",408,"Richards, Master. William Rowe",SON
+438,"Richards, Mrs. Sidney (Emily Hocking)",944,"Hocking, Miss. Ellen Nellie""""",SISTER
+438,"Richards, Mrs. Sidney (Emily Hocking)",832,"Richards, Master. George Sibley",SON
+527,"Ridsdale, Miss. Lucy",636,"Davis, Miss. Mary",CONNECTED
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",687,"Panula, Mr. Jaako Arnold",CONNECTED
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",267,"Panula, Mr. Ernesti Arvid",CONNECTED
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",825,"Panula, Master. Urho Abraham",CONNECTED
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",639,"Panula, Mrs. Juha (Maria Emilia Ojala)",CONNECTED
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",165,"Panula, Master. Eino Viljami",CONNECTED
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",51,"Panula, Master. Juha Niilo",CONNECTED
+374,"Ringhini, Mr. Sante",270,"Bissette, Miss. Amelia",CONNECTED
+374,"Ringhini, Mr. Sante",326,"Young, Miss. Marie Grice",CONNECTED
+374,"Ringhini, Mr. Sante",1206,"White, Mrs. John Stuart (Ella Holmes)",CONNECTED
+539,"Risien, Mr. Samuel Beard",1274,"Risien, Mrs. Samuel (Emma)",WIFE
+1274,"Risien, Mrs. Samuel (Emma)",539,"Risien, Mr. Samuel Beard",HUSBAND
+558,"Robbins, Mr. Victor",717,"Endres, Miss. Caroline Louise",CONNECTED
+558,"Robbins, Mr. Victor",701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",CONNECTED
+558,"Robbins, Mr. Victor",381,"Bidois, Miss. Rosalie",CONNECTED
+558,"Robbins, Mr. Victor",1094,"Astor, Col. John Jacob",EMPLOYER
+780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",1216,"Kreuchen, Miss. Emilie",MAID
+780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",690,"Madill, Miss. Georgette Alexandra",DAUGHTER
+780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",731,"Allen, Miss. Elisabeth Walton",NIECE
+917,"Robins, Mr. Alexander A",785,"Ali, Mr. William",CONNECTED
+917,"Robins, Mr. Alexander A",412,"Hart, Mr. Henry",CONNECTED
+917,"Robins, Mr. Alexander A",1008,"Thomas, Mr. John",CONNECTED
+917,"Robins, Mr. Alexander A",865,"Gill, Mr. John William",CONNECTED
+917,"Robins, Mr. Alexander A",202,"Sage, Mr. Frederick",CONNECTED
+917,"Robins, Mr. Alexander A",777,"Tobin, Mr. Roger",CONNECTED
+917,"Robins, Mr. Alexander A",758,"Bailey, Mr. Percy Andrew",CONNECTED
+917,"Robins, Mr. Alexander A",133,"Robins, Mrs. Alexander A (Grace Charity Laury)",WIFE
+133,"Robins, Mrs. Alexander A (Grace Charity Laury)",917,"Robins, Mr. Alexander A",HUSBAND
+868,"Roebling, Mr. Washington Augustus II",340,"Blackwell, Mr. Stephen Weart",CONNECTED
+668,"Rommetvedt, Mr. Knud Paust",409,"Birkeland, Mr. Hans Martin Monsen",CONNECTED
+668,"Rommetvedt, Mr. Knud Paust",108,"Moss, Mr. Albert Johan",CONNECTED
+1176,"Rosblom, Miss. Salli Helena",255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",MOTHER
+1176,"Rosblom, Miss. Salli Helena",425,"Rosblom, Mr. Viktor Richard",FATHER
+425,"Rosblom, Mr. Viktor Richard",1176,"Rosblom, Miss. Salli Helena",DAUGHTER
+425,"Rosblom, Mr. Viktor Richard",255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",WIFE
+255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",1176,"Rosblom, Miss. Salli Helena",DAUGHTER
+255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",425,"Rosblom, Mr. Viktor Richard",HUSBAND
+1219,"Rosenshine, Mr. George (Mr George Thorne"")""",257,"Thorne, Mrs. Gertrude Maybelle",CONNECTED
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",505,"Maioni, Miss. Roberta",CONNECTED
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",337,"Pears, Mr. Thomas Clinton",FATHER
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",258,"Cherry, Miss. Gladys",CONNECTED
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",258,"Cherry, Miss. Gladys",CONNECTED
+912,"Rothschild, Mr. Martin",514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",WIFE
+514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",912,"Rothschild, Mr. Martin",HUSBAND
+57,"Rugg, Miss. Emily",398,"McKane, Mr. Peter David",CONNECTED
+57,"Rugg, Miss. Emily",1150,"Bentham, Miss. Lilian W",CONNECTED
+575,"Rush, Mr. Alfred George John",329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",CONNECTED
+575,"Rush, Mr. Alfred George John",166,"Goldsmith, Master. Frank John William ""Frankie""",CONNECTED
+575,"Rush, Mr. Alfred George John",549,"Goldsmith, Mr. Frank John",CONNECTED
+518,"Ryan, Mr. Patrick",769,"Moran, Mr. Daniel J",CONNECTED
+518,"Ryan, Mr. Patrick",110,"Moran, Miss. Bertha",CONNECTED
+956,"Ryerson, Master. John Borie",312,"Ryerson, Miss. Emily Borie",SISTER
+956,"Ryerson, Master. John Borie",916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",MOTHER
+956,"Ryerson, Master. John Borie",743,"Ryerson, Miss. Susan Parker ""Suzette""",SISTER
+956,"Ryerson, Master. John Borie",1034,"Ryerson, Mr. Arthur Larned",FATHER
+956,"Ryerson, Master. John Borie",1267,"Bowen, Miss. Grace Scott",CONNECTED
+956,"Ryerson, Master. John Borie",951,"Chaudanson, Miss. Victorine",CONNECTED
+312,"Ryerson, Miss. Emily Borie",916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",MOTHER
+312,"Ryerson, Miss. Emily Borie",743,"Ryerson, Miss. Susan Parker ""Suzette""",SISTER
+312,"Ryerson, Miss. Emily Borie",1267,"Bowen, Miss. Grace Scott",CONNECTED
+312,"Ryerson, Miss. Emily Borie",1034,"Ryerson, Mr. Arthur Larned",FATHER
+312,"Ryerson, Miss. Emily Borie",951,"Chaudanson, Miss. Victorine",MAID
+312,"Ryerson, Miss. Emily Borie",956,"Ryerson, Master. John Borie",BROTHER
+743,"Ryerson, Miss. Susan Parker ""Suzette""",312,"Ryerson, Miss. Emily Borie",SISTER
+743,"Ryerson, Miss. Susan Parker ""Suzette""",1267,"Bowen, Miss. Grace Scott",CONNECTED
+743,"Ryerson, Miss. Susan Parker ""Suzette""",956,"Ryerson, Master. John Borie",BROTHER
+743,"Ryerson, Miss. Susan Parker ""Suzette""",1034,"Ryerson, Mr. Arthur Larned",FATHER
+743,"Ryerson, Miss. Susan Parker ""Suzette""",951,"Chaudanson, Miss. Victorine",CONNECTED
+743,"Ryerson, Miss. Susan Parker ""Suzette""",916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",MOTHER
+1034,"Ryerson, Mr. Arthur Larned",956,"Ryerson, Master. John Borie",SON
+1034,"Ryerson, Mr. Arthur Larned",916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",WIFE
+1034,"Ryerson, Mr. Arthur Larned",951,"Chaudanson, Miss. Victorine",MAID
+1034,"Ryerson, Mr. Arthur Larned",1267,"Bowen, Miss. Grace Scott",EMPLOYEE
+1034,"Ryerson, Mr. Arthur Larned",785,"Ali, Mr. William",COUSIN
+1034,"Ryerson, Mr. Arthur Larned",743,"Ryerson, Miss. Susan Parker ""Suzette""",DAUGHTER
+1034,"Ryerson, Mr. Arthur Larned",312,"Ryerson, Miss. Emily Borie",DAUGHTER
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1034,"Ryerson, Mr. Arthur Larned",HUSBAND
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",312,"Ryerson, Miss. Emily Borie",DAUGHTER
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",743,"Ryerson, Miss. Susan Parker ""Suzette""",DAUGHTER
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",956,"Ryerson, Master. John Borie",SON
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1267,"Bowen, Miss. Grace Scott",EMPLOYEE
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",951,"Chaudanson, Miss. Victorine",MAID
+694,"Saad, Mr. Khalil",911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",AUNT
+694,"Saad, Mr. Khalil",909,"Assaf, Mr. Gerios",RELATIVE
+299,"Saalfeld, Mr. Adolphe",1227,"Maguire, Mr. John Edward",SAME_CABIN
+160,"Sage, Master. Thomas Henry",1252,"Sage, Master. William Henry",BROTHER
+160,"Sage, Master. Thomas Henry",864,"Sage, Miss. Dorothy Edith ""Dolly""",SISTER
+160,"Sage, Master. Thomas Henry",325,"Sage, Mr. George John Jr",FATHER
+160,"Sage, Master. Thomas Henry",1257,"Sage, Mrs. John (Annie Bullen)",MOTHER
+160,"Sage, Master. Thomas Henry",325,"Sage, Mr. George John Jr",FATHER
+160,"Sage, Master. Thomas Henry",181,"Sage, Miss. Constance Gladys",SISTER
+160,"Sage, Master. Thomas Henry",1080,"Sage, Miss. Ada",SISTER
+160,"Sage, Master. Thomas Henry",847,"Sage, Mr. Douglas Bullen",FATHER
+160,"Sage, Master. Thomas Henry",793,"Sage, Miss. Stella Anna",SISTER
+160,"Sage, Master. Thomas Henry",202,"Sage, Mr. Frederick",FATHER
+1252,"Sage, Master. William Henry",181,"Sage, Miss. Constance Gladys",SISTER
+1252,"Sage, Master. William Henry",864,"Sage, Miss. Dorothy Edith ""Dolly""",SISTER
+1252,"Sage, Master. William Henry",202,"Sage, Mr. Frederick",FATHER
+1252,"Sage, Master. William Henry",793,"Sage, Miss. Stella Anna",SISTER
+1252,"Sage, Master. William Henry",1080,"Sage, Miss. Ada",SISTER
+1252,"Sage, Master. William Henry",1257,"Sage, Mrs. John (Annie Bullen)",MOTHER
+1252,"Sage, Master. William Henry",325,"Sage, Mr. George John Jr",FATHER
+1252,"Sage, Master. William Henry",160,"Sage, Master. Thomas Henry",BROTHER
+1252,"Sage, Master. William Henry",847,"Sage, Mr. Douglas Bullen",FATHER
+1252,"Sage, Master. William Henry",325,"Sage, Mr. George John Jr",FATHER
+1080,"Sage, Miss. Ada",847,"Sage, Mr. Douglas Bullen",FATHER
+1080,"Sage, Miss. Ada",1257,"Sage, Mrs. John (Annie Bullen)",MOTHER
+1080,"Sage, Miss. Ada",181,"Sage, Miss. Constance Gladys",SISTER
+1080,"Sage, Miss. Ada",793,"Sage, Miss. Stella Anna",SISTER
+1080,"Sage, Miss. Ada",160,"Sage, Master. Thomas Henry",BROTHER
+1080,"Sage, Miss. Ada",325,"Sage, Mr. George John Jr",FATHER
+1080,"Sage, Miss. Ada",864,"Sage, Miss. Dorothy Edith ""Dolly""",SISTER
+1080,"Sage, Miss. Ada",202,"Sage, Mr. Frederick",FATHER
+1080,"Sage, Miss. Ada",1252,"Sage, Master. William Henry",BROTHER
+1080,"Sage, Miss. Ada",325,"Sage, Mr. George John Jr",FATHER
+181,"Sage, Miss. Constance Gladys",864,"Sage, Miss. Dorothy Edith ""Dolly""",SISTER
+181,"Sage, Miss. Constance Gladys",202,"Sage, Mr. Frederick",FATHER
+181,"Sage, Miss. Constance Gladys",793,"Sage, Miss. Stella Anna",SISTER
+181,"Sage, Miss. Constance Gladys",1257,"Sage, Mrs. John (Annie Bullen)",MOTHER
+181,"Sage, Miss. Constance Gladys",1252,"Sage, Master. William Henry",BROTHER
+181,"Sage, Miss. Constance Gladys",1080,"Sage, Miss. Ada",SISTER
+181,"Sage, Miss. Constance Gladys",160,"Sage, Master. Thomas Henry",BROTHER
+181,"Sage, Miss. Constance Gladys",325,"Sage, Mr. George John Jr",FATHER
+181,"Sage, Miss. Constance Gladys",325,"Sage, Mr. George John Jr",FATHER
+181,"Sage, Miss. Constance Gladys",847,"Sage, Mr. Douglas Bullen",FATHER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",325,"Sage, Mr. George John Jr",FATHER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",1252,"Sage, Master. William Henry",BROTHER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",1257,"Sage, Mrs. John (Annie Bullen)",MOTHER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",1080,"Sage, Miss. Ada",SISTER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",847,"Sage, Mr. Douglas Bullen",FATHER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",181,"Sage, Miss. Constance Gladys",SISTER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",160,"Sage, Master. Thomas Henry",BROTHER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",202,"Sage, Mr. Frederick",FATHER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",793,"Sage, Miss. Stella Anna",SISTER
+864,"Sage, Miss. Dorothy Edith ""Dolly""",325,"Sage, Mr. George John Jr",FATHER
+793,"Sage, Miss. Stella Anna",325,"Sage, Mr. George John Jr",FATHER
+793,"Sage, Miss. Stella Anna",202,"Sage, Mr. Frederick",FATHER
+793,"Sage, Miss. Stella Anna",160,"Sage, Master. Thomas Henry",BROTHER
+793,"Sage, Miss. Stella Anna",847,"Sage, Mr. Douglas Bullen",FATHER
+793,"Sage, Miss. Stella Anna",181,"Sage, Miss. Constance Gladys",SISTER
+793,"Sage, Miss. Stella Anna",325,"Sage, Mr. George John Jr",FATHER
+793,"Sage, Miss. Stella Anna",1080,"Sage, Miss. Ada",SISTER
+793,"Sage, Miss. Stella Anna",864,"Sage, Miss. Dorothy Edith ""Dolly""",SISTER
+793,"Sage, Miss. Stella Anna",1252,"Sage, Master. William Henry",BROTHER
+793,"Sage, Miss. Stella Anna",1257,"Sage, Mrs. John (Annie Bullen)",MOTHER
+847,"Sage, Mr. Douglas Bullen",181,"Sage, Miss. Constance Gladys",DAUGHTER
+847,"Sage, Mr. Douglas Bullen",325,"Sage, Mr. George John Jr",CONNECTED
+847,"Sage, Mr. Douglas Bullen",160,"Sage, Master. Thomas Henry",SON
+847,"Sage, Mr. Douglas Bullen",1252,"Sage, Master. William Henry",SON
+847,"Sage, Mr. Douglas Bullen",864,"Sage, Miss. Dorothy Edith ""Dolly""",DAUGHTER
+847,"Sage, Mr. Douglas Bullen",325,"Sage, Mr. George John Jr",CONNECTED
+847,"Sage, Mr. Douglas Bullen",202,"Sage, Mr. Frederick",CONNECTED
+847,"Sage, Mr. Douglas Bullen",1257,"Sage, Mrs. John (Annie Bullen)",WIFE
+847,"Sage, Mr. Douglas Bullen",793,"Sage, Miss. Stella Anna",DAUGHTER
+847,"Sage, Mr. Douglas Bullen",1080,"Sage, Miss. Ada",DAUGHTER
+202,"Sage, Mr. Frederick",777,"Tobin, Mr. Roger",CONNECTED
+202,"Sage, Mr. Frederick",917,"Robins, Mr. Alexander A",CONNECTED
+202,"Sage, Mr. Frederick",1008,"Thomas, Mr. John",CONNECTED
+202,"Sage, Mr. Frederick",758,"Bailey, Mr. Percy Andrew",CONNECTED
+202,"Sage, Mr. Frederick",412,"Hart, Mr. Henry",CONNECTED
+202,"Sage, Mr. Frederick",865,"Gill, Mr. John William",CONNECTED
+202,"Sage, Mr. Frederick",785,"Ali, Mr. William",CONNECTED
+202,"Sage, Mr. Frederick",1080,"Sage, Miss. Ada",DAUGHTER
+202,"Sage, Mr. Frederick",1252,"Sage, Master. William Henry",SON
+202,"Sage, Mr. Frederick",181,"Sage, Miss. Constance Gladys",DAUGHTER
+202,"Sage, Mr. Frederick",793,"Sage, Miss. Stella Anna",DAUGHTER
+202,"Sage, Mr. Frederick",1257,"Sage, Mrs. John (Annie Bullen)",WIFE
+202,"Sage, Mr. Frederick",325,"Sage, Mr. George John Jr",CONNECTED
+202,"Sage, Mr. Frederick",864,"Sage, Miss. Dorothy Edith ""Dolly""",DAUGHTER
+202,"Sage, Mr. Frederick",325,"Sage, Mr. George John Jr",CONNECTED
+202,"Sage, Mr. Frederick",847,"Sage, Mr. Douglas Bullen",CONNECTED
+202,"Sage, Mr. Frederick",160,"Sage, Master. Thomas Henry",SON
+325,"Sage, Mr. George John Jr",325,"Sage, Mr. George John Jr",CONNECTED
+325,"Sage, Mr. George John Jr",1080,"Sage, Miss. Ada",DAUGHTER
+325,"Sage, Mr. George John Jr",1252,"Sage, Master. William Henry",SON
+325,"Sage, Mr. George John Jr",864,"Sage, Miss. Dorothy Edith ""Dolly""",DAUGHTER
+325,"Sage, Mr. George John Jr",847,"Sage, Mr. Douglas Bullen",CONNECTED
+325,"Sage, Mr. George John Jr",793,"Sage, Miss. Stella Anna",DAUGHTER
+325,"Sage, Mr. George John Jr",181,"Sage, Miss. Constance Gladys",DAUGHTER
+325,"Sage, Mr. George John Jr",160,"Sage, Master. Thomas Henry",SON
+325,"Sage, Mr. George John Jr",1257,"Sage, Mrs. John (Annie Bullen)",WIFE
+325,"Sage, Mr. George John Jr",202,"Sage, Mr. Frederick",CONNECTED
+325,"Sage, Mr. George John Jr",325,"Sage, Mr. George John Jr",CONNECTED
+325,"Sage, Mr. George John Jr",181,"Sage, Miss. Constance Gladys",DAUGHTER
+325,"Sage, Mr. George John Jr",864,"Sage, Miss. Dorothy Edith ""Dolly""",DAUGHTER
+325,"Sage, Mr. George John Jr",1257,"Sage, Mrs. John (Annie Bullen)",WIFE
+325,"Sage, Mr. George John Jr",793,"Sage, Miss. Stella Anna",DAUGHTER
+325,"Sage, Mr. George John Jr",1252,"Sage, Master. William Henry",SON
+325,"Sage, Mr. George John Jr",1080,"Sage, Miss. Ada",DAUGHTER
+325,"Sage, Mr. George John Jr",202,"Sage, Mr. Frederick",CONNECTED
+325,"Sage, Mr. George John Jr",847,"Sage, Mr. Douglas Bullen",CONNECTED
+325,"Sage, Mr. George John Jr",160,"Sage, Master. Thomas Henry",SON
+1257,"Sage, Mrs. John (Annie Bullen)",1080,"Sage, Miss. Ada",DAUGHTER
+1257,"Sage, Mrs. John (Annie Bullen)",1252,"Sage, Master. William Henry",SON
+1257,"Sage, Mrs. John (Annie Bullen)",202,"Sage, Mr. Frederick",HUSBAND
+1257,"Sage, Mrs. John (Annie Bullen)",325,"Sage, Mr. George John Jr",HUSBAND
+1257,"Sage, Mrs. John (Annie Bullen)",160,"Sage, Master. Thomas Henry",SON
+1257,"Sage, Mrs. John (Annie Bullen)",793,"Sage, Miss. Stella Anna",DAUGHTER
+1257,"Sage, Mrs. John (Annie Bullen)",847,"Sage, Mr. Douglas Bullen",HUSBAND
+1257,"Sage, Mrs. John (Annie Bullen)",325,"Sage, Mr. George John Jr",HUSBAND
+1257,"Sage, Mrs. John (Annie Bullen)",864,"Sage, Miss. Dorothy Edith ""Dolly""",DAUGHTER
+1257,"Sage, Mrs. John (Annie Bullen)",181,"Sage, Miss. Constance Gladys",DAUGHTER
+642,"Sagesser, Mlle. Emma",370,"Aubart, Mme. Leontine Pauline",CONNECTED
+529,"Salonen, Mr. Johan Werner",964,"Nieminen, Miss. Manta Josefina",CONNECTED
+921,"Samaan, Mr. Elias",921,"Samaan, Mr. Elias",CONNECTED
+921,"Samaan, Mr. Elias",49,"Samaan, Mr. Youssef",CONNECTED
+921,"Samaan, Mr. Elias",49,"Samaan, Mr. Youssef",CONNECTED
+921,"Samaan, Mr. Elias",921,"Samaan, Mr. Elias",CONNECTED
+49,"Samaan, Mr. Youssef",921,"Samaan, Mr. Elias",CONNECTED
+49,"Samaan, Mr. Youssef",921,"Samaan, Mr. Elias",CONNECTED
+1009,"Sandstrom, Miss. Beatrice Irene",252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",CONNECTED
+1009,"Sandstrom, Miss. Beatrice Irene",395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",MOTHER
+1009,"Sandstrom, Miss. Beatrice Irene",206,"Strom, Miss. Telma Matilda",CONNECTED
+1009,"Sandstrom, Miss. Beatrice Irene",11,"Sandstrom, Miss. Marguerite Rut",SISTER
+11,"Sandstrom, Miss. Marguerite Rut",1009,"Sandstrom, Miss. Beatrice Irene",SISTER
+11,"Sandstrom, Miss. Marguerite Rut",206,"Strom, Miss. Telma Matilda",CONNECTED
+11,"Sandstrom, Miss. Marguerite Rut",395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",MOTHER
+11,"Sandstrom, Miss. Marguerite Rut",252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",CONNECTED
+395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",11,"Sandstrom, Miss. Marguerite Rut",DAUGHTER
+395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",CONNECTED
+395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",1009,"Sandstrom, Miss. Beatrice Irene",DAUGHTER
+395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",206,"Strom, Miss. Telma Matilda",CONNECTED
+1014,"Schabert, Mrs. Paul (Emma Mock)",926,"Mock, Mr. Philipp Edmund",CONNECTED
+843,"Serepeca, Miss. Augusta",764,"Carter, Mrs. William Ernest (Lucile Polk)",EMPLOYER
+843,"Serepeca, Miss. Augusta",271,"Cairns, Mr. Alexander",CONNECTED
+552,"Sharp, Mr. Percival James R",1035,"Beauchamp, Mr. Henry James",CONNECTED
+498,"Shellard, Mr. Frederick William",1120,"Everett, Mr. Thomas James",CONNECTED
+881,"Shelley, Mrs. William (Imanita Parrish Hall)",260,"Parrish, Mrs. (Lutie Davis)",CONNECTED
+610,"Shutes, Miss. Elizabeth W",269,"Graham, Mrs. William Thompson (Edith Junkins)",CONNECTED
+610,"Shutes, Miss. Elizabeth W",888,"Graham, Miss. Margaret Edith",CONNECTED
+610,"Shutes, Miss. Elizabeth W",333,"Graham, Mr. George Edward",SAME_TICKET
+702,"Silverthorne, Mr. Spencer Victor",708,"Calderhead, Mr. Edward Pennington",COMPANION
+702,"Silverthorne, Mr. Spencer Victor",1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",CONNECTED
+435,"Silvey, Mr. William Baird",578,"Silvey, Mrs. William Baird (Alice Munger)",WIFE
+578,"Silvey, Mrs. William Baird (Alice Munger)",435,"Silvey, Mr. William Baird",HUSBAND
+1068,"Sincock, Miss. Maude",550,"Davies, Master. John Morgan Jr",CONNECTED
+1068,"Sincock, Miss. Maude",1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",CONNECTED
+1068,"Sincock, Miss. Maude",146,"Nicholls, Mr. Joseph Charles",CONNECTED
+61,"Sirayanian, Mr. Orsen",1028,"Zakarian, Mr. Mapriededer",CONNECTED
+61,"Sirayanian, Mr. Orsen",1203,"Vartanian, Mr. David",CONNECTED
+61,"Sirayanian, Mr. Orsen",1063,"Zakarian, Mr. Ortin",CONNECTED
+61,"Sirayanian, Mr. Orsen",1213,"Krekorian, Mr. Neshan",CONNECTED
+562,"Sivic, Mr. Husein",871,"Balkic, Mr. Cerin",CONNECTED
+562,"Sivic, Mr. Husein",109,"Rekic, Mr. Tido",CONNECTED
+562,"Sivic, Mr. Husein",1101,"Delalic, Mr. Redjo",CONNECTED
+64,"Skoog, Master. Harald",168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",MOTHER
+64,"Skoog, Master. Harald",635,"Skoog, Miss. Mabel",SISTER
+64,"Skoog, Master. Harald",361,"Skoog, Mr. Wilhelm",FATHER
+64,"Skoog, Master. Harald",820,"Skoog, Master. Karl Thorsten",BROTHER
+64,"Skoog, Master. Harald",643,"Skoog, Miss. Margit Elizabeth",SISTER
+820,"Skoog, Master. Karl Thorsten",168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",MOTHER
+820,"Skoog, Master. Karl Thorsten",361,"Skoog, Mr. Wilhelm",FATHER
+820,"Skoog, Master. Karl Thorsten",64,"Skoog, Master. Harald",BROTHER
+820,"Skoog, Master. Karl Thorsten",635,"Skoog, Miss. Mabel",SISTER
+820,"Skoog, Master. Karl Thorsten",643,"Skoog, Miss. Margit Elizabeth",SISTER
+635,"Skoog, Miss. Mabel",643,"Skoog, Miss. Margit Elizabeth",SISTER
+635,"Skoog, Miss. Mabel",361,"Skoog, Mr. Wilhelm",FATHER
+635,"Skoog, Miss. Mabel",64,"Skoog, Master. Harald",BROTHER
+635,"Skoog, Miss. Mabel",168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",MOTHER
+635,"Skoog, Miss. Mabel",820,"Skoog, Master. Karl Thorsten",BROTHER
+643,"Skoog, Miss. Margit Elizabeth",361,"Skoog, Mr. Wilhelm",FATHER
+643,"Skoog, Miss. Margit Elizabeth",635,"Skoog, Miss. Mabel",SISTER
+643,"Skoog, Miss. Margit Elizabeth",168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",MOTHER
+643,"Skoog, Miss. Margit Elizabeth",64,"Skoog, Master. Harald",BROTHER
+643,"Skoog, Miss. Margit Elizabeth",820,"Skoog, Master. Karl Thorsten",BROTHER
+361,"Skoog, Mr. Wilhelm",64,"Skoog, Master. Harald",SON
+361,"Skoog, Mr. Wilhelm",808,"Pettersson, Miss. Ellen Natalia",NIECE
+361,"Skoog, Mr. Wilhelm",635,"Skoog, Miss. Mabel",DAUGHTER
+361,"Skoog, Mr. Wilhelm",820,"Skoog, Master. Karl Thorsten",SON
+361,"Skoog, Mr. Wilhelm",1304,"Henriksson, Miss. Jenny Lovisa",RELATIVE
+361,"Skoog, Mr. Wilhelm",643,"Skoog, Miss. Margit Elizabeth",DAUGHTER
+361,"Skoog, Mr. Wilhelm",168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",WIFE
+168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",820,"Skoog, Master. Karl Thorsten",SON
+168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",361,"Skoog, Mr. Wilhelm",HUSBAND
+168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",635,"Skoog, Miss. Mabel",DAUGHTER
+168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",643,"Skoog, Miss. Margit Elizabeth",DAUGHTER
+168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",64,"Skoog, Master. Harald",SON
+323,"Slayter, Miss. Hilda Mary",707,"Kelly, Mrs. Florence ""Fannie""",COMPANION
+942,"Smith, Mr. Lucien Philip",1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",WIFE
+1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",942,"Smith, Mr. Lucien Philip",HUSBAND
+1179,"Snyder, Mr. John Pillsbury",904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",WIFE
+904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",1179,"Snyder, Mr. John Pillsbury",HUSBAND
+716,"Soholt, Mr. Peter Andreas Lauritz Andersen",76,"Moen, Mr. Sigurd Hansen",SAME_CABIN
+1088,"Spedden, Master. Robert Douglas",338,"Burns, Miss. Elizabeth Margaret",CONNECTED
+1088,"Spedden, Master. Robert Douglas",320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",MOTHER
+1088,"Spedden, Master. Robert Douglas",1134,"Spedden, Mr. Frederic Oakley",FATHER
+1088,"Spedden, Master. Robert Douglas",1263,"Wilson, Miss. Helen Alice",MAID
+1134,"Spedden, Mr. Frederic Oakley",338,"Burns, Miss. Elizabeth Margaret",EMPLOYEE
+1134,"Spedden, Mr. Frederic Oakley",1088,"Spedden, Master. Robert Douglas",SON
+1134,"Spedden, Mr. Frederic Oakley",320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",WIFE
+1134,"Spedden, Mr. Frederic Oakley",1263,"Wilson, Miss. Helen Alice",EMPLOYEE
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1263,"Wilson, Miss. Helen Alice",MAID
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",338,"Burns, Miss. Elizabeth Margaret",EMPLOYEE
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1088,"Spedden, Master. Robert Douglas",SON
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1134,"Spedden, Mr. Frederic Oakley",HUSBAND
+1208,"Spencer, Mr. William Augustus",196,"Lurette, Miss. Elise",CONNECTED
+1208,"Spencer, Mr. William Augustus",32,"Spencer, Mrs. William Augustus (Marie Eugenie)",WIFE
+32,"Spencer, Mrs. William Augustus (Marie Eugenie)",196,"Lurette, Miss. Elise",CONNECTED
+32,"Spencer, Mrs. William Augustus (Marie Eugenie)",1208,"Spencer, Mr. William Augustus",HUSBAND
+495,"Stanley, Mr. Edward Roland",68,"Crease, Mr. Ernest James",IN-LAW
+1069,"Stengel, Mr. Charles Emil Henry",992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",WIFE
+992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",1069,"Stengel, Mr. Charles Emil Henry",HUSBAND
+592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",497,"Eustis, Miss. Elizabeth Mussey",SISTER
+830,"Stone, Mrs. George Nelson (Martha Evelyn)",62,"Icard, Miss. Amelie",MAID
+1044,"Storey, Mr. Thomas",180,"Leonard, Mr. Lionel",CONNECTED
+1044,"Storey, Mr. Thomas",598,"Johnson, Mr. Alfred",CONNECTED
+1044,"Storey, Mr. Thomas",440,"Kvillner, Mr. Johan Henrik Johannesson",CONNECTED
+1044,"Storey, Mr. Thomas",303,"Johnson, Mr. William Cahoone Jr",CONNECTED
+1044,"Storey, Mr. Thomas",1015,"Carver, Mr. Alfred John",CONNECTED
+567,"Stoytcheff, Mr. Ilia",664,"Coleff, Mr. Peju",CONNECTED
+567,"Stoytcheff, Mr. Ilia",754,"Jonkoff, Mr. Lalio",CONNECTED
+567,"Stoytcheff, Mr. Ilia",963,"Minkoff, Mr. Lazar",CONNECTED
+567,"Stoytcheff, Mr. Ilia",288,"Naidenoff, Mr. Penko",CONNECTED
+567,"Stoytcheff, Mr. Ilia",878,"Petroff, Mr. Nedelio",CONNECTED
+567,"Stoytcheff, Mr. Ilia",106,"Mionoff, Mr. Stoytcho",CONNECTED
+567,"Stoytcheff, Mr. Ilia",848,"Markoff, Mr. Marin",CONNECTED
+973,"Straus, Mr. Isidor",1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",WIFE
+973,"Straus, Mr. Isidor",1048,"Bird, Miss. Ellen",EMPLOYEE
+973,"Straus, Mr. Isidor",528,"Farthing, Mr. John",VALET
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",973,"Straus, Mr. Isidor",HUSBAND
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",1048,"Bird, Miss. Ellen",MAID
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",528,"Farthing, Mr. John",CONNECTED
+206,"Strom, Miss. Telma Matilda",1009,"Sandstrom, Miss. Beatrice Irene",CONNECTED
+206,"Strom, Miss. Telma Matilda",395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",CONNECTED
+206,"Strom, Miss. Telma Matilda",11,"Sandstrom, Miss. Marguerite Rut",CONNECTED
+206,"Strom, Miss. Telma Matilda",268,"Persson, Mr. Ernst Ulrik",UNCLE
+206,"Strom, Miss. Telma Matilda",252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",MOTHER
+252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",11,"Sandstrom, Miss. Marguerite Rut",CONNECTED
+252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",1009,"Sandstrom, Miss. Beatrice Irene",CONNECTED
+252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",268,"Persson, Mr. Ernst Ulrik",BROTHER
+252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",CONNECTED
+252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",206,"Strom, Miss. Telma Matilda",DAUGHTER
+1001,"Swane, Mr. George",709,"Cleaver, Miss. Alice",CONNECTED
+1001,"Swane, Mr. George",499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",EMPLOYER
+1001,"Swane, Mr. George",1198,"Allison, Mr. Hudson Joshua Creighton",EMPLOYER
+1001,"Swane, Mr. George",346,"Brown, Miss. Amelia ""Mildred""",CONNECTED
+1122,"Sweet, Mr. George Frederick",755,"Herman, Mrs. Samuel (Jane Laver)",CONNECTED
+1122,"Sweet, Mr. George Frederick",1277,"Herman, Miss. Kate",CONNECTED
+1122,"Sweet, Mr. George Frederick",1245,"Herman, Mr. Samuel",CONNECTED
+1122,"Sweet, Mr. George Frederick",616,"Herman, Miss. Alice",CONNECTED
+863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",797,"Leader, Dr. Alice (Farnham)",CONNECTED
+863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",458,"Kenyon, Mrs. Frederick R (Marion)",CONNECTED
+863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",1137,"Kenyon, Mr. Frederick R",CONNECTED
+586,"Taussig, Miss. Ruth",263,"Taussig, Mr. Emil",FATHER
+586,"Taussig, Miss. Ruth",559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",MOTHER
+263,"Taussig, Mr. Emil",559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",WIFE
+263,"Taussig, Mr. Emil",586,"Taussig, Miss. Ruth",DAUGHTER
+559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",586,"Taussig, Miss. Ruth",DAUGHTER
+559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",263,"Taussig, Mr. Emil",HUSBAND
+713,"Taylor, Mr. Elmer Zebley",670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",WIFE
+670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",713,"Taylor, Mr. Elmer Zebley",HUSBAND
+699,"Thayer, Mr. John Borland",699,"Thayer, Mr. John Borland",CONNECTED
+699,"Thayer, Mr. John Borland",307,"Fleming, Miss. Margaret",CONNECTED
+699,"Thayer, Mr. John Borland",582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",WIFE
+699,"Thayer, Mr. John Borland",582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",WIFE
+699,"Thayer, Mr. John Borland",307,"Fleming, Miss. Margaret",CONNECTED
+699,"Thayer, Mr. John Borland",699,"Thayer, Mr. John Borland",CONNECTED
+582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",699,"Thayer, Mr. John Borland",HUSBAND
+582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",307,"Fleming, Miss. Margaret",CONNECTED
+582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",699,"Thayer, Mr. John Borland",HUSBAND
+759,"Theobald, Mr. Thomas Leonard",166,"Goldsmith, Master. Frank John William ""Frankie""",CONNECTED
+759,"Theobald, Mr. Thomas Leonard",329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",CONNECTED
+759,"Theobald, Mr. Thomas Leonard",549,"Goldsmith, Mr. Frank John",CONNECTED
+804,"Thomas, Master. Assad Alexander",1224,"Thomas, Mr. Tannous",FATHER
+804,"Thomas, Master. Assad Alexander",1025,"Thomas, Mr. Charles P",FATHER
+1025,"Thomas, Mr. Charles P",804,"Thomas, Master. Assad Alexander",SON
+1025,"Thomas, Mr. Charles P",1224,"Thomas, Mr. Tannous",CONNECTED
+1008,"Thomas, Mr. John",412,"Hart, Mr. Henry",CONNECTED
+1008,"Thomas, Mr. John",917,"Robins, Mr. Alexander A",CONNECTED
+1008,"Thomas, Mr. John",777,"Tobin, Mr. Roger",CONNECTED
+1008,"Thomas, Mr. John",785,"Ali, Mr. William",CONNECTED
+1008,"Thomas, Mr. John",202,"Sage, Mr. Frederick",CONNECTED
+1008,"Thomas, Mr. John",865,"Gill, Mr. John William",CONNECTED
+1008,"Thomas, Mr. John",758,"Bailey, Mr. Percy Andrew",CONNECTED
+1224,"Thomas, Mr. Tannous",804,"Thomas, Master. Assad Alexander",SON
+1224,"Thomas, Mr. Tannous",1025,"Thomas, Mr. Charles P",CONNECTED
+257,"Thorne, Mrs. Gertrude Maybelle",1219,"Rosenshine, Mr. George (Mr George Thorne"")""",CONNECTED
+640,"Thorneycroft, Mr. Percival",985,"Guest, Mr. Robert",CONNECTED
+640,"Thorneycroft, Mr. Percival",432,"Thorneycroft, Mrs. Percival (Florence Kate White)",WIFE
+432,"Thorneycroft, Mrs. Percival (Florence Kate White)",640,"Thorneycroft, Mr. Percival",HUSBAND
+432,"Thorneycroft, Mrs. Percival (Florence Kate White)",985,"Guest, Mr. Robert",CONNECTED
+777,"Tobin, Mr. Roger",917,"Robins, Mr. Alexander A",CONNECTED
+777,"Tobin, Mr. Roger",785,"Ali, Mr. William",CONNECTED
+777,"Tobin, Mr. Roger",202,"Sage, Mr. Frederick",CONNECTED
+777,"Tobin, Mr. Roger",1008,"Thomas, Mr. John",CONNECTED
+777,"Tobin, Mr. Roger",412,"Hart, Mr. Henry",CONNECTED
+777,"Tobin, Mr. Roger",865,"Gill, Mr. John William",CONNECTED
+777,"Tobin, Mr. Roger",758,"Bailey, Mr. Percy Andrew",CONNECTED
+777,"Tobin, Mr. Roger",1196,"McCarthy, Miss. Catherine Katie""""",CONNECTED
+777,"Tobin, Mr. Roger",681,"Peters, Miss. Katie",CONNECTED
+777,"Tobin, Mr. Roger",388,"Buss, Miss. Kate",CONNECTED
+459,"Toomey, Miss. Ellen",191,"Pinsky, Mrs. (Rosa)",CONNECTED
+459,"Toomey, Miss. Ellen",1012,"Watt, Miss. Bertha J",COMPANION
+459,"Toomey, Miss. Ellen",162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",COMPANION
+272,"Tornquist, Mr. William Henry",598,"Johnson, Mr. Alfred",SAME_TICKET
+272,"Tornquist, Mr. William Henry",303,"Johnson, Mr. William Cahoone Jr",SAME_TICKET
+272,"Tornquist, Mr. William Henry",180,"Leonard, Mr. Lionel",SAME_TICKET
+1053,"Touma, Master. Georges Youssef",1175,"Touma, Miss. Maria Youssef",SISTER
+1053,"Touma, Master. Georges Youssef",256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",MOTHER
+1175,"Touma, Miss. Maria Youssef",256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",MOTHER
+1175,"Touma, Miss. Maria Youssef",1053,"Touma, Master. Georges Youssef",BROTHER
+256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",1175,"Touma, Miss. Maria Youssef",DAUGHTER
+256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",1053,"Touma, Master. Georges Youssef",SON
+718,"Troutt, Miss. Edwina Celia ""Winnie""",304,"Keane, Miss. Nora A",SAME_CABIN
+718,"Troutt, Miss. Edwina Celia ""Winnie""",124,"Webber, Miss. Susan",SAME_CABIN
+118,"Turpin, Mr. William John Robert",42,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",WIFE
+42,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",118,"Turpin, Mr. William John Robert",HUSBAND
+1236,"van Billiard, Master. James William",1084,"van Billiard, Master. Walter John",BROTHER
+1236,"van Billiard, Master. James William",154,"van Billiard, Mr. Austin Blyler",FATHER
+1084,"van Billiard, Master. Walter John",1236,"van Billiard, Master. James William",BROTHER
+1084,"van Billiard, Master. Walter John",154,"van Billiard, Mr. Austin Blyler",FATHER
+154,"van Billiard, Mr. Austin Blyler",1084,"van Billiard, Master. Walter John",SON
+154,"van Billiard, Mr. Austin Blyler",1236,"van Billiard, Master. James William",SON
+420,"Van Impe, Miss. Catharina",800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",MOTHER
+420,"Van Impe, Miss. Catharina",596,"Van Impe, Mr. Jean Baptiste",FATHER
+596,"Van Impe, Mr. Jean Baptiste",420,"Van Impe, Miss. Catharina",DAUGHTER
+596,"Van Impe, Mr. Jean Baptiste",800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",WIFE
+800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",420,"Van Impe, Miss. Catharina",DAUGHTER
+800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",596,"Van Impe, Mr. Jean Baptiste",HUSBAND
+201,"Vande Walle, Mr. Nestor Cyriel",1186,"Wittevrongel, Mr. Camille",CONNECTED
+201,"Vande Walle, Mr. Nestor Cyriel",442,"Hampe, Mr. Leon",CONNECTED
+39,"Vander Planke, Miss. Augusta Maria",334,"Vander Planke, Mr. Leo Edmondus",FATHER
+1037,"Vander Planke, Mr. Julius",19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",WIFE
+1037,"Vander Planke, Mr. Julius",334,"Vander Planke, Mr. Leo Edmondus",CONNECTED
+334,"Vander Planke, Mr. Leo Edmondus",19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",WIFE
+334,"Vander Planke, Mr. Leo Edmondus",1037,"Vander Planke, Mr. Julius",CONNECTED
+334,"Vander Planke, Mr. Leo Edmondus",39,"Vander Planke, Miss. Augusta Maria",DAUGHTER
+19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",1037,"Vander Planke, Mr. Julius",HUSBAND
+19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",334,"Vander Planke, Mr. Leo Edmondus",HUSBAND
+1203,"Vartanian, Mr. David",1028,"Zakarian, Mr. Mapriededer",CONNECTED
+1203,"Vartanian, Mr. David",1213,"Krekorian, Mr. Neshan",CONNECTED
+1203,"Vartanian, Mr. David",61,"Sirayanian, Mr. Orsen",CONNECTED
+1203,"Vartanian, Mr. David",1063,"Zakarian, Mr. Ortin",CONNECTED
+1081,"Veal, Mr. James",417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",CONNECTED
+1081,"Veal, Mr. James",1139,"Drew, Mr. James Vivian",CONNECTED
+1241,"Walcroft, Miss. Nellie",212,"Cameron, Miss. Clear Annie",CONNECTED
+259,"Ward, Miss. Anna",738,"Lesurer, Mr. Gustave J",CONNECTED
+259,"Ward, Miss. Anna",680,"Cardeza, Mr. Thomas Drake Martinez",EMPLOYER
+259,"Ward, Miss. Anna",1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",EMPLOYER
+1170,"Ware, Mr. John James",1254,"Ware, Mrs. John James (Florence Louise Long)",WIFE
+1254,"Ware, Mrs. John James (Florence Louise Long)",1170,"Ware, Mr. John James",HUSBAND
+1128,"Warren, Mr. Frank Manley",367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",WIFE
+367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",1128,"Warren, Mr. Frank Manley",HUSBAND
+675,"Watson, Mr. Ennis Hastings",467,"Campbell, Mr. William",CONNECTED
+675,"Watson, Mr. Ennis Hastings",807,"Andrews, Mr. Thomas Jr",CONNECTED
+675,"Watson, Mr. Ennis Hastings",278,"Parkes, Mr. Francis ""Frank""",CONNECTED
+675,"Watson, Mr. Ennis Hastings",482,"Frost, Mr. Anthony Wood ""Archie""",CONNECTED
+675,"Watson, Mr. Ennis Hastings",414,"Cunningham, Mr. Alfred Fleming",CONNECTED
+675,"Watson, Mr. Ennis Hastings",733,"Knight, Mr. Robert J",CONNECTED
+675,"Watson, Mr. Ennis Hastings",1158,"Chisholm, Mr. Roderick Robert Crispin",CONNECTED
+675,"Watson, Mr. Ennis Hastings",24,"Sloper, Mr. William Thompson",CONNECTED
+1012,"Watt, Miss. Bertha J",162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",MOTHER
+1012,"Watt, Miss. Bertha J",191,"Pinsky, Mrs. (Rosa)",COMPANION
+1012,"Watt, Miss. Bertha J",459,"Toomey, Miss. Ellen",COMPANION
+162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",1012,"Watt, Miss. Bertha J",DAUGHTER
+162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",191,"Pinsky, Mrs. (Rosa)",COMPANION
+162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",459,"Toomey, Miss. Ellen",COMPANION
+124,"Webber, Miss. Susan",1,"Braund, Mr. Owen Harris",CONNECTED
+124,"Webber, Miss. Susan",478,"Braund, Mr. Lewis Richard",CONNECTED
+124,"Webber, Miss. Susan",304,"Keane, Miss. Nora A",SAME_CABIN
+124,"Webber, Miss. Susan",718,"Troutt, Miss. Edwina Celia ""Winnie""",SAME_CABIN
+993,"Weisz, Mr. Leopold",134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",WIFE
+134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",993,"Weisz, Mr. Leopold",HUSBAND
+981,"Wells, Master. Ralph Lester",751,"Wells, Miss. Joan",SISTER
+981,"Wells, Master. Ralph Lester",1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",MOTHER
+751,"Wells, Miss. Joan",981,"Wells, Master. Ralph Lester",BROTHER
+751,"Wells, Miss. Joan",1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",MOTHER
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",981,"Wells, Master. Ralph Lester",SON
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",751,"Wells, Miss. Joan",DAUGHTER
+1146,"Wenzel, Mr. Linhart",354,"Arnold-Franchi, Mr. Josef",SHARED_CABIN
+1146,"Wenzel, Mr. Linhart",1286,"Kink-Heilmann, Mr. Anton",SHARED_CABIN
+1146,"Wenzel, Mr. Linhart",895,"Wirz, Mr. Albert",SHARED_CABIN
+1146,"Wenzel, Mr. Linhart",423,"Zimmerman, Mr. Leo",SHARED_CABIN
+1146,"Wenzel, Mr. Linhart",70,"Kink, Mr. Vincenz",SHARED_CABIN
+1142,"West, Miss. Barbara J",451,"West, Mr. Edwy Arthur",FATHER
+1142,"West, Miss. Barbara J",59,"West, Miss. Constance Mirium",SISTER
+1142,"West, Miss. Barbara J",473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",MOTHER
+59,"West, Miss. Constance Mirium",1142,"West, Miss. Barbara J",SISTER
+59,"West, Miss. Constance Mirium",473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",MOTHER
+59,"West, Miss. Constance Mirium",451,"West, Mr. Edwy Arthur",FATHER
+451,"West, Mr. Edwy Arthur",59,"West, Miss. Constance Mirium",DAUGHTER
+451,"West, Mr. Edwy Arthur",1142,"West, Miss. Barbara J",DAUGHTER
+451,"West, Mr. Edwy Arthur",473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",WIFE
+473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",59,"West, Miss. Constance Mirium",DAUGHTER
+473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",1142,"West, Miss. Barbara J",DAUGHTER
+473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",451,"West, Mr. Edwy Arthur",HUSBAND
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",569,"Doharr, Mr. Tannous",COUSIN
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",781,"Ayoub, Miss. Banoura",DISTANT_NIECE
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",569,"Doharr, Mr. Tannous",CONNECTED
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",569,"Doharr, Mr. Tannous",COUSIN
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",204,"Youseff, Mr. Gerious",COUSIN
+125,"White, Mr. Percival Wayland",103,"White, Mr. Richard Frasar",CONNECTED
+103,"White, Mr. Richard Frasar",125,"White, Mr. Percival Wayland",CONNECTED
+1206,"White, Mrs. John Stuart (Ella Holmes)",374,"Ringhini, Mr. Sante",CONNECTED
+1206,"White, Mrs. John Stuart (Ella Holmes)",326,"Young, Miss. Marie Grice",CONNECTED
+1206,"White, Mrs. John Stuart (Ella Holmes)",270,"Bissette, Miss. Amelia",CONNECTED
+319,"Wick, Miss. Mary Natalie",1292,"Bonnell, Miss. Caroline",CONNECTED
+319,"Wick, Miss. Mary Natalie",857,"Wick, Mrs. George Dennick (Mary Hitchcock)",MOTHER
+319,"Wick, Miss. Mary Natalie",1109,"Wick, Mr. George Dennick",FATHER
+1109,"Wick, Mr. George Dennick",1292,"Bonnell, Miss. Caroline",CONNECTED
+1109,"Wick, Mr. George Dennick",319,"Wick, Miss. Mary Natalie",DAUGHTER
+1109,"Wick, Mr. George Dennick",857,"Wick, Mrs. George Dennick (Mary Hitchcock)",WIFE
+857,"Wick, Mrs. George Dennick (Mary Hitchcock)",319,"Wick, Miss. Mary Natalie",DAUGHTER
+857,"Wick, Mrs. George Dennick (Mary Hitchcock)",1109,"Wick, Mr. George Dennick",HUSBAND
+857,"Wick, Mrs. George Dennick (Mary Hitchcock)",1292,"Bonnell, Miss. Caroline",CONNECTED
+1299,"Widener, Mr. George Dunton",967,"Keeping, Mr. Edwin",VALET
+1299,"Widener, Mr. George Dunton",966,"Geiger, Miss. Amalie",MAID
+1299,"Widener, Mr. George Dunton",1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",WIFE
+1299,"Widener, Mr. George Dunton",378,"Widener, Mr. Harry Elkins",SON
+378,"Widener, Mr. Harry Elkins",966,"Geiger, Miss. Amalie",MAID
+378,"Widener, Mr. Harry Elkins",1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",WIFE
+378,"Widener, Mr. Harry Elkins",1299,"Widener, Mr. George Dunton",FATHER
+378,"Widener, Mr. Harry Elkins",967,"Keeping, Mr. Edwin",VALET
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",967,"Keeping, Mr. Edwin",VALET
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",378,"Widener, Mr. Harry Elkins",HUSBAND
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",1299,"Widener, Mr. George Dunton",HUSBAND
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",966,"Geiger, Miss. Amalie",MAID
+893,"Wilkes, Mrs. James (Ellen Needs)",530,"Hocking, Mr. Richard George",NEPHEW
+893,"Wilkes, Mrs. James (Ellen Needs)",944,"Hocking, Miss. Ellen Nellie""""",NIECE
+893,"Wilkes, Mrs. James (Ellen Needs)",775,"Hocking, Mrs. Elizabeth (Eliza Needs)",SISTER
+893,"Wilkes, Mrs. James (Ellen Needs)",438,"Richards, Mrs. Sidney (Emily Hocking)",NIECE
+893,"Wilkes, Mrs. James (Ellen Needs)",408,"Richards, Master. William Rowe",GREAT-NEPHEW
+893,"Wilkes, Mrs. James (Ellen Needs)",832,"Richards, Master. George Sibley",GREAT-NEPHEW
+156,"Williams, Mr. Charles Duane",915,"Williams, Mr. Richard Norris II",SON
+305,"Williams, Mr. Howard Hugh ""Harry""",1047,"Duquemin, Mr. Joseph",CONNECTED
+736,"Williams, Mr. Leslie",625,"Bowen, Mr. David John ""Dai""",CONNECTED
+915,"Williams, Mr. Richard Norris II",156,"Williams, Mr. Charles Duane",FATHER
+1263,"Wilson, Miss. Helen Alice",320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",EMPLOYER
+1263,"Wilson, Miss. Helen Alice",338,"Burns, Miss. Elizabeth Margaret",CONNECTED
+1263,"Wilson, Miss. Helen Alice",1134,"Spedden, Mr. Frederic Oakley",EMPLOYER
+1263,"Wilson, Miss. Helen Alice",1088,"Spedden, Master. Robert Douglas",SON
+895,"Wirz, Mr. Albert",354,"Arnold-Franchi, Mr. Josef",SHARED_CABIN
+895,"Wirz, Mr. Albert",1146,"Wenzel, Mr. Linhart",SHARED_CABIN
+895,"Wirz, Mr. Albert",70,"Kink, Mr. Vincenz",SHARED_CABIN
+895,"Wirz, Mr. Albert",1286,"Kink-Heilmann, Mr. Anton",SHARED_CABIN
+895,"Wirz, Mr. Albert",423,"Zimmerman, Mr. Leo",SHARED_CABIN
+1186,"Wittevrongel, Mr. Camille",201,"Vande Walle, Mr. Nestor Cyriel",CONNECTED
+1186,"Wittevrongel, Mr. Camille",442,"Hampe, Mr. Leon",CONNECTED
+56,"Woolner, Mr. Hugh",431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",SAME_CABIN
+621,"Yasbeck, Mr. Antoni",831,"Yasbeck, Mrs. Antoni (Selini Alexander)",WIFE
+621,"Yasbeck, Mr. Antoni",1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",COMPANION
+831,"Yasbeck, Mrs. Antoni (Selini Alexander)",1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",SISTER
+831,"Yasbeck, Mrs. Antoni (Selini Alexander)",621,"Yasbeck, Mr. Antoni",HUSBAND
+326,"Young, Miss. Marie Grice",270,"Bissette, Miss. Amelia",CONNECTED
+326,"Young, Miss. Marie Grice",374,"Ringhini, Mr. Sante",CONNECTED
+326,"Young, Miss. Marie Grice",1206,"White, Mrs. John Stuart (Ella Holmes)",CONNECTED
+204,"Youseff, Mr. Gerious",1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",COUSIN
+204,"Youseff, Mr. Gerious",781,"Ayoub, Miss. Banoura",RELATIVE
+204,"Youseff, Mr. Gerious",569,"Doharr, Mr. Tannous",CONNECTED
+204,"Youseff, Mr. Gerious",569,"Doharr, Mr. Tannous",COUSIN
+355,"Yousif, Mr. Wazli",20,"Masselmani, Mrs. Fatima",COUSIN
+355,"Yousif, Mr. Wazli",1184,"Nasr, Mr. Mustafa",COUSIN
+496,"Yousseff, Mr. Gerious",115,"Attalah, Miss. Malake",SAME_TICKET
+200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",1265,"Harbeck, Mr. William H",COMPANION
+112,"Zabour, Miss. Hileni",241,"Zabour, Miss. Thamine",SISTER
+241,"Zabour, Miss. Thamine",112,"Zabour, Miss. Hileni",SISTER
+1028,"Zakarian, Mr. Mapriededer",1203,"Vartanian, Mr. David",CONNECTED
+1028,"Zakarian, Mr. Mapriededer",1213,"Krekorian, Mr. Neshan",CONNECTED
+1028,"Zakarian, Mr. Mapriededer",1063,"Zakarian, Mr. Ortin",CONNECTED
+1028,"Zakarian, Mr. Mapriededer",61,"Sirayanian, Mr. Orsen",CONNECTED
+1063,"Zakarian, Mr. Ortin",1213,"Krekorian, Mr. Neshan",CONNECTED
+1063,"Zakarian, Mr. Ortin",1028,"Zakarian, Mr. Mapriededer",CONNECTED
+1063,"Zakarian, Mr. Ortin",61,"Sirayanian, Mr. Orsen",CONNECTED
+1063,"Zakarian, Mr. Ortin",1203,"Vartanian, Mr. David",CONNECTED
+423,"Zimmerman, Mr. Leo",70,"Kink, Mr. Vincenz",SHARED_CABIN
+423,"Zimmerman, Mr. Leo",354,"Arnold-Franchi, Mr. Josef",SHARED_CABIN
+423,"Zimmerman, Mr. Leo",1146,"Wenzel, Mr. Linhart",SHARED_CABIN
+423,"Zimmerman, Mr. Leo",1286,"Kink-Heilmann, Mr. Anton",SHARED_CABIN
+423,"Zimmerman, Mr. Leo",895,"Wirz, Mr. Albert",SHARED_CABIN
