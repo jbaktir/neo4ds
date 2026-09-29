@@ -3,7 +3,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF.svg?logo=neo4j&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3-blue.svg)
 
 Jupyter notebooks for learning Neo4j graph data science with Python — from a first connection all the way to node embeddings and supervised classification on a graph.
 
